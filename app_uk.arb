@@ -1,21 +1,21 @@
 {
-  "scheduleTabNavTitle": "Розклад занять",
-  "universityTabNavTitle": "Мій Унверситет",
-  "digitalHubTabNavTitle": "Цифрові послуги",
+  "homePageActionMenu": "Меню користувача",
+  "homePageActionNotifications": "Сповіщення",
+  "homePageActionSearch": "Пошук",
 
-  "scheduleTabTitle": "Розклад",
-  "universityTabTitle": "Університет",
-  "digitalHubTabTitle": "Цифровий хаб",
-
-  "appBarActionMenu": "Меню користувача",
-  "appBarActionNotifications": "Сповіщення",
+  "homePageBottomNavBarSchedule": "Розклад занять",
+  "homePageBottomNavBarUniversity": "Мій Унверситет",
+  "homePageBottomNavBarDigitalHub": "Цифрові послуги",
+  "homePageTitleSchedule": "Розклад",
+  "homePageTitleUniversity": "Університет",
+  "homePageTitleDigitalHub": "Цифровий хаб",
 
   "userBottomSheetAnonymousWelcomeMessage": "Привітик, аноніме!",
   "userBottomSheetAvatarSemanticLabel": "Ваш аватар",
-  "userBottomSheetDonateAction": "Задонатити",
-  "userBottomSheetHelpAction": "Допомога",
-  "userBottomSheetProfileAction": "Мій профіль",
-  "userBottomSheetSettingsAction": "Налаштування",
+  "userBottomSheetActionDonate": "Задонатити",
+  "userBottomSheetActionHelp": "Допомога",
+  "userBottomSheetActionProfile": "Мій профіль",
+  "userBottomSheetActionSettings": "Налаштування",
 
   "avatarBottomSheetCaption": "Це твій унікальний аватар від Unisched",
   "avatarBottomSheetDescription": "Він створений нами на основі твоїх даних, за відкритим алгоритмом BoringAvatars™ Beam.",
@@ -25,7 +25,5 @@
   "avatarBottomSheetShareText": "Подивись на мій аватар в Unisched",
   "avatarBottomSheetDownloadAction": "Завантажити",
   "avatarBottomSheetDownloadActionSuccess": "Ура! Твій аватар вже в галереї",
-  "avatarBottomSheetDownloadActionError": "Неможливо завантажити аватар, зверніться до служби турботи",
-
-  "fabSearchActionTitle": "Пошук"
+  "avatarBottomSheetDownloadActionError": "Неможливо завантажити аватар, зверніться до служби турботи"
 }
