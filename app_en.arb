@@ -1,1 +1,26 @@
-{}
+{
+  "homePageActionMenu": "Main menu",
+  "homePageActionNotifications": "Notifications",
+  "homePageActionSearch": "Search",
+  "homePageBottomNavBarSchedule": "Study schedule",
+  "homePageBottomNavBarUniversity": "My University",
+  "homePageBottomNavBarDigitalHub": "Digital services",
+  "homePageTitleSchedule": "Schedule",
+  "homePageTitleUniversity": "University",
+  "homePageTitleDigitalHub": "Digital hub",
+  "userBottomSheetAnonymousWelcomeMessage": "Greetings, anonymous!",
+  "userBottomSheetAvatarSemanticLabel": "Your avatar",
+  "userBottomSheetActionDonate": "Donate",
+  "userBottomSheetActionHelp": "Get help",
+  "userBottomSheetActionProfile": "My profile",
+  "userBottomSheetActionSettings": "Settings",
+  "avatarBottomSheetCaption": "This is your unique avatar from Unisched",
+  "avatarBottomSheetShareAction": "Share",
+  "avatarBottomSheetShareActionError": "Unable to share avatar, please contact support",
+  "avatarBottomSheetShareTitle": "My avatar in Unisched",
+  "avatarBottomSheetShareText": "Look at my avatar in Unisched",
+  "avatarBottomSheetDownloadAction": "Download",
+  "avatarBottomSheetDownloadActionSuccess": "Hooray! Your avatar is now in the gallery",
+  "avatarBottomSheetDownloadActionError": "Unable to download avatar, please contact support",
+  "avatarBottomSheetDescription": "It was created by us based on your data, using the open BoringAvatars™ Beam algorithm."
+}
