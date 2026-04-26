@@ -2,21 +2,18 @@
   "homePageActionMenu": "Меню користувача",
   "homePageActionNotifications": "Сповіщення",
   "homePageActionSearch": "Пошук",
-
   "homePageBottomNavBarSchedule": "Розклад занять",
   "homePageBottomNavBarUniversity": "Мій Унверситет",
   "homePageBottomNavBarDigitalHub": "Цифрові послуги",
   "homePageTitleSchedule": "Розклад",
   "homePageTitleUniversity": "Університет",
   "homePageTitleDigitalHub": "Цифровий хаб",
-
   "userBottomSheetAnonymousWelcomeMessage": "Привітик, аноніме!",
   "userBottomSheetAvatarSemanticLabel": "Ваш аватар",
   "userBottomSheetActionDonate": "Задонатити",
   "userBottomSheetActionHelp": "Допомога",
   "userBottomSheetActionProfile": "Мій профіль",
   "userBottomSheetActionSettings": "Налаштування",
-
   "avatarBottomSheetCaption": "Це твій унікальний аватар від Unisched",
   "avatarBottomSheetDescription": "Він створений нами на основі твоїх даних, за відкритим алгоритмом BoringAvatars™ Beam.",
   "avatarBottomSheetShareAction": "Поділитися",
