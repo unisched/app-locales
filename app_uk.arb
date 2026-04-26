@@ -1,0 +1,31 @@
+{
+  "scheduleTabNavTitle": "Розклад занять",
+  "universityTabNavTitle": "Мій Унверситет",
+  "digitalHubTabNavTitle": "Цифрові послуги",
+
+  "scheduleTabTitle": "Розклад",
+  "universityTabTitle": "Університет",
+  "digitalHubTabTitle": "Цифровий хаб",
+
+  "appBarActionMenu": "Меню користувача",
+  "appBarActionNotifications": "Сповіщення",
+
+  "userBottomSheetAnonymousWelcomeMessage": "Привітик, аноніме!",
+  "userBottomSheetAvatarSemanticLabel": "Ваш аватар",
+  "userBottomSheetDonateAction": "Задонатити",
+  "userBottomSheetHelpAction": "Допомога",
+  "userBottomSheetProfileAction": "Мій профіль",
+  "userBottomSheetSettingsAction": "Налаштування",
+
+  "avatarBottomSheetCaption": "Це твій унікальний аватар від Unisched",
+  "avatarBottomSheetDescription": "Він створений нами на основі твоїх даних, за відкритим алгоритмом BoringAvatars™ Beam.",
+  "avatarBottomSheetShareAction": "Поділитися",
+  "avatarBottomSheetShareActionError": "Неможливо поділитися аватаром, зверніться до служби турботи",
+  "avatarBottomSheetShareTitle": "Мій аватар в Unisched",
+  "avatarBottomSheetShareText": "Подивись на мій аватар в Unisched",
+  "avatarBottomSheetDownloadAction": "Завантажити",
+  "avatarBottomSheetDownloadActionSuccess": "Ура! Твій аватар вже в галереї",
+  "avatarBottomSheetDownloadActionError": "Неможливо завантажити аватар, зверніться до служби турботи",
+
+  "fabSearchActionTitle": "Пошук"
+}
