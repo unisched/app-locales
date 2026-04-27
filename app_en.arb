@@ -59,5 +59,7 @@
   "helpPageEmergencyLinksMentalAid": "Psychological (self-)help",
   "helpPageSearchSectionInputHint": "Hey! Tell me how to…",
   "helpPageSupportLinks": "Help with Unisched",
-  "generalAiUsageWarning": "Artificial intelligence can make mistakes. It cannot provide first aid in emergency situations."
+  "generalAiUsageWarning": "Artificial intelligence can make mistakes. It cannot provide first aid in emergency situations.",
+  "settingsPageSectionAppearanceDefaultHomeTabDescription": "",
+  "settingsPageSectionServiceClearRequestCacheSuccess": ""
 }
