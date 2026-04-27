@@ -22,5 +22,19 @@
   "avatarBottomSheetDownloadAction": "Download",
   "avatarBottomSheetDownloadActionSuccess": "Hooray! Your avatar is now in the gallery",
   "avatarBottomSheetDownloadActionError": "Unable to download avatar, please contact support",
-  "avatarBottomSheetDescription": "It was created by us based on your data, using the open BoringAvatars™ Beam algorithm."
+  "avatarBottomSheetDescription": "It was created by us based on your data, using the open BoringAvatars™ Beam algorithm.",
+  "settingsPageTitle": "Settings",
+  "settingsPageSectionAppearance": "Appearance",
+  "settingsPageSectionAppearanceDynamicTheme": "Dynamic colors",
+  "settingsPageSectionAppearanceThemeModeSystem": "System theme",
+  "settingsPageSectionAppearanceThemeModeChoice": "Choose a theme",
+  "settingsPageSectionAppearanceThemeModeChoiceLight": "Light",
+  "settingsPageSectionAppearanceThemeModeChoiceDark": "Dark",
+  "settingsPageSectionAppearanceCompactMode": "Compact mode",
+  "settingsPageSectionAppearanceDefaultHomeTab": "Home page",
+  "settingsPageSectionService": "Advanced settings",
+  "settingsPageSectionServiceOpenSystemAppSettings": "System settings",
+  "settingsPageSectionServiceClearRequestCache": "Clear requests cache",
+  "settingsPageSectionServiceDialogActionContinue": "Continue",
+  "settingsPageSectionServiceDialogActionCancel": "Cancel"
 }
