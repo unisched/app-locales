@@ -53,5 +53,10 @@
   "helpPageEmergencyLinksMentalAid": "Psychologische (Selbst-)Hilfe",
   "helpPageLegalLinksTermsOfService": "Nutzungsbedingungen",
   "helpPageLegalLinksThirdPartyLicenses": "Lizenzen von Drittanbietern",
-  "settingsPageSectionAppearanceLanguageDescription": "Dank unserer Community wurde Unisched in mehrere Sprachen übersetzt"
+  "settingsPageSectionAppearanceLanguageDescription": "Dank unserer Community wurde Unisched in mehrere Sprachen übersetzt",
+  "avatarBottomSheetCaption": "",
+  "avatarBottomSheetDownloadActionError": "",
+  "avatarBottomSheetDownloadActionSuccess": "",
+  "avatarBottomSheetShareActionError": "",
+  "avatarBottomSheetShareTitle": ""
 }
