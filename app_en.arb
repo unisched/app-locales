@@ -63,5 +63,7 @@
   "settingsPageSectionAppearanceDefaultHomeTabDescription": "Select the tab to display by default when the app is opened",
   "settingsPageSectionServiceClearRequestCacheSuccess": "Request cache successfully cleared!",
   "helpPageSupportLinksContactSupport": "Customer care service",
-  "helpPageSearchSectionAiPrompt": "Answer the question simply, clearly and correctly in English:"
+  "helpPageSearchSectionAiPrompt": "Answer the question simply, clearly and correctly in English:",
+  "settingsPageSectionAppearanceThemeModeSystemDescription": "",
+  "settingsPageSectionAppearanceDynamicThemeDescription": ""
 }
