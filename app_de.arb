@@ -1,1 +1,11 @@
-{}
+{
+  "homePageActionMenu": "Benutzermenü",
+  "homePageActionNotifications": "Benachrichtigung",
+  "homePageActionSearch": "Suchen",
+  "homePageBottomNavBarSchedule": "Stundenplan",
+  "homePageBottomNavBarUniversity": "Meine Universität",
+  "homePageTitleSchedule": "Zeitplan",
+  "homePageTitleUniversity": "Universität",
+  "homePageTitleDigitalHub": "Digitaler Hub",
+  "settingsPageTitle": "Einstellungen"
+}
