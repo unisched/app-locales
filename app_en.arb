@@ -36,5 +36,10 @@
   "settingsPageSectionServiceOpenSystemAppSettings": "System settings",
   "settingsPageSectionServiceClearRequestCache": "Clear requests cache",
   "settingsPageSectionServiceDialogActionContinue": "Continue",
-  "settingsPageSectionServiceDialogActionCancel": "Cancel"
+  "settingsPageSectionServiceDialogActionCancel": "Cancel",
+  "helpPageLegalLinksTermsOfService": "Terms of Service",
+  "helpPageLegalLinksPrivacyPolicy": "Privacy Policy",
+  "dialogActionOkay": "OK",
+  "dialogActionCancel": "Cancel",
+  "dialogActionContinue": "Continue"
 }
