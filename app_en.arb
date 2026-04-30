@@ -41,5 +41,6 @@
   "helpPageLegalLinksPrivacyPolicy": "Privacy Policy",
   "dialogActionOkay": "OK",
   "dialogActionCancel": "Cancel",
-  "dialogActionContinue": "Continue"
+  "dialogActionContinue": "Continue",
+  "settingsPageSectionAppearanceLanguage": "App language"
 }
