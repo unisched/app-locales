@@ -27,5 +27,16 @@
   "settingsPageSectionAppearanceThemeModeChoiceDark": "",
   "userBottomSheetActionHelp": "",
   "settingsPageSectionAppearanceDefaultHomeTabDescription": "",
-  "settingsPageSectionServiceClearRequestCacheSuccess": ""
+  "settingsPageSectionServiceClearRequestCacheSuccess": "",
+  "dialogActionUnderstand": "Natürlich",
+  "dialogActionCancel": "Stornieren",
+  "dialogActionContinue": "Weitermachen",
+  "dialogActionOkay": "OK",
+  "helpPageTitle": "Hilfezentrum",
+  "helpPageSearchSectionSearchButton": "Frag einen KI-Assistenten",
+  "helpPageSupportLinksHelpCenter": "Hilfezentrum",
+  "helpPageSupportLinksWebsite": "Anwendungswebsite",
+  "helpPageSearchSectionInputHint": "Hallo! Können Sie mir bitte beibringen, wie man…",
+  "helpPageSupportLinks": "Hilfe bei der Anwendung",
+  "helpPageLegalLinks": "Rechtliche Informationen"
 }
