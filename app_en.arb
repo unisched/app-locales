@@ -42,5 +42,22 @@
   "dialogActionOkay": "OK",
   "dialogActionCancel": "Cancel",
   "dialogActionContinue": "Continue",
-  "settingsPageSectionAppearanceLanguage": "App language"
+  "settingsPageSectionAppearanceLanguage": "App language",
+  "dialogActionUnderstand": "I understand",
+  "helpPageTitle": "Help center",
+  "helpPageSearchSectionSearchButton": "Ask AI assistant",
+  "helpPageSupportLinksHelpCenter": "Documentation",
+  "helpPageLegalLinks": "Legal information",
+  "helpPageAppInfoDeviceId": "Device identifier",
+  "helpPageLegalLinksDataDeletion": "Data retention policy",
+  "helpPageAppInfo": "App information",
+  "helpPageAppInfoVersion": "App version",
+  "helpPageLegalLinksThirdPartyLicenses": "Third-party licenses",
+  "helpPageSupportLinksWebsite": "Official website",
+  "helpPageEmergencyLinks": "Emergency situations",
+  "helpPageEmergencyLinksFirstAid": "Call emergency services",
+  "helpPageEmergencyLinksMentalAid": "Psychological (self-)help",
+  "helpPageSearchSectionInputHint": "Hey! Tell me how to…",
+  "helpPageSupportLinks": "Help with Unisched",
+  "generalAiUsageWarning": "Artificial intelligence can make mistakes. It cannot provide first aid in emergency situations."
 }
