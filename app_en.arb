@@ -34,7 +34,7 @@
   "settingsPageSectionAppearanceDefaultHomeTab": "Home page",
   "settingsPageSectionService": "Advanced settings",
   "settingsPageSectionServiceOpenSystemAppSettings": "System settings",
-  "settingsPageSectionServiceClearRequestCache": "Clear requests cache",
+  "settingsPageSectionServiceClearRequestCache": "Clear request cache",
   "settingsPageSectionServiceDialogActionContinue": "Continue",
   "settingsPageSectionServiceDialogActionCancel": "Cancel",
   "helpPageLegalLinksTermsOfService": "Terms of Service",
@@ -43,7 +43,7 @@
   "dialogActionCancel": "Cancel",
   "dialogActionContinue": "Continue",
   "settingsPageSectionAppearanceLanguage": "App language",
-  "dialogActionUnderstand": "I understand",
+  "dialogActionUnderstand": "Got it",
   "helpPageTitle": "Help center",
   "helpPageSearchSectionSearchButton": "Ask AI assistant",
   "helpPageSupportLinksHelpCenter": "Documentation",
@@ -60,6 +60,6 @@
   "helpPageSearchSectionInputHint": "Hey! Tell me how to…",
   "helpPageSupportLinks": "Help with Unisched",
   "generalAiUsageWarning": "Artificial intelligence can make mistakes. It cannot provide first aid in emergency situations.",
-  "settingsPageSectionAppearanceDefaultHomeTabDescription": "",
-  "settingsPageSectionServiceClearRequestCacheSuccess": ""
+  "settingsPageSectionAppearanceDefaultHomeTabDescription": "Select the tab to display by default when the app is opened",
+  "settingsPageSectionServiceClearRequestCacheSuccess": "Request cache successfully cleared!"
 }
