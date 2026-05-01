@@ -47,7 +47,11 @@
   "helpPageAppInfo": "App-Informationen",
   "helpPageAppInfoVersion": "App-Version",
   "helpPageAppInfoDeviceId": "Gerät-ID",
-  "settingsPageSectionAppearanceThemeModeSystemDescription": "",
-  "settingsPageSectionAppearanceDynamicThemeDescription": "",
-  "userBottomSheetAnonymousWelcomeMessage": ""
+  "settingsPageSectionAppearanceThemeModeSystemDescription": "Automatisch zwischen dunklem und hellem Thema wechseln",
+  "settingsPageSectionAppearanceDynamicThemeDescription": "Füge die Farben deines Geräts zur App-Oberfläche hinzu",
+  "userBottomSheetAnonymousWelcomeMessage": "Hallo, Anonym!",
+  "helpPageEmergencyLinksMentalAid": "Psychologische (Selbst-)Hilfe",
+  "helpPageLegalLinksTermsOfService": "Nutzungsbedingungen",
+  "helpPageLegalLinksThirdPartyLicenses": "Lizenzen von Drittanbietern",
+  "settingsPageSectionAppearanceLanguageDescription": "Dank unserer Community wurde Unisched in mehrere Sprachen übersetzt"
 }
