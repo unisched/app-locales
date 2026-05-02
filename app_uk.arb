@@ -77,6 +77,27 @@
   "donationPageTabDetailsTitle": "Домівка",
   "donationPageTabDetailsHeader": "Підтримай ініціативу, зробивши власний внесок",
   "donationPageTabDetailsHeaderDescription": "Існує безліч способів, як ти можеш долучитися до розвитку Unisched. Зокрема, ти можеш допомогти з перекладом застосунку на свою рідну мову, або підтримати проєкт фінансово, покривши витрати на сервери та розробку. Кожен внесок, незалежно від його розміру, наближає нас до мети зробити Unisched безбар'єрним та зручним, для кожного!",
+  "donationPageTabDetailsInfoWebsite": "Більше можливостей",
+  "widgetMonojarAmountDonated": "Зібрано {amount} UAH",
+  "@widgetMonojarAmountDonated": { "placeholders": {
+    "amount": {
+      "type": "double",
+      "format": "decimalPattern",
+      "optionalParameters": {
+        "decimalDigits": 2
+      }
+    }
+  } },
+  "widgetMonojarNeedsToRaise": "{amount} UAH до мети",
+  "@widgetMonojarNeedsToRaise": { "placeholders": {
+    "amount": {
+      "type": "double",
+      "format": "decimalPattern",
+      "optionalParameters": {
+        "decimalDigits": 2
+      }
+    }
+  } },
   "userBottomSheetAnonymousWelcomeMessage": "Привітик, аноніме!",
   "userBottomSheetAvatarSemanticLabel": "Ваш аватар",
   "userBottomSheetActionDonate": "Задонатити",
