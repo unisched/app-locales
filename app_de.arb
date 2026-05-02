@@ -54,9 +54,10 @@
   "helpPageLegalLinksTermsOfService": "Nutzungsbedingungen",
   "helpPageLegalLinksThirdPartyLicenses": "Lizenzen von Drittanbietern",
   "settingsPageSectionAppearanceLanguageDescription": "Dank unserer Community wurde Unisched in mehrere Sprachen übersetzt",
-  "avatarBottomSheetCaption": "",
-  "avatarBottomSheetDownloadActionError": "",
-  "avatarBottomSheetDownloadActionSuccess": "",
-  "avatarBottomSheetShareActionError": "",
-  "avatarBottomSheetShareTitle": ""
+  "avatarBottomSheetCaption": "Das ist dein einzigartiges Profilbild von Unisched",
+  "avatarBottomSheetDownloadActionError": "Das Profilbild konnte nicht heruntergeladen werden, bitte wende dich an den Support",
+  "avatarBottomSheetDownloadActionSuccess": "Hurra! Dein Profilbild ist jetzt in der Galerie",
+  "avatarBottomSheetShareActionError": "Das Profilbild konnte nicht geteilt werden, bitte wende dich an den Support",
+  "avatarBottomSheetShareTitle": "Mein Profilbild bei Unisched",
+  "helpPageLegalLinksDataDeletion": "Richtlinie zur Datenlöschung"
 }
