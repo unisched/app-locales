@@ -70,7 +70,18 @@
   "settingsPageSectionServiceWipeAllDataConfirmation": "Ця дія видалить всі твої дані та налаштування з цього пристрою. Ми не зможемо відновити їх для тебе.\n\nВпевнений, що хочеш продовжити?",
   "donationPageTitle": "Підтримати ініціативу",
   "donationPageTabDonationTitle": "Фінансово",
-  "donationPageTabDonationMinSumErrorMessage": "Будь ласка, введіть суму більшу за 1 UAH",
+  "donationPageTabDonationMinSumErrorMessage": "Будь ласка, введіть суму більшу за {amount} UAH",
+  "@donationPageTabDonationMinSumErrorMessage": {
+    "placeholders": {
+      "amount": {
+        "type": "double",
+        "format": "decimalPattern",
+        "optionalParameters": {
+          "decimalDigits": 2
+        }
+      }
+    }
+  },
   "donationPageTabDonationRequestErrorMessage": "Помилка при створенні посилання для донату",
   "donationPageTabDonationConfirmButton": "Підтримати донатом",
   "donationPageTabTranslationTitle": "Перекладом",
@@ -104,7 +115,7 @@
   },
   "userBottomSheetAnonymousWelcomeMessage": "Привітик, аноніме!",
   "userBottomSheetAvatarSemanticLabel": "Ваш аватар",
-  "userBottomSheetActionDonate": "Задонатити",
+  "userBottomSheetActionDonate": "Підтримати",
   "userBottomSheetActionHelp": "Допомога",
   "userBottomSheetActionProfile": "Мій профіль",
   "userBottomSheetActionSettings": "Налаштування",
