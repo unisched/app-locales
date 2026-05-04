@@ -59,5 +59,10 @@
   "avatarBottomSheetDownloadActionSuccess": "Hurra! Dein Profilbild ist jetzt in der Galerie",
   "avatarBottomSheetShareActionError": "Das Profilbild konnte nicht geteilt werden, bitte wende dich an den Support",
   "avatarBottomSheetShareTitle": "Mein Profilbild bei Unisched",
-  "helpPageLegalLinksDataDeletion": "Richtlinie zur Datenlöschung"
+  "helpPageLegalLinksDataDeletion": "Richtlinie zur Datenlöschung",
+  "helpPageEmergencyLinksMentalAidDescription": "",
+  "donationPageTabDonationConfirmButton": "",
+  "donationPageTabDonationTitle": "",
+  "donationPageTabTranslationTitle": "",
+  "donationPageTabDetailsInfoWebsite": ""
 }
