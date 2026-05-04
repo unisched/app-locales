@@ -66,5 +66,10 @@
   "helpPageSearchSectionAiPrompt": "Answer the question simply, clearly and correctly in English:",
   "settingsPageSectionAppearanceThemeModeSystemDescription": "Switch automatically between dark and light theme",
   "settingsPageSectionAppearanceDynamicThemeDescription": "Add your device's colors to the app interface",
-  "settingsPageSectionAppearanceLanguageDescription": "Unisched has been translated into several languages thanks to our community"
+  "settingsPageSectionAppearanceLanguageDescription": "Unisched has been translated into several languages thanks to our community",
+  "helpPageEmergencyLinksMentalAidDescription": "",
+  "donationPageTabDonationConfirmButton": "",
+  "donationPageTabDonationTitle": "",
+  "donationPageTabTranslationTitle": "",
+  "donationPageTabDetailsInfoWebsite": ""
 }
