@@ -71,5 +71,12 @@
   "donationPageTabDonationConfirmButton": "",
   "donationPageTabDonationTitle": "",
   "donationPageTabTranslationTitle": "",
-  "donationPageTabDetailsInfoWebsite": ""
+  "donationPageTabDetailsInfoWebsite": "",
+  "helpPageSupportLinksHelpCenterDescription": "Find answers to frequently asked questions and useful tips for using Unisched",
+  "helpPageSupportLinksContactSupportDescription": "Contact support if you can't find the answer to your question",
+  "helpPageSupportLinksWebsiteDescription": "Check out the official Unisched website for the latest news, updates, and community",
+  "helpPageEmergencyLinksFirstAidDescription": "Urgently call 112 (free) while in Ukraine or use the national emergency app (created by MIA)",
+  "helpPageLegalLinksTermsOfServiceDescription": "The main document governing the use of the Unisched application",
+  "helpPageLegalLinksPrivacyPolicyDescription": "A document explaining how we collect, use and protect your data",
+  "helpPageLegalLinksDataDeletionDescription": "A document describing how you can delete your data from our systems"
 }
