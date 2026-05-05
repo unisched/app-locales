@@ -12,7 +12,7 @@
   "avatarBottomSheetShareText": "Schau dir mein Profilbild bei Unisched an",
   "settingsPageSectionAppearanceThemeModeChoiceLight": "Hell",
   "settingsPageSectionAppearanceThemeModeChoice": "Thema auswählen",
-  "userBottomSheetActionDonate": "Spenden",
+  "userBottomSheetActionDonate": "Das Projekt unterstützen",
   "userBottomSheetActionProfile": "Mein Profil",
   "avatarBottomSheetDownloadAction": "Herunterladen",
   "avatarBottomSheetShareAction": "Teilen",
@@ -60,9 +60,9 @@
   "avatarBottomSheetShareActionError": "Das Profilbild konnte nicht geteilt werden, bitte wende dich an den Support",
   "avatarBottomSheetShareTitle": "Mein Profilbild bei Unisched",
   "helpPageLegalLinksDataDeletion": "Richtlinie zur Datenlöschung",
-  "helpPageEmergencyLinksMentalAidDescription": "",
-  "donationPageTabDonationConfirmButton": "",
-  "donationPageTabDonationTitle": "",
-  "donationPageTabTranslationTitle": "",
-  "donationPageTabDetailsInfoWebsite": ""
+  "helpPageEmergencyLinksMentalAidDescription": "Lade die App \"Baza\" (База) der NGO \"PSR \"Vilnyy Vybir\" herunter, du bist nicht allein 🫂",
+  "donationPageTabDonationConfirmButton": "Mit einer Spende unterstützen",
+  "donationPageTabDonationTitle": "Mit einer Spende",
+  "donationPageTabTranslationTitle": "Beim Übersetzen helfen",
+  "donationPageTabDetailsInfoWebsite": "Mehr Optionen"
 }
