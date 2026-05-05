@@ -133,5 +133,24 @@
   "donationPageTabTranslationHeader": "Werde Teil der Unisched-Übersetzergemeinschaft",
   "donationPageTabTranslationLicenseNotice": "Das Unisched-Übersetzungsprojekt ist unter den Bedingungen der European Union Public License 1.2 lizenziert. Alle von der Community erstellten Übersetzungen sind Open Source und dürfen von jedem in eigenen Projekten verwendet werden.",
   "generalAiUsageWarning": "Künstliche Intelligenz kann Fehler machen. Sie kann im Notfall keine Erste Hilfe leisten.",
-  "userProfilePageCoreInfoSectionDeviceIdentifierHash": "Gerät-ID-Hash"
+  "userProfilePageCoreInfoSectionDeviceIdentifierHash": "Gerät-ID-Hash",
+  "donationPageTabDetailsHeaderDescription": "",
+  "helpPageEmergencyLinksFirstAidDescription": "",
+  "helpPageSupportLinksContactSupportDescription": "",
+  "helpPageLegalLinksTermsOfServiceDescription": "",
+  "helpPageLegalLinksPrivacyPolicyDescription": "",
+  "helpPageSupportLinksHelpCenterDescription": "",
+  "widgetMonojarNeedsToRaise": "",
+  "@widgetMonojarNeedsToRaise": {
+    "placeholders": {
+      "amount": {
+        "type": "double",
+        "format": "decimalPattern",
+        "optionalParameters": {
+          "decimalDigits": 2
+        }
+      }
+    }
+  },
+  "helpPageLegalLinksDataDeletionDescription": ""
 }
