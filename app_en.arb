@@ -78,5 +78,56 @@
   "helpPageEmergencyLinksFirstAidDescription": "Urgently call 112 (free) while in Ukraine or use the national emergency app (created by MIA)",
   "helpPageLegalLinksTermsOfServiceDescription": "The main document governing the use of the Unisched application",
   "helpPageLegalLinksPrivacyPolicyDescription": "A document explaining how we collect, use and protect your data",
-  "helpPageLegalLinksDataDeletionDescription": "A document describing how you can delete your data from our systems"
+  "helpPageLegalLinksDataDeletionDescription": "A document describing how you can delete your data from our systems",
+  "settingsPageSectionServiceWipeAllDataDescription": "",
+  "settingsPageSectionAppearanceCompactModeDescription": "",
+  "settingsPageSectionServiceOpenSystemAppSettingsDescription": "",
+  "settingsPageSectionServiceWipeAllDataConfirmation": "",
+  "settingsPageSectionServiceClearRequestCacheConfirmation": "",
+  "settingsPageSectionServiceClearRequestCacheDescription": "",
+  "settingsPageSectionServiceWipeAllData": "",
+  "donationPageTabDetailsHeaderDescription": "",
+  "donationPageTabDetailsHeader": "",
+  "donationPageTabDonationRequestErrorMessage": "",
+  "donationPageTabDetailsTitle": "",
+  "settingsPageSectionAppearanceLanguageNotAvailable": "",
+  "helpPageLegalLinksThirdPartyLicensesDescription": "",
+  "donationPageTitle": "",
+  "widgetMonojarNeedsToRaise": "",
+  "@widgetMonojarNeedsToRaise": {
+    "placeholders": {
+      "amount": {
+        "type": "double",
+        "format": "decimalPattern",
+        "optionalParameters": {
+          "decimalDigits": 2
+        }
+      }
+    }
+  },
+  "helpPageSearchSectionSuggestions": "",
+  "widgetMonojarAmountDonated": "",
+  "@widgetMonojarAmountDonated": {
+    "placeholders": {
+      "amount": {
+        "type": "double",
+        "format": "decimalPattern",
+        "optionalParameters": {
+          "decimalDigits": 2
+        }
+      }
+    }
+  },
+  "donationPageTabDonationMinSumErrorMessage": "",
+  "@donationPageTabDonationMinSumErrorMessage": {
+    "placeholders": {
+      "amount": {
+        "type": "double",
+        "format": "decimalPattern",
+        "optionalParameters": {
+          "decimalDigits": 2
+        }
+      }
+    }
+  }
 }
