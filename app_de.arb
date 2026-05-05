@@ -126,5 +126,6 @@
     }
   },
   "donationPageTabTranslationHeaderActionJoin": "Beitreten",
-  "donationPageTabTranslationHeaderActionContributors": "Mitwirkende"
+  "donationPageTabTranslationHeaderActionContributors": "Mitwirkende",
+  "helpPageSupportLinksWebsiteDescription": ""
 }
