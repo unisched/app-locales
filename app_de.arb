@@ -64,5 +64,44 @@
   "donationPageTabDonationConfirmButton": "Mit einer Spende unterstützen",
   "donationPageTabDonationTitle": "Mit einer Spende",
   "donationPageTabTranslationTitle": "Beim Übersetzen helfen",
-  "donationPageTabDetailsInfoWebsite": "Mehr Optionen"
+  "donationPageTabDetailsInfoWebsite": "Mehr Optionen",
+  "settingsPageSectionServiceWipeAllDataDescription": "",
+  "settingsPageSectionAppearanceCompactModeDescription": "",
+  "settingsPageSectionServiceOpenSystemAppSettingsDescription": "",
+  "settingsPageSectionServiceWipeAllDataConfirmation": "",
+  "settingsPageSectionServiceClearRequestCacheConfirmation": "",
+  "settingsPageSectionServiceClearRequestCacheDescription": "",
+  "settingsPageSectionServiceWipeAllData": "",
+  "helpPageEmergencyLinksFirstAid": "",
+  "helpPageSupportLinksContactSupport": "",
+  "donationPageTabDetailsHeader": "",
+  "donationPageTabDonationRequestErrorMessage": "",
+  "donationPageTabDetailsTitle": "",
+  "settingsPageSectionAppearanceLanguageNotAvailable": "",
+  "helpPageLegalLinksThirdPartyLicensesDescription": "",
+  "donationPageTitle": "",
+  "widgetMonojarAmountDonated": "",
+  "@widgetMonojarAmountDonated": {
+    "placeholders": {
+      "amount": {
+        "type": "double",
+        "format": "decimalPattern",
+        "optionalParameters": {
+          "decimalDigits": 2
+        }
+      }
+    }
+  },
+  "donationPageTabDonationMinSumErrorMessage": "",
+  "@donationPageTabDonationMinSumErrorMessage": {
+    "placeholders": {
+      "amount": {
+        "type": "double",
+        "format": "decimalPattern",
+        "optionalParameters": {
+          "decimalDigits": 2
+        }
+      }
+    }
+  }
 }
