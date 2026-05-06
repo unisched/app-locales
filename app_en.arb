@@ -59,7 +59,7 @@
   "helpPageEmergencyLinksMentalAid": "Psychological (self-)help",
   "helpPageSearchSectionInputHint": "Hey! Tell me how to…",
   "helpPageSupportLinks": "Help with Unisched",
-  "generalAiUsageWarning": "Artificial intelligence can make mistakes. It cannot provide first aid in emergency situations.",
+  "generalAiUsageWarning": "Artificial intelligence can make mistakes. It cannot provide first aid in case of emergency.",
   "settingsPageSectionAppearanceDefaultHomeTabDescription": "Select the tab to display by default when the app is opened",
   "settingsPageSectionServiceClearRequestCacheSuccess": "Request cache successfully cleared!",
   "helpPageSupportLinksContactSupport": "Customer care service",
@@ -79,21 +79,21 @@
   "helpPageLegalLinksTermsOfServiceDescription": "The main document governing the use of the Unisched application",
   "helpPageLegalLinksPrivacyPolicyDescription": "A document explaining how we collect, use and protect your data",
   "helpPageLegalLinksDataDeletionDescription": "A document describing how you can delete your data from our systems",
-  "settingsPageSectionServiceWipeAllDataDescription": "",
-  "settingsPageSectionAppearanceCompactModeDescription": "",
-  "settingsPageSectionServiceOpenSystemAppSettingsDescription": "",
-  "settingsPageSectionServiceWipeAllDataConfirmation": "",
-  "settingsPageSectionServiceClearRequestCacheConfirmation": "",
-  "settingsPageSectionServiceClearRequestCacheDescription": "",
-  "settingsPageSectionServiceWipeAllData": "",
-  "donationPageTabDetailsHeaderDescription": "",
-  "donationPageTabDetailsHeader": "",
-  "donationPageTabDonationRequestErrorMessage": "",
-  "donationPageTabDetailsTitle": "",
-  "settingsPageSectionAppearanceLanguageNotAvailable": "",
-  "helpPageLegalLinksThirdPartyLicensesDescription": "",
-  "donationPageTitle": "",
-  "widgetMonojarNeedsToRaise": "",
+  "settingsPageSectionServiceWipeAllDataDescription": "Delete all your data and settings from this device (except for data stored online)",
+  "settingsPageSectionAppearanceCompactModeDescription": "Allows you to reduce the size of some large UI elements",
+  "settingsPageSectionServiceOpenSystemAppSettingsDescription": "Quickly open the app's system settings if the support service recommends it",
+  "settingsPageSectionServiceWipeAllDataConfirmation": "This is going to delete all your data and settings from this device. We won't be able to restore them for you.\n\nAre you sure you want to continue?",
+  "settingsPageSectionServiceClearRequestCacheConfirmation": "This is going to delete all cached request data on your device.\n\nIf the network is currently unavailable, you'll temporarily lose access to most of the app's features.\n\nAre you sure you want to continue?",
+  "settingsPageSectionServiceClearRequestCacheDescription": "Use this if you see outdated information in the app",
+  "settingsPageSectionServiceWipeAllData": "Start from scratch",
+  "donationPageTabDetailsHeaderDescription": "There are many ways you can contribute to the development of Unisched. For example, you can help translate the app into your native language, or support the project financially to cover server and development costs. Every contribution, regardless of its size, brings us closer to our goal of making Unisched accessible and user-friendly for everyone!",
+  "donationPageTabDetailsHeader": "Support the initiative by contributing to the project",
+  "donationPageTabDonationRequestErrorMessage": "Error while creating donation link",
+  "donationPageTabDetailsTitle": "Home",
+  "settingsPageSectionAppearanceLanguageNotAvailable": "Change the language in your device settings to see Unisched in your native language",
+  "helpPageLegalLinksThirdPartyLicensesDescription": "Information about the licenses of free and open-source software and components",
+  "donationPageTitle": "Support the initiative",
+  "widgetMonojarNeedsToRaise": "{amount} UAH to the goal",
   "@widgetMonojarNeedsToRaise": {
     "placeholders": {
       "amount": {
@@ -106,7 +106,7 @@
     }
   },
   "helpPageSearchSectionSuggestions": "",
-  "widgetMonojarAmountDonated": "",
+  "widgetMonojarAmountDonated": "Saved {amount} UAH",
   "@widgetMonojarAmountDonated": {
     "placeholders": {
       "amount": {
@@ -118,7 +118,7 @@
       }
     }
   },
-  "donationPageTabDonationMinSumErrorMessage": "",
+  "donationPageTabDonationMinSumErrorMessage": "Please enter an amount greater than {amount} UAH",
   "@donationPageTabDonationMinSumErrorMessage": {
     "placeholders": {
       "amount": {
