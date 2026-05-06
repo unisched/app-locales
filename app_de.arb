@@ -65,22 +65,22 @@
   "donationPageTabDonationTitle": "Mit einer Spende",
   "donationPageTabTranslationTitle": "Beim Übersetzen helfen",
   "donationPageTabDetailsInfoWebsite": "Mehr Optionen",
-  "settingsPageSectionServiceWipeAllDataDescription": "",
-  "settingsPageSectionAppearanceCompactModeDescription": "",
-  "settingsPageSectionServiceOpenSystemAppSettingsDescription": "",
-  "settingsPageSectionServiceWipeAllDataConfirmation": "",
-  "settingsPageSectionServiceClearRequestCacheConfirmation": "",
-  "settingsPageSectionServiceClearRequestCacheDescription": "",
-  "settingsPageSectionServiceWipeAllData": "",
-  "helpPageEmergencyLinksFirstAid": "",
-  "helpPageSupportLinksContactSupport": "",
-  "donationPageTabDetailsHeader": "",
-  "donationPageTabDonationRequestErrorMessage": "",
-  "donationPageTabDetailsTitle": "",
-  "settingsPageSectionAppearanceLanguageNotAvailable": "",
-  "helpPageLegalLinksThirdPartyLicensesDescription": "",
-  "donationPageTitle": "",
-  "widgetMonojarAmountDonated": "",
+  "settingsPageSectionServiceWipeAllDataDescription": "Lösche alle deine Daten und Einstellungen von diesem Gerät (außer den online gespeicherten Daten)",
+  "settingsPageSectionAppearanceCompactModeDescription": "Damit kannst du einige große Elemente der Benutzeroberfläche verringern",
+  "settingsPageSectionServiceOpenSystemAppSettingsDescription": "Öffne schnell die Systemeinstellungen der App, wenn dies vom Kundendienst empfohlen wird",
+  "settingsPageSectionServiceWipeAllDataConfirmation": "Dies wird alle deine Daten und Einstellungen von diesem Gerät löschen. Wir können sie nicht für dich wiederherstellen.\n\nMöchtest du wirklich fortfahren?",
+  "settingsPageSectionServiceClearRequestCacheConfirmation": "Dies wird alle zwischengespeicherten Anfragedaten auf deinem Gerät löschen.\n\nWenn derzeit keine Internetverbindung besteht, kannst du vorübergehend nicht auf die meisten Funktionen der App zugreifen.\n\nMöchtest du wirklich fortfahren?",
+  "settingsPageSectionServiceClearRequestCacheDescription": "Verwende diese Funktion, wenn in der App veraltete Informationen angezeigt werden",
+  "settingsPageSectionServiceWipeAllData": "Von vorne anfangen",
+  "helpPageEmergencyLinksFirstAid": "Den Rettungsdienst anrufen",
+  "helpPageSupportLinksContactSupport": "Kundendienst",
+  "donationPageTabDetailsHeader": "Unterstütze die Initiative, indem du zum Projekt beiträgst",
+  "donationPageTabDonationRequestErrorMessage": "Fehler beim Erstellen des Spendenlinks",
+  "donationPageTabDetailsTitle": "Startseite",
+  "settingsPageSectionAppearanceLanguageNotAvailable": "Ändere die Sprache in den Geräteeinstellungen, um Unisched in deiner Muttersprache anzuzeigen",
+  "helpPageLegalLinksThirdPartyLicensesDescription": "Informationen zu Lizenzen für freie und quelloffene Software sowie für Komponenten",
+  "donationPageTitle": "Die Initiative unterstützen",
+  "widgetMonojarAmountDonated": "Gespart {amount} UAH",
   "@widgetMonojarAmountDonated": {
     "placeholders": {
       "amount": {
@@ -92,7 +92,7 @@
       }
     }
   },
-  "donationPageTabDonationMinSumErrorMessage": "",
+  "donationPageTabDonationMinSumErrorMessage": "Bitte gib einen Betrag über {amount} UAH ein",
   "@donationPageTabDonationMinSumErrorMessage": {
     "placeholders": {
       "amount": {
