@@ -105,7 +105,7 @@
       }
     }
   },
-  "helpPageSearchSectionSuggestions": "",
+  "helpPageSearchSectionSuggestions": "Hide classes;How to hide classes in the app?\nShare schedule;How to share schedule with others?\nUse search;How to find the schedule of my teachers, friends and the necessary rooms?\nGet class location;How to see where the class will be?",
   "widgetMonojarAmountDonated": "Saved {amount} UAH",
   "@widgetMonojarAmountDonated": {
     "placeholders": {
