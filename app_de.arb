@@ -106,5 +106,25 @@
   },
   "avatarBottomSheetDescription": "Wir haben es auf der Grundlage deiner Daten und unter Verwendung des offenen Algorithmus BoringAvatars™ Beam erstellt.",
   "helpPageSearchSectionAiPrompt": "Beantworte die Frage einfach, klar und korrekt auf Deutsch:",
-  "helpPageSearchSectionSuggestions": "Kurse ausblenden kann;Wie kann ich Kurse in der App ausblenden?\nseinen Stundenplan teilen kann;Wie kann ich meinen Stundenplan mit anderen teilen?\ndie Suche nutzen kann;Wie finde ich den Stundenplan meiner Lehrer, Freunde und die benötigten Räume?\nden Kursort herausfinden kann?;Wie kann ich sehen, wo der Kurs stattfindet?"
+  "helpPageSearchSectionSuggestions": "Kurse ausblenden kann;Wie kann ich Kurse in der App ausblenden?\nseinen Stundenplan teilen kann;Wie kann ich meinen Stundenplan mit anderen teilen?\ndie Suche nutzen kann;Wie finde ich den Stundenplan meiner Lehrer, Freunde und die benötigten Räume?\nden Kursort herausfinden kann?;Wie kann ich sehen, wo der Kurs stattfindet?",
+  "donationPageTabTranslationLanguagesListSubtitle": "Übersetzt {translated} von {total} ({percentage})",
+  "@donationPageTabTranslationLanguagesListSubtitle": {
+    "placeholders": {
+      "translated": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      },
+      "percentage": {
+        "type": "double",
+        "format": "percentPattern",
+        "optionalParameters": {
+          "decimalDigits": 2
+        }
+      }
+    }
+  },
+  "donationPageTabTranslationHeaderActionJoin": "Beitreten",
+  "donationPageTabTranslationHeaderActionContributors": "Mitwirkende"
 }
