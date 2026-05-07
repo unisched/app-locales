@@ -129,5 +129,25 @@
         }
       }
     }
-  }
+  },
+  "donationPageTabTranslationLanguagesListSubtitle": "Translated {translated} of {total} ({percentage})",
+  "@donationPageTabTranslationLanguagesListSubtitle": {
+    "placeholders": {
+      "translated": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      },
+      "percentage": {
+        "type": "double",
+        "format": "percentPattern",
+        "optionalParameters": {
+          "decimalDigits": 2
+        }
+      }
+    }
+  },
+  "donationPageTabTranslationHeaderActionJoin": "Join",
+  "donationPageTabTranslationHeaderActionContributors": "Contributors"
 }
