@@ -85,6 +85,29 @@
   "donationPageTabDonationRequestErrorMessage": "Помилка при створенні посилання для донату",
   "donationPageTabDonationConfirmButton": "Підтримати донатом",
   "donationPageTabTranslationTitle": "Перекладом",
+  "donationPageTabTranslationHeader": "Долучайся до спільноти перекладачів Unisched",
+  "donationPageTabTranslationHeaderDescription": "Допоможи зробити Unisched безбар'єрним для студентів та викладачів з інших держав, які проходять стажування чи навчаються в Україні",
+  "donationPageTabTranslationHeaderActionJoin": "Долучитися",
+  "donationPageTabTranslationHeaderActionContributors": "Учасники",
+  "donationPageTabTranslationLanguagesListSubtitle": "Перекладено {translated} з {total} ({percentage})",
+  "@donationPageTabTranslationLanguagesListSubtitle": {
+    "placeholders": {
+      "translated": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      },
+      "percentage": {
+        "type": "double",
+        "format": "percentPattern",
+        "optionalParameters": {
+          "decimalDigits": 2
+        }
+      }
+    }
+  },
+  "donationPageTabTranslationLicenseNotice": "Проєкт перекладу Unisched ліцензовано на умовах European Union Public License 1.2. Всі переклади, зроблені спільнотою, є відкритими та можуть використовуватися будь-ким у власних проєктах.",
   "donationPageTabDetailsTitle": "Домівка",
   "donationPageTabDetailsHeader": "Підтримай ініціативу, зробивши власний внесок",
   "donationPageTabDetailsHeaderDescription": "Існує безліч способів, як ти можеш долучитися до розвитку Unisched. Зокрема, ти можеш допомогти з перекладом застосунку на свою рідну мову, або підтримати проєкт фінансово, покривши витрати на сервери та розробку. Кожен внесок, незалежно від його розміру, наближає нас до мети зробити Unisched безбар'єрним та зручним, для кожного!",
