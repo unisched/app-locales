@@ -136,6 +136,8 @@
       }
     }
   },
+  "appUpgradeModalTitle": "Нова версія Unisched",
+  "appUpgradeModalMessage": "Онови застосунок зараз, щоб отримати доступ до нових функцій, покращень та виправлень помилок.",
   "userBottomSheetAnonymousWelcomeMessage": "Привітик, аноніме!",
   "userBottomSheetAvatarSemanticLabel": "Ваш аватар",
   "userBottomSheetActionDonate": "Підтримати",
