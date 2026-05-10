@@ -149,5 +149,10 @@
     }
   },
   "donationPageTabTranslationHeaderActionJoin": "Join",
-  "donationPageTabTranslationHeaderActionContributors": "Contributors"
+  "donationPageTabTranslationHeaderActionContributors": "Contributors",
+  "appUpgradeModalTitle": "New version of Unisched",
+  "appUpgradeModalMessage": "Update the app now to access new features, improvements, and bug fixes.",
+  "donationPageTabTranslationHeader": "Join the Unisched translator community",
+  "donationPageTabTranslationLicenseNotice": "The Unisched translation project is licensed under the terms of the European Union Public License 1.2. All translations created by the community are open-source and may be used by anyone in their own projects.",
+  "donationPageTabTranslationHeaderDescription": "Help make Unisched accessible to students and teachers from other countries who are doing internships or studying in Ukraine"
 }
