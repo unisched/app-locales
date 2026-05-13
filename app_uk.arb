@@ -1,9 +1,19 @@
 {
   "generalAiUsageWarning": "Штучний інтелект може робити помилки. Він не вміє надавати першу допомогу за екстрених ситуацій.",
+  "generalBooleanYesOrNo": "{value, select, true{Так} false{Ні} other{Невідомо}}",
+  "@generalBooleanYesOrNo": {
+    "placeholders": {
+      "value": {
+        "type": "String"
+      }
+    }
+  },
   "dialogActionUnderstand": "Зрозуміло",
   "dialogActionCancel": "Скасувати",
   "dialogActionContinue": "Продовжити",
   "dialogActionOkay": "ОК",
+  "componentLandingComingSoonCardTitle": "Скоро тут буде дещо цікаве",
+  "componentLandingComingSoonCardSubtitle": "А поки — слідкуй за нами в соцмережах:",
   "homePageActionMenu": "Меню користувача",
   "homePageActionNotifications": "Сповіщення",
   "homePageActionSearch": "Пошук",
@@ -112,6 +122,14 @@
   "donationPageTabDetailsHeader": "Підтримай ініціативу, зробивши власний внесок",
   "donationPageTabDetailsHeaderDescription": "Існує безліч способів, як ти можеш долучитися до розвитку Unisched. Зокрема, ти можеш допомогти з перекладом застосунку на свою рідну мову, або підтримати проєкт фінансово, покривши витрати на сервери та розробку. Кожен внесок, незалежно від його розміру, наближає нас до мети зробити Unisched безбар'єрним та зручним, для кожного!",
   "donationPageTabDetailsInfoWebsite": "Більше можливостей",
+  "userProfilePageTitle": "Твій профіль",
+  "userProfilePageCoreInfoSectionKeyRingInfoTitle": "Інформація про сховище ключів",
+  "userProfilePageCoreInfoSectionKeyRingInfoKeyCreated": "Ключ створено",
+  "userProfilePageCoreInfoSectionKeyRingInfoKeyValidated": "Ключ є чинним",
+  "userProfilePageCoreInfoSectionKeyRingInfoKeyHybrid": "Гібридний режим",
+  "userProfilePageCoreInfoSectionDeviceInfoTitle": "Інформація про пристрій",
+  "userProfilePageCoreInfoSectionDeviceIdentifier": "Ідентифікатор пристрою",
+  "userProfilePageCoreInfoSectionDeviceIdentifierHash": "Хеш пристрою",
   "widgetMonojarAmountDonated": "Зібрано {amount} UAH",
   "@widgetMonojarAmountDonated": {
     "placeholders": {
@@ -152,5 +170,6 @@
   "avatarBottomSheetShareText": "Подивись на мій аватар в Unisched",
   "avatarBottomSheetDownloadAction": "Завантажити",
   "avatarBottomSheetDownloadActionSuccess": "Ура! Твій аватар вже в галереї",
-  "avatarBottomSheetDownloadActionError": "Неможливо завантажити аватар, зверніться до служби турботи"
+  "avatarBottomSheetDownloadActionError": "Неможливо завантажити аватар, зверніться до служби турботи",
+  "biometricShieldServiceSimpleAuthPrompt": "Підтверди свою особу, щоб розблокувати застосунок"
 }
