@@ -72,7 +72,7 @@
   "donationPageTabDonationTitle": "With a donation",
   "donationPageTabTranslationTitle": "Help with translating",
   "donationPageTabDetailsInfoWebsite": "More options",
-  "helpPageSupportLinksHelpCenterDescription": "Find answers to frequently asked questions and useful tips for using Unisched",
+  "helpPageSupportLinksHelpCenterDescription": "Find answers to frequently asked questions and useful tips on using Unisched",
   "helpPageSupportLinksContactSupportDescription": "Contact support if you can't find the answer to your question",
   "helpPageSupportLinksWebsiteDescription": "Check out the official Unisched website for the latest news, updates, and community",
   "helpPageEmergencyLinksFirstAidDescription": "Urgently call 112 (free) while in Ukraine or use the national emergency app (created by MIA)",
@@ -154,5 +154,6 @@
   "appUpgradeModalMessage": "Update the app now to access new features, improvements, and bug fixes.",
   "donationPageTabTranslationHeader": "Join the Unisched translator community",
   "donationPageTabTranslationLicenseNotice": "The Unisched translation project is licensed under the terms of the European Union Public License 1.2. All translations created by the community are open-source and may be used by anyone in their own projects.",
-  "donationPageTabTranslationHeaderDescription": "Help make Unisched accessible to students and teachers from other countries who are doing internships or studying in Ukraine"
+  "donationPageTabTranslationHeaderDescription": "Help make Unisched accessible to students and teachers from other countries who are doing internships or studying in Ukraine",
+  "userProfilePageCoreInfoSectionDeviceIdentifierHash": "Device ID hash"
 }
