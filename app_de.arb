@@ -33,7 +33,7 @@
   "dialogActionContinue": "Fortfahren",
   "dialogActionOkay": "OK",
   "helpPageTitle": "Hilfezentrum",
-  "helpPageSearchSectionSearchButton": "Frag einen KI-Assistenten",
+  "helpPageSearchSectionSearchButton": "KI-Assistenten fragen",
   "helpPageSupportLinksHelpCenter": "Hilfezentrum",
   "helpPageSupportLinksWebsite": "Anwendungswebsite",
   "helpPageSearchSectionInputHint": "Hallo! Sag mir bitte, wie man…",
@@ -134,13 +134,13 @@
   "donationPageTabTranslationLicenseNotice": "Das Unisched-Übersetzungsprojekt ist unter den Bedingungen der European Union Public License 1.2 lizenziert. Alle von der Community erstellten Übersetzungen sind Open Source und dürfen von jedem in eigenen Projekten verwendet werden.",
   "generalAiUsageWarning": "Künstliche Intelligenz kann Fehler machen. Sie kann im Notfall keine Erste Hilfe leisten.",
   "userProfilePageCoreInfoSectionDeviceIdentifierHash": "Gerät-ID-Hash",
-  "donationPageTabDetailsHeaderDescription": "",
-  "helpPageEmergencyLinksFirstAidDescription": "",
-  "helpPageSupportLinksContactSupportDescription": "",
-  "helpPageLegalLinksTermsOfServiceDescription": "",
-  "helpPageLegalLinksPrivacyPolicyDescription": "",
-  "helpPageSupportLinksHelpCenterDescription": "",
-  "widgetMonojarNeedsToRaise": "",
+  "donationPageTabDetailsHeaderDescription": "Es gibt mehrere Wege, wie du zur Weiterentwicklung von Unisched beitragen kannst. Du kannst beispielsweise dabei helfen, die App in deine Muttersprache zu übersetzen, oder das Projekt finanziell unterstützen, um die Server- und Entwicklungskosten zu decken. Jeder Beitrag, egal wie klein, bringt uns unserem Ziel näher, Unisched barrierefrei und benutzerfreundlich für alle zu machen!",
+  "helpPageEmergencyLinksFirstAidDescription": "Ruf in der Ukraine dringend die 112 an (kostenlos) oder nutze die nationale Notruf-App (entwickelt vom Innenministerium)",
+  "helpPageSupportLinksContactSupportDescription": "Wende dich an den Support, wenn du keine Antwort auf deine Frage findest",
+  "helpPageLegalLinksTermsOfServiceDescription": "Das wichtigste Dokument zur Regelung der Nutzung der Unisched-App",
+  "helpPageLegalLinksPrivacyPolicyDescription": "In diesem Dokument wird erläutert, wie wir deine Daten erheben, verwenden und schützen",
+  "helpPageSupportLinksHelpCenterDescription": "Hier findest du Antworten auf häufige Fragen und nützliche Tipps zur Verwendung von Unisched",
+  "widgetMonojarNeedsToRaise": "{amount} UAH bis zum Ziel",
   "@widgetMonojarNeedsToRaise": {
     "placeholders": {
       "amount": {
@@ -152,5 +152,22 @@
       }
     }
   },
-  "helpPageLegalLinksDataDeletionDescription": ""
+  "helpPageLegalLinksDataDeletionDescription": "In diesem Dokument wird beschrieben, wie du deine Daten aus unseren Systemen löschen kannst",
+  "generalBooleanYesOrNo": "{value, select, true{Ja} false{Nein} other{Unbekannt}}",
+  "@generalBooleanYesOrNo": {
+    "placeholders": {
+      "value": {
+        "type": "String"
+      }
+    }
+  },
+  "componentLandingComingSoonCardTitle": "Bald gibt es hier etwas Interessantes",
+  "userProfilePageCoreInfoSectionDeviceIdentifier": "Gerät-ID",
+  "userProfilePageTitle": "Dein Profil",
+  "userProfilePageCoreInfoSectionKeyRingInfoKeyHybrid": "Hybridmodus",
+  "userProfilePageCoreInfoSectionDeviceInfoTitle": "Geräteinformationen",
+  "biometricShieldServiceSimpleAuthPrompt": "Bestätige deine Identität, um die App zu entsperren",
+  "componentLandingComingSoonCardSubtitle": "Bis dahin – folge uns in den sozialen Medien:",
+  "userProfilePageCoreInfoSectionKeyRingInfoTitle": "Informationen über den Schlüsselspeicher",
+  "donationPageTabTranslationHeaderDescription": "Hilf mit, Unisched für Studierende und Lehrende aus anderen Ländern barrierefrei zu gestalten, die in der Ukraine ein Praktikum absolvieren oder studieren"
 }
