@@ -169,5 +169,7 @@
   "biometricShieldServiceSimpleAuthPrompt": "Bestätige deine Identität, um die App zu entsperren",
   "componentLandingComingSoonCardSubtitle": "Bis dahin – folge uns in den sozialen Medien:",
   "userProfilePageCoreInfoSectionKeyRingInfoTitle": "Informationen über den Schlüsselspeicher",
-  "donationPageTabTranslationHeaderDescription": "Hilf mit, Unisched für Studierende und Lehrende aus anderen Ländern barrierefrei zu gestalten, die in der Ukraine ein Praktikum absolvieren oder studieren"
+  "donationPageTabTranslationHeaderDescription": "Hilf mit, Unisched für Studierende und Lehrende aus anderen Ländern barrierefrei zu gestalten, die in der Ukraine ein Praktikum absolvieren oder studieren",
+  "userProfilePageCoreInfoSectionKeyRingInfoKeyCreated": "Schlüssel erstellt",
+  "userProfilePageCoreInfoSectionKeyRingInfoKeyValidated": "Schlüssel validiert"
 }
