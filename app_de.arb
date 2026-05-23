@@ -171,5 +171,10 @@
   "userProfilePageCoreInfoSectionKeyRingInfoTitle": "Informationen über den Schlüsselspeicher",
   "donationPageTabTranslationHeaderDescription": "Hilf mit, Unisched für Studierende und Lehrende aus anderen Ländern barrierefrei zu gestalten, die in der Ukraine ein Praktikum absolvieren oder studieren",
   "userProfilePageCoreInfoSectionKeyRingInfoKeyCreated": "Schlüssel erstellt",
-  "userProfilePageCoreInfoSectionKeyRingInfoKeyValidated": "Schlüssel validiert"
+  "userProfilePageCoreInfoSectionKeyRingInfoKeyValidated": "Schlüssel validiert",
+  "onboardingPageTermsSheetAcceptButton": "Zustimmen und fortfahren",
+  "onboardingPageTermsSheetDetailsButton": "Mehr auf der Website erfahren",
+  "onboardingPageStartButton": "Jetzt starten",
+  "onboardingPageTermsSheetDescription": "Durch die Nutzung der Anwendung erklärst du dich mit den Nutzungsbedingungen und der Datenschutzerklärung von Unisched einverstanden, die auf unserer Website zu finden sind.",
+  "onboardingPageTermsSheetTitle": "Nutzungsbedingungen"
 }
