@@ -178,5 +178,20 @@
   "onboardingPageTermsSheetDetailsButton": "Learn more on the website",
   "onboardingPageStartButton": "Get started",
   "onboardingPageTermsSheetDescription": "By using the application, you agree to Unisched's Terms of Service and Privacy Policy, which are available on our website.",
-  "onboardingPageTermsSheetTitle": "Terms of Service"
+  "onboardingPageTermsSheetTitle": "Terms of Service",
+  "homePageUniversityTabNewsHeader": "Latest news",
+  "generalDateTimeFormat": "{date} at {time}",
+  "@generalDateTimeFormat": {
+    "placeholders": {
+      "date": {
+        "type": "DateTime",
+        "format": "yMMMMd"
+      },
+      "time": {
+        "type": "DateTime",
+        "format": "Hm"
+      }
+    }
+  },
+  "homePageUniversityTabNewsDescription": "All the most interesting things from university life"
 }
