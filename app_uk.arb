@@ -152,6 +152,8 @@
   "userProfilePageCoreInfoSectionDeviceInfoTitle": "Інформація про пристрій",
   "userProfilePageCoreInfoSectionDeviceIdentifier": "Ідентифікатор пристрою",
   "userProfilePageCoreInfoSectionDeviceIdentifierHash": "Хеш пристрою",
+  "eventsFeedComponentMoreEventsButton": "Інші події мого університету",
+  "eventsFeedPageTitle": "Події та активності",
   "widgetMonojarAmountDonated": "Зібрано {amount} UAH",
   "@widgetMonojarAmountDonated": {
     "placeholders": {
