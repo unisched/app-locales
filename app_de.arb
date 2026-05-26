@@ -191,5 +191,9 @@
       }
     }
   },
-  "homePageUniversityTabNewsDescription": "Das Interessanteste aus dem Universitätsleben"
+  "homePageUniversityTabNewsDescription": "Das Interessanteste aus dem Universitätsleben",
+  "eventsFeedPageTitle": "Veranstaltungen und Aktivitäten",
+  "homePageUniversityTabEventsHeader": "Deine Möglichkeiten",
+  "eventsFeedComponentMoreEventsButton": "Weitere Veranstaltungen an meiner Universität",
+  "homePageUniversityTabEventsDescription": "Kommende Veranstaltungen, die du nicht verpassen solltest"
 }
