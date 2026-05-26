@@ -176,5 +176,20 @@
   "onboardingPageTermsSheetDetailsButton": "Mehr auf der Website erfahren",
   "onboardingPageStartButton": "Jetzt starten",
   "onboardingPageTermsSheetDescription": "Durch die Nutzung der Anwendung erklärst du dich mit den Nutzungsbedingungen und der Datenschutzerklärung von Unisched einverstanden, die auf unserer Website zu finden sind.",
-  "onboardingPageTermsSheetTitle": "Nutzungsbedingungen"
+  "onboardingPageTermsSheetTitle": "Nutzungsbedingungen",
+  "homePageUniversityTabNewsHeader": "Neueste Nachrichten",
+  "generalDateTimeFormat": "{date} um {time}",
+  "@generalDateTimeFormat": {
+    "placeholders": {
+      "date": {
+        "type": "DateTime",
+        "format": "yMMMMd"
+      },
+      "time": {
+        "type": "DateTime",
+        "format": "Hm"
+      }
+    }
+  },
+  "homePageUniversityTabNewsDescription": "Das Interessanteste aus dem Universitätsleben"
 }
