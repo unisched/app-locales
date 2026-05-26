@@ -8,6 +8,19 @@
       }
     }
   },
+  "generalDateTimeFormat": "{date} о {time}",
+  "@generalDateTimeFormat": {
+    "placeholders": {
+      "date": {
+        "type": "DateTime",
+        "format": "yMMMMd"
+      },
+      "time": {
+        "type": "DateTime",
+        "format": "Hm"
+      }
+    }
+  },
   "dialogActionUnderstand": "Зрозуміло",
   "dialogActionCancel": "Скасувати",
   "dialogActionContinue": "Продовжити",
@@ -27,6 +40,8 @@
   "homePageBottomNavBarDigitalHub": "Цифрові послуги",
   "homePageTitleSchedule": "Розклад",
   "homePageTitleUniversity": "Університет",
+  "homePageUniversityTabNewsHeader": "Останні новини",
+  "homePageUniversityTabNewsDescription": "Все найцікавіше з життя університету",
   "homePageTitleDigitalHub": "Цифровий хаб",
   "helpPageTitle": "Центр допомоги",
   "helpPageSearchSectionInputHint": "Привіт! Навчи мене, як…",
