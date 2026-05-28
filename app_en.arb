@@ -226,5 +226,6 @@
     }
   },
   "dialogActionShowMore": "Show more",
-  "dialogActionShare": "Share"
+  "dialogActionShare": "Share",
+  "dialogActionOpenMap": "Open map"
 }
