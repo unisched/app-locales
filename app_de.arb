@@ -195,5 +195,32 @@
   "eventsFeedPageTitle": "Veranstaltungen und Aktivitäten",
   "homePageUniversityTabEventsHeader": "Deine Möglichkeiten",
   "eventsFeedComponentMoreEventsButton": "Weitere Veranstaltungen an meiner Universität",
-  "homePageUniversityTabEventsDescription": "Kommende Veranstaltungen, die du nicht verpassen solltest"
+  "homePageUniversityTabEventsDescription": "Kommende Veranstaltungen, die du nicht verpassen solltest",
+  "generalDateFormat": "{date}",
+  "@generalDateFormat": {
+    "placeholders": {
+      "date": {
+        "type": "DateTime",
+        "format": "yMMMMd"
+      }
+    }
+  },
+  "generalDateWithoutYearFormat": "{date}",
+  "@generalDateWithoutYearFormat": {
+    "placeholders": {
+      "date": {
+        "type": "DateTime",
+        "format": "MMMMd"
+      }
+    }
+  },
+  "generalTimeFormat": "{dateTime}",
+  "@generalTimeFormat": {
+    "placeholders": {
+      "dateTime": {
+        "type": "DateTime",
+        "format": "jm"
+      }
+    }
+  }
 }
