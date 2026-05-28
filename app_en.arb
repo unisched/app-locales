@@ -197,5 +197,34 @@
   "homePageUniversityTabEventsHeader": "Your opportunities",
   "homePageUniversityTabEventsDescription": "Upcoming events not to be missed",
   "eventsFeedComponentMoreEventsButton": "Other events at my university",
-  "eventsFeedPageTitle": "Events and activities"
+  "eventsFeedPageTitle": "Events and activities",
+  "generalDateFormat": "{date}",
+  "@generalDateFormat": {
+    "placeholders": {
+      "date": {
+        "type": "DateTime",
+        "format": "yMMMMd"
+      }
+    }
+  },
+  "generalDateWithoutYearFormat": "{date}",
+  "@generalDateWithoutYearFormat": {
+    "placeholders": {
+      "date": {
+        "type": "DateTime",
+        "format": "MMMMd"
+      }
+    }
+  },
+  "generalTimeFormat": "{dateTime}",
+  "@generalTimeFormat": {
+    "placeholders": {
+      "dateTime": {
+        "type": "DateTime",
+        "format": "jm"
+      }
+    }
+  },
+  "dialogActionShowMore": "Show more",
+  "dialogActionShare": "Share"
 }
