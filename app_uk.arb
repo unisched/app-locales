@@ -21,10 +21,40 @@
       }
     }
   },
+  "generalDateFormat": "{date}",
+  "@generalDateFormat": {
+    "placeholders": {
+      "date": {
+        "type": "DateTime",
+        "format": "yMMMMd"
+      }
+    }
+  },
+  "generalDateWithoutYearFormat": "{date}",
+  "@generalDateWithoutYearFormat": {
+    "placeholders": {
+      "date": {
+        "type": "DateTime",
+        "format": "MMMMd"
+      }
+    }
+  },
+  "generalTimeFormat": "{dateTime}",
+  "@generalTimeFormat": {
+    "placeholders": {
+      "dateTime": {
+        "type": "DateTime",
+        "format": "jm"
+      }
+    }
+  },
   "dialogActionUnderstand": "Зрозуміло",
   "dialogActionCancel": "Скасувати",
   "dialogActionContinue": "Продовжити",
   "dialogActionOkay": "ОК",
+  "dialogActionOpenMap": "Відкрити мапу",
+  "dialogActionShowMore": "Переглянути більше",
+  "dialogActionShare": "Поділитися",
   "componentLandingComingSoonCardTitle": "Скоро тут буде дещо цікаве",
   "componentLandingComingSoonCardSubtitle": "А поки — слідкуй за нами в соцмережах:",
   "onboardingPageStartButton": "Розпочати знайомство",
@@ -152,8 +182,32 @@
   "userProfilePageCoreInfoSectionDeviceInfoTitle": "Інформація про пристрій",
   "userProfilePageCoreInfoSectionDeviceIdentifier": "Ідентифікатор пристрою",
   "userProfilePageCoreInfoSectionDeviceIdentifierHash": "Хеш пристрою",
+  "eventsFeedComponentEventLocationLabel": "Місце проведення",
+  "eventsFeedComponentEventDateLabel": "Дата проведення",
   "eventsFeedComponentMoreEventsButton": "Інші події мого університету",
   "eventsFeedPageTitle": "Події та активності",
+  "eventDetailsPageTicketsHeader": "Квитки на подію",
+  "eventDetailsPageBuyTicket": "Взяти участь",
+  "eventDetailsPageMaxVisitors": "До {amount} учасників",
+  "eventDetailsPageMaxVisitorsUnlimited": "Довільна кількість учасників",
+  "eventDetailsPageMaxVisitorsWithoutValue": "Кількість учасників",
+  "@eventDetailsPageMaxVisitors": {
+    "placeholders": {
+      "amount": {
+        "type": "int"
+      }
+    }
+  },
+  "eventDetailsPageStartingAtWithoutValue": "Початок події",
+  "eventDetailsPageStartingAt": "Початок о {dateTime}",
+  "@eventDetailsPageStartingAt": {
+    "placeholders": {
+      "dateTime": {
+        "type": "DateTime",
+        "format": "jm"
+      }
+    }
+  },
   "widgetMonojarAmountDonated": "Зібрано {amount} UAH",
   "@widgetMonojarAmountDonated": {
     "placeholders": {
