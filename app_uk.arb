@@ -183,6 +183,7 @@
   "userProfilePageCoreInfoSectionDeviceIdentifier": "Ідентифікатор пристрою",
   "userProfilePageCoreInfoSectionDeviceIdentifierHash": "Хеш пристрою",
   "eventsFeedComponentEventLocationLabel": "Місце проведення",
+  "eventsFeedComponentEventLocationNotSpecified": "Дивись опис події",
   "eventsFeedComponentEventDateLabel": "Дата проведення",
   "eventsFeedComponentMoreEventsButton": "Інші події мого університету",
   "eventsFeedPageTitle": "Події та активності",
@@ -208,6 +209,7 @@
       }
     }
   },
+  "eventTicketingPartnerText": "Event.net.ua — зручний помічник у реєстрації на події та купівлі квитків",
   "widgetMonojarAmountDonated": "Зібрано {amount} UAH",
   "@widgetMonojarAmountDonated": {
     "placeholders": {
