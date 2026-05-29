@@ -222,5 +222,25 @@
         "format": "jm"
       }
     }
+  },
+  "dialogActionOpenMap": "Karte öffnen",
+  "dialogActionShowMore": "Mehr anzeigen",
+  "dialogActionShare": "Teilen",
+  "eventDetailsPageBuyTicket": "Teilnehmen",
+  "eventDetailsPageMaxVisitorsWithoutValue": "Anzahl der Teilnehmer",
+  "eventsFeedComponentEventLocationLabel": "Ort der Veranstaltung",
+  "eventsFeedComponentEventDateLabel": "Datum der Veranstaltung",
+  "eventDetailsPageTicketsHeader": "Tickets für die Veranstaltung",
+  "eventsFeedComponentEventLocationNotSpecified": "Siehe die Veranstaltungsbeschreibung",
+  "eventDetailsPageStartingAtWithoutValue": "Beginn der Veranstaltung",
+  "eventTicketingPartnerText": "Event.net.ua – ein praktisches Tool zur Anmeldung für Veranstaltungen und zum Ticketkauf",
+  "eventDetailsPageMaxVisitorsUnlimited": "Beliebige Teilnehmerzahl",
+  "eventDetailsPageMaxVisitors": "Bis zu {amount} Teilnehmer",
+  "@eventDetailsPageMaxVisitors": {
+    "placeholders": {
+      "amount": {
+        "type": "int"
+      }
+    }
   }
 }
