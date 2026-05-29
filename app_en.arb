@@ -227,5 +227,22 @@
   },
   "dialogActionShowMore": "Show more",
   "dialogActionShare": "Share",
-  "dialogActionOpenMap": "Open map"
+  "dialogActionOpenMap": "Open map",
+  "eventDetailsPageBuyTicket": "Participate",
+  "eventDetailsPageMaxVisitorsWithoutValue": "Number of participants",
+  "eventsFeedComponentEventLocationLabel": "Location of the event",
+  "eventsFeedComponentEventDateLabel": "Date of the event",
+  "eventDetailsPageTicketsHeader": "Tickets for the event",
+  "eventsFeedComponentEventLocationNotSpecified": "See the event description",
+  "eventDetailsPageStartingAtWithoutValue": "Start of the event",
+  "eventTicketingPartnerText": "Event.net.ua – a convenient tool for registering for events and buying tickets",
+  "eventDetailsPageMaxVisitorsUnlimited": "Any number of participants",
+  "eventDetailsPageMaxVisitors": "Up to {amount} participants",
+  "@eventDetailsPageMaxVisitors": {
+    "placeholders": {
+      "amount": {
+        "type": "int"
+      }
+    }
+  }
 }
