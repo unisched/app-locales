@@ -245,5 +245,14 @@
       }
     }
   },
-  "generalStateLoading": "Loading…"
+  "generalStateLoading": "Loading…",
+  "eventDetailsPageStartingAt": "Starting at {time}",
+  "@eventDetailsPageStartingAt": {
+    "placeholders": {
+      "time": {
+        "type": "DateTime",
+        "format": "jm"
+      }
+    }
+  }
 }
