@@ -191,8 +191,6 @@
   "eventDetailsPageTicketsHeader": "Квитки на подію",
   "eventDetailsPageBuyTicket": "Взяти участь",
   "eventDetailsPageMaxVisitors": "До {amount} учасників",
-  "eventDetailsPageMaxVisitorsUnlimited": "Довільна кількість учасників",
-  "eventDetailsPageMaxVisitorsWithoutValue": "Кількість учасників",
   "@eventDetailsPageMaxVisitors": {
     "placeholders": {
       "amount": {
@@ -200,6 +198,8 @@
       }
     }
   },
+  "eventDetailsPageMaxVisitorsUnlimited": "Довільна кількість учасників",
+  "eventDetailsPageMaxVisitorsWithoutValue": "Кількість учасників",
   "eventDetailsPageStartingAtWithoutValue": "Початок події",
   "eventDetailsPageStartingAt": "Початок о {time}",
   "@eventDetailsPageStartingAt": {
