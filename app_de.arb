@@ -242,5 +242,6 @@
         "type": "int"
       }
     }
-  }
+  },
+  "generalStateLoading": "Wird geladen…"
 }
