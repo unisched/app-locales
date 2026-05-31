@@ -39,10 +39,10 @@
       }
     }
   },
-  "generalTimeFormat": "{dateTime}",
+  "generalTimeFormat": "{time}",
   "@generalTimeFormat": {
     "placeholders": {
-      "dateTime": {
+      "time": {
         "type": "DateTime",
         "format": "jm"
       }
