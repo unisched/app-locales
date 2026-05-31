@@ -243,5 +243,14 @@
       }
     }
   },
-  "generalStateLoading": "Wird geladen…"
+  "generalStateLoading": "Wird geladen…",
+  "eventDetailsPageStartingAt": "Beginnt um {time}",
+  "@eventDetailsPageStartingAt": {
+    "placeholders": {
+      "time": {
+        "type": "DateTime",
+        "format": "jm"
+      }
+    }
+  }
 }
