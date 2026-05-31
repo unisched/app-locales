@@ -201,10 +201,10 @@
     }
   },
   "eventDetailsPageStartingAtWithoutValue": "Початок події",
-  "eventDetailsPageStartingAt": "Початок о {dateTime}",
+  "eventDetailsPageStartingAt": "Початок о {time}",
   "@eventDetailsPageStartingAt": {
     "placeholders": {
-      "dateTime": {
+      "time": {
         "type": "DateTime",
         "format": "jm"
       }
