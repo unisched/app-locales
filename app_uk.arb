@@ -48,6 +48,7 @@
       }
     }
   },
+  "generalStateLoading": "Завантаження…",
   "dialogActionUnderstand": "Зрозуміло",
   "dialogActionCancel": "Скасувати",
   "dialogActionContinue": "Продовжити",
