@@ -216,7 +216,7 @@
       }
     }
   },
-  "generalTimeFormat": "{dateTime}",
+  "generalTimeFormat": "{time}",
   "@generalTimeFormat": {
     "placeholders": {
       "dateTime": {
