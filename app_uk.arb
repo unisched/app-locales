@@ -21,6 +21,19 @@
       }
     }
   },
+  "generalDateTimeWithoutYearFormat": "{date} о {time}",
+  "@generalDateTimeWithoutYearFormat": {
+    "placeholders": {
+      "date": {
+        "type": "DateTime",
+        "format": "MMMMd"
+      },
+      "time": {
+        "type": "DateTime",
+        "format": "Hm"
+      }
+    }
+  },
   "generalDateFormat": "{date}",
   "@generalDateFormat": {
     "placeholders": {
@@ -73,6 +86,10 @@
   "homePageTitleUniversity": "Університет",
   "homePageUniversityTabNewsHeader": "Останні новини",
   "homePageUniversityTabNewsDescription": "Все найцікавіше з життя університету",
+  "homePageUniversityTabVideosHeader": "Відео і подкасти",
+  "homePageUniversityTabVideosDescription": "Пізнавай університет через його медіа",
+  "homePageUniversityTabAuthorLabel": "Автор",
+  "homePageUniversityTabPublishedLabel": "Дата публікації",
   "homePageUniversityTabEventsHeader": "Твої можливості",
   "homePageUniversityTabEventsDescription": "Найближчі події, які не варто пропустити",
   "homePageTitleDigitalHub": "Цифровий хаб",
