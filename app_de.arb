@@ -269,5 +269,6 @@
   "homePageUniversityTabAuthorLabel": "Autor",
   "homePageUniversityTabVideosHeader": "Videos und Podcasts",
   "homePageUniversityTabPublishedLabel": "Erscheinungsdatum",
-  "homePageUniversityTabVideosDescription": "Lerne deine Universität durch ihre Medien kennen"
+  "homePageUniversityTabVideosDescription": "Lerne deine Universität durch ihre Medien kennen",
+  "genericToastsNotificationPermissionNotGranted": "Benachrichtigungen deaktiviert"
 }
