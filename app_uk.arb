@@ -62,6 +62,8 @@
     }
   },
   "generalStateLoading": "Завантаження…",
+  "genericToastsNotificationPermissionNotGranted": "Сповіщення вимкнено",
+  "genericToastsNotificationPermissionNotGrantedDescription": "Ви не зможете отримувати важливі сповіщення від Unisched, поки не зміните налаштування пристрою.",
   "dialogActionUnderstand": "Зрозуміло",
   "dialogActionCancel": "Скасувати",
   "dialogActionContinue": "Продовжити",
