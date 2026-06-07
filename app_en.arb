@@ -272,5 +272,10 @@
   "homePageUniversityTabPublishedLabel": "Publication date",
   "homePageUniversityTabVideosHeader": "Videos and podcasts",
   "homePageUniversityTabVideosDescription": "Get to know your university through its media",
-  "genericToastsNotificationPermissionNotGranted": "Notifications disabled"
+  "genericToastsNotificationPermissionNotGranted": "Notifications disabled",
+  "genericToastsNotificationPermissionNotGrantedDescription": "You won't be able to receive notifications from Unisched until you change your device settings.",
+  "dialogActionCopy": "Copy",
+  "notificationsCenterPageTitle": "Notifications",
+  "notificationsCenterPageMarkAsRead": "Mark as read",
+  "notificationsCenterPageNewMessage": "Unread message"
 }
