@@ -270,5 +270,10 @@
   "homePageUniversityTabVideosHeader": "Videos und Podcasts",
   "homePageUniversityTabPublishedLabel": "Erscheinungsdatum",
   "homePageUniversityTabVideosDescription": "Lerne deine Universität durch ihre Medien kennen",
-  "genericToastsNotificationPermissionNotGranted": "Benachrichtigungen deaktiviert"
+  "genericToastsNotificationPermissionNotGranted": "Benachrichtigungen deaktiviert",
+  "dialogActionCopy": "Kopieren",
+  "notificationsCenterPageNewMessage": "Ungelesene Nachricht",
+  "notificationsCenterPageTitle": "Benachrichtigungen",
+  "notificationsCenterPageMarkAsRead": "Als gelesen markieren",
+  "genericToastsNotificationPermissionNotGrantedDescription": "Du kannst keine Benachrichtigungen von Unisched erhalten, solange du die Einstellungen deines Geräts nicht änderst."
 }
