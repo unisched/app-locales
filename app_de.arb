@@ -275,5 +275,13 @@
   "notificationsCenterPageNewMessage": "Ungelesene Nachricht",
   "notificationsCenterPageTitle": "Benachrichtigungen",
   "notificationsCenterPageMarkAsRead": "Als gelesen markieren",
-  "genericToastsNotificationPermissionNotGrantedDescription": "Du kannst keine Benachrichtigungen von Unisched erhalten, solange du die Einstellungen deines Geräts nicht änderst."
+  "genericToastsNotificationPermissionNotGrantedDescription": "Du kannst keine Benachrichtigungen von Unisched erhalten, solange du die Einstellungen deines Geräts nicht änderst.",
+  "generalStateLoadingJoke1": "Magie braucht Zeit…",
+  "generalStateLoadingJoke2": "Die Daten sind zu Fuß unterwegs…",
+  "generalStateLoadingJoke4": "Geschwindigkeit: 1 Schnecke/h",
+  "generalStateLoadingJoke3": "Der Endspurt…",
+  "generalStateLoadingJoke5": "Fast geschafft… Oh, Moment, noch nicht ganz",
+  "dialogActionScrollToTop": "Nach oben scrollen",
+  "institutionFeatureNotAvailableHeader": "Funktion ist nicht verfügbar",
+  "institutionFeatureNotAvailableDescription": "Diese Funktion ist an deiner Universität noch nicht verfügbar, aber wir arbeiten bereits daran, sie bald zur Verfügung zu stellen. Bleib auf dem Laufenden!"
 }
