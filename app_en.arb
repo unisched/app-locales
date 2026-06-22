@@ -285,5 +285,6 @@
   "generalStateLoadingJoke5": "Almost there… Oh, wait, just seemed so",
   "dialogActionScrollToTop": "Scroll to top",
   "institutionFeatureNotAvailableHeader": "Feature is not available",
-  "institutionFeatureNotAvailableDescription": "This feature isn't available at your university yet, but we're already working on making it available soon. Stay tuned for updates!"
+  "institutionFeatureNotAvailableDescription": "This feature isn't available at your university yet, but we're already working on making it available soon. Stay tuned for updates!",
+  "dialogActionClear": "Clear"
 }
