@@ -284,5 +284,8 @@
   "dialogActionScrollToTop": "Nach oben scrollen",
   "institutionFeatureNotAvailableHeader": "Funktion ist nicht verfügbar",
   "institutionFeatureNotAvailableDescription": "Diese Funktion ist an deiner Universität noch nicht verfügbar, aber wir arbeiten bereits daran, sie bald zur Verfügung zu stellen. Bleib auf dem Laufenden!",
-  "dialogActionClear": "Klar"
+  "dialogActionClear": "Leeren",
+  "institutionSearchDelegateSearchHistory": "Suchverlauf",
+  "dialogActionClearSearchHistory": "Suchverlauf löschen",
+  "institutionSearchDelegateSearchSuggestions": "Suchvorschläge"
 }
