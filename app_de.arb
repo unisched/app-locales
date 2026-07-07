@@ -287,5 +287,13 @@
   "dialogActionClear": "Leeren",
   "institutionSearchDelegateSearchHistory": "Suchverlauf",
   "dialogActionClearSearchHistory": "Suchverlauf löschen",
-  "institutionSearchDelegateSearchSuggestions": "Suchvorschläge"
+  "institutionSearchDelegateSearchSuggestions": "Suchvorschläge",
+  "generalTextNoCategory": "Keine Kategorie",
+  "settingsPageSectionFeatures": "Funktionen und Merkmale",
+  "scheduleSettingsPageItemRemoveForeignClassesAction": "Entfernen",
+  "scheduleEntityTypeTeacher": "Lehrer",
+  "scheduleSettingsPageItemHideSubgroupsAction": "Ausblenden",
+  "scheduleSettingsPageItemChooseScheduleAction": "Auswählen",
+  "settingsPageSectionFeaturesSchedule": "Stundenplan",
+  "scheduleSettingsPageItemRemoveForeignClasses": "Die Kurse anderer Personen entfernen"
 }
