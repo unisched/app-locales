@@ -297,5 +297,17 @@
   "scheduleSettingsPageItemHideSubgroupsAction": "Hide",
   "scheduleSettingsPageItemChooseScheduleAction": "Choose",
   "settingsPageSectionFeaturesSchedule": "Class schedule",
-  "scheduleSettingsPageItemRemoveForeignClasses": "Remove classes that aren't yours"
+  "scheduleSettingsPageItemRemoveForeignClasses": "Remove classes that aren't yours",
+  "settingsPageSectionFeaturesScheduleDescription": "Manage your class schedule, remove unnecessary subgroups and pairs from your schedule",
+  "scheduleSettingsPageTitle": "Schedule settings",
+  "scheduleSettingsPageItemChooseSchedule": "Choose your schedule",
+  "scheduleSettingsPageItemHideSubgroups": "Hide unnecessary subgroups",
+  "scheduleSettingsPageItemReviewYourSchedule": "Check your schedule",
+  "scheduleSettingsPageItemReviewYourScheduleAction": "Review",
+  "scheduleSearchDelegateOnPrimaryScheduleSelectedConfirmation": "The class schedule you choose will be displayed by default in Unisched. You can change it at your discretion in the settings.",
+  "scheduleEntityTypeGroup": "Student group",
+  "scheduleEntityTypeLocation": "Room",
+  "scheduleFeatureSelectYourScheduleHeader": "Choose your schedule",
+  "scheduleFeatureSelectYourScheduleDescription": "Tell us which group you're in, which laboratory you head, or which department you work in — and your class schedule will instantly appear here!",
+  "scheduleFeatureSelectYourScheduleActionButton": "Set up now"
 }
