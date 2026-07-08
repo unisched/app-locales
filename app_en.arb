@@ -2,7 +2,7 @@
   "homePageActionMenu": "Main menu",
   "homePageActionNotifications": "Notifications",
   "homePageActionSearch": "Search",
-  "homePageBottomNavBarSchedule": "Study schedule",
+  "homePageBottomNavBarSchedule": "Class schedule",
   "homePageBottomNavBarUniversity": "My University",
   "homePageBottomNavBarDigitalHub": "Digital services",
   "homePageTitleSchedule": "Schedule",
@@ -289,5 +289,13 @@
   "dialogActionClear": "Clear",
   "institutionSearchDelegateSearchHistory": "Search history",
   "dialogActionClearSearchHistory": "Clear search history",
-  "institutionSearchDelegateSearchSuggestions": "Search suggestions"
+  "institutionSearchDelegateSearchSuggestions": "Search suggestions",
+  "generalTextNoCategory": "No category",
+  "settingsPageSectionFeatures": "Features and capabilities",
+  "scheduleSettingsPageItemRemoveForeignClassesAction": "Remove",
+  "scheduleEntityTypeTeacher": "Teacher",
+  "scheduleSettingsPageItemHideSubgroupsAction": "Hide",
+  "scheduleSettingsPageItemChooseScheduleAction": "Choose",
+  "settingsPageSectionFeaturesSchedule": "Class schedule",
+  "scheduleSettingsPageItemRemoveForeignClasses": "Remove classes that aren't yours"
 }
