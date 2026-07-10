@@ -295,5 +295,17 @@
   "scheduleSettingsPageItemHideSubgroupsAction": "Ausblenden",
   "scheduleSettingsPageItemChooseScheduleAction": "Auswählen",
   "settingsPageSectionFeaturesSchedule": "Stundenplan",
-  "scheduleSettingsPageItemRemoveForeignClasses": "Die Kurse anderer Personen entfernen"
+  "scheduleSettingsPageItemRemoveForeignClasses": "Entferne die Kurse anderer Personen",
+  "scheduleSettingsPageItemChooseSchedule": "Wähle deinen Stundenplan aus",
+  "scheduleSettingsPageTitle": "Zeitplaneinstellungen",
+  "scheduleSettingsPageItemHideSubgroups": "Blende unnötige Untergruppen aus",
+  "scheduleSettingsPageItemReviewYourSchedule": "Überprüfe deinen Stundenplan",
+  "scheduleSettingsPageItemReviewYourScheduleAction": "Überprüfen",
+  "scheduleEntityTypeGroup": "Studentengruppe",
+  "scheduleEntityTypeLocation": "Raum",
+  "scheduleFeatureSelectYourScheduleHeader": "Wähle deinen Stundenplan aus",
+  "scheduleFeatureSelectYourScheduleActionButton": "Jetzt einrichten",
+  "settingsPageSectionFeaturesScheduleDescription": "Verwalte deinen Stundenplan, entferne unnötige Untergruppen und Kurse aus deinem Stundenplan",
+  "scheduleFeatureSelectYourScheduleDescription": "Sag uns, zu welcher Gruppe du gehörst, welches Labor du leitest oder an welchem Lehrstuhl du tätig bist – und schon wird dein Stundenplan hier angezeigt!",
+  "scheduleSearchDelegateOnPrimaryScheduleSelectedConfirmation": "Der von dir ausgewählte Stundenplan wird standardmäßig in Unisched angezeigt. Du kannst ihn in den Einstellungen nach Belieben ändern."
 }
