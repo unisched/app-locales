@@ -309,5 +309,18 @@
   "scheduleEntityTypeLocation": "Room",
   "scheduleFeatureSelectYourScheduleHeader": "Choose your schedule",
   "scheduleFeatureSelectYourScheduleDescription": "Tell us which group you're in, which laboratory you head, or which department you work in — and your class schedule will instantly appear here!",
-  "scheduleFeatureSelectYourScheduleActionButton": "Set up now"
+  "scheduleFeatureSelectYourScheduleActionButton": "Set up now",
+  "scheduleFeatureDayOfWeekWithDayOfMonthFormat": "<bold>{dayOfWeek}</bold>, {date}",
+  "@scheduleFeatureDayOfWeekWithDayOfMonthFormat": {
+    "placeholders": {
+      "dayOfWeek": {
+        "type": "String"
+      },
+      "date": {
+        "type": "DateTime",
+        "format": "MMMd"
+      }
+    }
+  },
+  "scheduleFeatureNoScheduleForCurrentDayTitle": "Your schedule is empty today"
 }
