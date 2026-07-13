@@ -307,5 +307,18 @@
   "scheduleFeatureSelectYourScheduleActionButton": "Jetzt einrichten",
   "settingsPageSectionFeaturesScheduleDescription": "Verwalte deinen Stundenplan, entferne unnötige Untergruppen und Kurse aus deinem Stundenplan",
   "scheduleFeatureSelectYourScheduleDescription": "Sag uns, zu welcher Gruppe du gehörst, welches Labor du leitest oder an welchem Lehrstuhl du tätig bist – und schon wird dein Stundenplan hier angezeigt!",
-  "scheduleSearchDelegateOnPrimaryScheduleSelectedConfirmation": "Der von dir ausgewählte Stundenplan wird standardmäßig in Unisched angezeigt. Du kannst ihn in den Einstellungen nach Belieben ändern."
+  "scheduleSearchDelegateOnPrimaryScheduleSelectedConfirmation": "Der von dir ausgewählte Stundenplan wird standardmäßig in Unisched angezeigt. Du kannst ihn in den Einstellungen nach Belieben ändern.",
+  "scheduleFeatureDayOfWeekWithDayOfMonthFormat": "<bold>{dayOfWeek}</bold>, {date}",
+  "@scheduleFeatureDayOfWeekWithDayOfMonthFormat": {
+    "placeholders": {
+      "dayOfWeek": {
+        "type": "String"
+      },
+      "date": {
+        "type": "DateTime",
+        "format": "MMMd"
+      }
+    }
+  },
+  "scheduleFeatureNoScheduleForCurrentDayTitle": "Dein Stundenplan ist heute leer"
 }
