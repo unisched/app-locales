@@ -266,6 +266,22 @@
   "scheduleFeatureSelectYourScheduleHeader": "Обери свій розклад",
   "scheduleFeatureSelectYourScheduleDescription": "Розкажи, з якої ти групи, якою лабораторією завідуєш або на якій кафедрі працюєш — і твій розклад занять вмить з'явиться тут!",
   "scheduleFeatureSelectYourScheduleActionButton": "Налаштувати зараз",
+  "scheduleFeatureDayOfWeekWithDayOfMonthFormat": "<bold>{dayOfWeek}</bold>, {date}",
+  "@scheduleFeatureDayOfWeekWithDayOfMonthFormat": {
+    "placeholders": {
+      "dayOfWeek": {
+        "type": "String"
+      },
+      "date": {
+        "type": "DateTime",
+        "format": "MMMd"
+      }
+    }
+  },
+  "scheduleFeatureNoScheduleForCurrentDayTitle": "Сьогодні твій розклад порожній",
+  "scheduleFeatureNoScheduleForCurrentDayMessage": "Немає занять? Не біда! Проведи час з користю: відпочинь і наберися сил!",
+  "scheduleFeatureNoScheduleForCurrentDayWeekendTitle": "Такий чудовий вихідний",
+  "scheduleFeatureNoScheduleForCurrentDayWeekendMessage": "Приділи час своїм улюбленим заняттям — вони чекали на тебе весь тиждень!",
   "widgetMonojarAmountDonated": "Зібрано {amount} UAH",
   "@widgetMonojarAmountDonated": {
     "placeholders": {
