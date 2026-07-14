@@ -320,5 +320,8 @@
       }
     }
   },
-  "scheduleFeatureNoScheduleForCurrentDayTitle": "Dein Stundenplan ist heute leer"
+  "scheduleFeatureNoScheduleForCurrentDayTitle": "Dein Stundenplan ist heute leer",
+  "scheduleFeatureNoScheduleForCurrentDayWeekendTitle": "Was für ein wundervolles Wochenende",
+  "scheduleFeatureNoScheduleForCurrentDayMessage": "Kein Unterricht heute? Kein Problem! Nutze deine Zeit optimal: entspanne dich und tanke neue Energie!",
+  "scheduleFeatureNoScheduleForCurrentDayWeekendMessage": "Jetzt ist es Zeit für deine Hobbys – sie haben die ganze Woche auf dich gewartet!"
 }
