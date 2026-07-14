@@ -322,5 +322,7 @@
       }
     }
   },
-  "scheduleFeatureNoScheduleForCurrentDayTitle": "Your schedule is empty today"
+  "scheduleFeatureNoScheduleForCurrentDayTitle": "Your schedule is empty today",
+  "scheduleFeatureNoScheduleForCurrentDayMessage": "No classes today? No problem! Make the most of your time: relax and recharge!",
+  "scheduleFeatureNoScheduleForCurrentDayWeekendTitle": "Such a wonderful weekend"
 }
