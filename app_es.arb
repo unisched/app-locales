@@ -1,1 +1,324 @@
-{}
+{
+  "generalAiUsageWarning": "La inteligencia artificial puede cometer errores. No sabe prestar primeros auxilios en situaciones de emergencia.",
+  "generalBooleanYesOrNo": "{value, select, true{Sí} false{No} other{Desconocido}}",
+  "@generalBooleanYesOrNo": {
+    "placeholders": {
+      "value": {
+        "type": "String"
+      }
+    }
+  },
+  "generalDateTimeFormat": "el {date} a las {time}",
+  "@generalDateTimeFormat": {
+    "placeholders": {
+      "date": {
+        "type": "DateTime",
+        "format": "yMMMMd"
+      },
+      "time": {
+        "type": "DateTime",
+        "format": "Hm"
+      }
+    }
+  },
+  "generalDateTimeWithoutYearFormat": "el {date} a las {time}",
+  "@generalDateTimeWithoutYearFormat": {
+    "placeholders": {
+      "date": {
+        "type": "DateTime",
+        "format": "MMMMd"
+      },
+      "time": {
+        "type": "DateTime",
+        "format": "Hm"
+      }
+    }
+  },
+  "generalDateFormat": "{date}",
+  "@generalDateFormat": {
+    "placeholders": {
+      "date": {
+        "type": "DateTime",
+        "format": "yMMMMd"
+      }
+    }
+  },
+  "generalDateWithoutYearFormat": "{date}",
+  "@generalDateWithoutYearFormat": {
+    "placeholders": {
+      "date": {
+        "type": "DateTime",
+        "format": "MMMMd"
+      }
+    }
+  },
+  "generalTimeFormat": "{time}",
+  "@generalTimeFormat": {
+    "placeholders": {
+      "time": {
+        "type": "DateTime",
+        "format": "jm"
+      }
+    }
+  },
+  "generalStateLoading": "Cargando…",
+  "generalStateLoadingJoke1": "La magia requiere tiempo…",
+  "generalStateLoadingJoke2": "Los datos están avanzando…",
+  "generalStateLoadingJoke3": "La recta final…",
+  "generalStateLoadingJoke4": "Velocidad: 1 caracol/h",
+  "generalStateLoadingJoke5": "Casi… Ah, no, me lo he imaginado",
+  "generalTextNoCategory": "Sin categoría",
+  "genericToastsNotificationPermissionNotGranted": "Las notificaciones están desactivadas",
+  "genericToastsNotificationPermissionNotGrantedDescription": "No podrás recibir notificaciones de Unisched hasta que modifiques la configuración de tu dispositivo.",
+  "dialogActionUnderstand": "Entendido",
+  "dialogActionCancel": "Cancelar",
+  "dialogActionContinue": "Continuar",
+  "dialogActionClear": "Limpiar",
+  "dialogActionOkay": "De acuerdo",
+  "dialogActionOpenMap": "Abrir el mapa",
+  "dialogActionShowMore": "Ver más",
+  "dialogActionCopy": "Copiar",
+  "dialogActionShare": "Compartir",
+  "dialogActionScrollToTop": "Ir al inicio",
+  "dialogActionClearSearchHistory": "Borrar el historial de las búsquedas",
+  "componentLandingComingSoonCardTitle": "Pronto habrá algo interesante aquí",
+  "componentLandingComingSoonCardSubtitle": "Mientras tanto, síguenos en las redes sociales:",
+  "institutionFeatureNotAvailableHeader": "Función no disponible",
+  "institutionFeatureNotAvailableDescription": "Esta función aún no está disponible en tu universidad, pero ya estamos trabajando para que esté disponible en breve. ¡Estate atento a las novedades!",
+  "onboardingPageStartButton": "Comience",
+  "onboardingPageTermsSheetTitle": "Términos y condiciones",
+  "onboardingPageTermsSheetDescription": "Al utilizar la aplicación, aceptas la Oferta pública de Unisched, así como la Política de privacidad, que se encuentran publicadas en nuestra página web.",
+  "onboardingPageTermsSheetAcceptButton": "Aceptar y continuar",
+  "onboardingPageTermsSheetDetailsButton": "Más información en la página web",
+  "homePageActionMenu": "Menú principal",
+  "homePageActionNotifications": "Notificaciones",
+  "homePageActionSearch": "Buscar",
+  "homePageBottomNavBarSchedule": "Horario de clases",
+  "homePageBottomNavBarUniversity": "Mi universidad",
+  "homePageBottomNavBarDigitalHub": "Servicios digitales",
+  "homePageTitleSchedule": "Horario",
+  "homePageTitleUniversity": "Universidad",
+  "homePageUniversityTabNewsHeader": "Últimas noticias",
+  "homePageUniversityTabNewsDescription": "Lo más interesante de la vida universitaria",
+  "homePageUniversityTabVideosHeader": "Vídeos y podcasts",
+  "homePageUniversityTabVideosDescription": "Descubre la universidad a través de sus medios de comunicación",
+  "homePageUniversityTabAuthorLabel": "Autor",
+  "homePageUniversityTabPublishedLabel": "Fecha de publicación",
+  "homePageUniversityTabEventsHeader": "Tus posibilidades",
+  "homePageUniversityTabEventsDescription": "Próximos eventos que no te puedes perder",
+  "homePageTitleDigitalHub": "Centro de conexión",
+  "institutionSearchDelegateSearchHistory": "Historial de búsquedas",
+  "institutionSearchDelegateSearchSuggestions": "Consultas sugeridas",
+  "helpPageTitle": "Centro de ayuda",
+  "helpPageSearchSectionInputHint": "¡Hola! Enséñame a…",
+  "helpPageSearchSectionSearchButton": "Preguntarle al asistente de IA",
+  "helpPageSearchSectionSuggestions": "Ocultar clases; ¿Cómo ocultar clases en la aplicación?\nCompartir el horario; ¿Cómo compartir el horario con otras personas?\nUtilizar la búsqueda; ¿Cómo encontrar el horario de mis profesores, amigos y las aulas que necesito?\n¿Dónde será la clase?; ¿Cómo puedo ver dónde será la clase?",
+  "helpPageSearchSectionAiPrompt": "Responde a la pregunta de forma sencilla, clara y correcta en ucraniano:",
+  "helpPageSupportLinks": "Ayuda con Unisched",
+  "helpPageSupportLinksHelpCenter": "Documentación",
+  "helpPageSupportLinksHelpCenterDescription": "Encuentra respuestas a las preguntas más frecuentes y consejos útiles para utilizar Unisched",
+  "helpPageSupportLinksContactSupport": "Servicio de atención",
+  "helpPageSupportLinksContactSupportDescription": "Ponte en contacto con el servicio de asistencia si no encuentras la respuesta a tu pregunta",
+  "helpPageSupportLinksWebsite": "Página web de la aplicación",
+  "helpPageSupportLinksWebsiteDescription": "Echa un vistazo a la página web oficial de Unisched para conocer las últimas noticias, novedades y la comunidad",
+  "helpPageEmergencyLinks": "Situaciones de emergencia",
+  "helpPageEmergencyLinksFirstAid": "Solicitar asistencia urgente",
+  "helpPageEmergencyLinksFirstAidDescription": "Llama urgentemente al 112 (gratis) si te encuentras en Ucrania o utiliza la aplicación nacional de emergencias (creada por el Ministerio del Interior)",
+  "helpPageEmergencyLinksMentalAid": "Ayuda psicológica (autoayuda)",
+  "helpPageEmergencyLinksMentalAidDescription": "Descarga la aplicación «Baza» de la ONG «Elección Libre», no estás solo/a 🫂",
+  "helpPageLegalLinks": "Información jurídica",
+  "helpPageLegalLinksTermsOfService": "Condiciones de servicio de Unisched",
+  "helpPageLegalLinksTermsOfServiceDescription": "Documento principal que regula el uso de la aplicación Unisched",
+  "helpPageLegalLinksPrivacyPolicy": "Política de privacidad",
+  "helpPageLegalLinksPrivacyPolicyDescription": "Documento en el que se explica cómo recopilamos, utilizamos y protegemos tus datos",
+  "helpPageLegalLinksDataDeletion": "Política de supresión de datos",
+  "helpPageLegalLinksDataDeletionDescription": "Documento en el que se explica cómo puedes eliminar tus datos de nuestros sistemas",
+  "helpPageLegalLinksThirdPartyLicenses": "Licencias de terceros",
+  "helpPageLegalLinksThirdPartyLicensesDescription": "Aquí encontrarás información sobre las licencias de software libre y de código abierto, así como sobre sus componentes",
+  "helpPageAppInfo": "Información sobre la aplicación",
+  "helpPageAppInfoVersion": "Versión de la aplicación",
+  "helpPageAppInfoDeviceId": "Identificador del dispositivo",
+  "settingsPageTitle": "Ajustes",
+  "settingsPageSectionAppearance": "Apariencia",
+  "settingsPageSectionAppearanceLanguage": "Idioma de la aplicación",
+  "settingsPageSectionAppearanceLanguageDescription": "Unisched se ha traducido a varios idiomas gracias a nuestra comunidad",
+  "settingsPageSectionAppearanceLanguageNotAvailable": "Cambia el idioma en la configuración del dispositivo para ver Unisched en tu idioma nativo",
+  "settingsPageSectionAppearanceDynamicTheme": "Colores dinámicos",
+  "settingsPageSectionAppearanceDynamicThemeDescription": "Añade los colores de tu dispositivo a la interfaz de la aplicación",
+  "settingsPageSectionAppearanceThemeModeSystem": "Tema del sistema",
+  "settingsPageSectionAppearanceThemeModeSystemDescription": "Cambiar automáticamente entre el tema oscuro y el claro",
+  "settingsPageSectionAppearanceThemeModeChoice": "Elección del tema",
+  "settingsPageSectionAppearanceThemeModeChoiceLight": "Claro",
+  "settingsPageSectionAppearanceThemeModeChoiceDark": "Oscuro",
+  "settingsPageSectionAppearanceCompactMode": "Modo compacto",
+  "settingsPageSectionAppearanceCompactModeDescription": "Permite reducir el tamaño de elementos de interfaz excesivamente grandes",
+  "settingsPageSectionAppearanceDefaultHomeTab": "Página de inicio",
+  "settingsPageSectionAppearanceDefaultHomeTabDescription": "Selecciona la pestaña que se abrirá por defecto al iniciar la aplicación",
+  "settingsPageSectionFeatures": "Funciones y características",
+  "settingsPageSectionFeaturesSchedule": "Horario de clases",
+  "settingsPageSectionFeaturesScheduleDescription": "Gestiona tu horario de clases, elimina los subgrupos y las clases innecesarias de tu horario",
+  "settingsPageSectionService": "Ajustes avanzados",
+  "settingsPageSectionServiceOpenSystemAppSettings": "Configuración del sistema",
+  "settingsPageSectionServiceOpenSystemAppSettingsDescription": "Abra rápidamente la configuración del sistema de la aplicación si el servicio de soporte lo recomienda",
+  "settingsPageSectionServiceClearRequestCache": "Borrar la caché de consultas",
+  "settingsPageSectionServiceClearRequestCacheDescription": "Utiliza esta opción si ves información desactualizada en la aplicación",
+  "settingsPageSectionServiceClearRequestCacheConfirmation": "Esta acción eliminará todos los datos almacenados en la caché de las consultas en tu dispositivo.\n\nSi ahora mismo no tienes conexión a Internet, perderás temporalmente el acceso a la mayoría de las funciones de la aplicación.\n\n¿Seguro que quieres continuar?",
+  "settingsPageSectionServiceClearRequestCacheSuccess": "¡La caché de las consultas se han borrado correctamente!",
+  "settingsPageSectionServiceWipeAllData": "Empezar desde cero",
+  "settingsPageSectionServiceWipeAllDataDescription": "Se han eliminado todos los datos y ajustes de este dispositivo (excepto los datos de la red)",
+  "settingsPageSectionServiceWipeAllDataConfirmation": "Esta acción borrará todos tus datos y ajustes de este dispositivo. No podremos recuperarlos por ti.\n\n¿Estás seguro de que quieres continuar?",
+  "scheduleSettingsPageTitle": "Configuración del horario",
+  "scheduleSettingsPageItemChooseSchedule": "Elige tu horario",
+  "scheduleSettingsPageItemChooseScheduleAction": "Seleccionar",
+  "scheduleSettingsPageItemHideSubgroups": "Ocultar los subgrupos que sobren",
+  "scheduleSettingsPageItemHideSubgroupsAction": "Ocultar",
+  "scheduleSettingsPageItemRemoveForeignClasses": "Elimina las clases que no sean tuyas",
+  "scheduleSettingsPageItemRemoveForeignClassesAction": "Eliminar",
+  "scheduleSettingsPageItemReviewYourSchedule": "Consulta tu horario",
+  "scheduleSettingsPageItemReviewYourScheduleAction": "Ver",
+  "scheduleSearchDelegateOnPrimaryScheduleSelectedConfirmation": "El horario de clases que hayas elegido aparecerá por defecto en Unisched. Puedes modificarlo a tu gusto en la configuración.",
+  "scheduleEntityTypeGroup": "Grupo de clase",
+  "scheduleEntityTypeTeacher": "Profesor",
+  "scheduleEntityTypeLocation": "Aula",
+  "donationPageTitle": "Apoyar la iniciativa",
+  "donationPageTabDonationTitle": "Con una donación",
+  "donationPageTabDonationMinSumErrorMessage": "Por favor, introduce una cantidad superior a {amount} UAH",
+  "@donationPageTabDonationMinSumErrorMessage": {
+    "placeholders": {
+      "amount": {
+        "type": "double",
+        "format": "decimalPattern",
+        "optionalParameters": {
+          "decimalDigits": 2
+        }
+      }
+    }
+  },
+  "donationPageTabDonationRequestErrorMessage": "Error al crear un enlace para una donación",
+  "donationPageTabDonationConfirmButton": "Apoya con una donación",
+  "donationPageTabTranslationTitle": "Traducción",
+  "donationPageTabTranslationHeader": "Únete a la comunidad de traductores de Unisched",
+  "donationPageTabTranslationHeaderDescription": "Ayúdanos a hacer que Unisched sea accesible para los estudiantes y profesores de otros países que realizan prácticas o estudian en Ucrania",
+  "donationPageTabTranslationHeaderActionJoin": "Unirte",
+  "donationPageTabTranslationHeaderActionContributors": "Colaboradores",
+  "donationPageTabTranslationLanguagesListSubtitle": "Traducido {translated} de {total} ({percentage})",
+  "@donationPageTabTranslationLanguagesListSubtitle": {
+    "placeholders": {
+      "translated": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      },
+      "percentage": {
+        "type": "double",
+        "format": "percentPattern",
+        "optionalParameters": {
+          "decimalDigits": 2
+        }
+      }
+    }
+  },
+  "donationPageTabTranslationLicenseNotice": "El proyecto de traducción de Unisched está bajo los términos de la Licencia Pública de la Unión Europea 1.2. Todas las traducciones realizadas por la comunidad son de código abierto y pueden ser utilizadas por cualquier persona en sus propios proyectos.",
+  "donationPageTabDetailsTitle": "Inicio",
+  "donationPageTabDetailsHeader": "Apoya la iniciativa haciendo tu propia aportación",
+  "donationPageTabDetailsHeaderDescription": "Hay muchas formas en las que puedes contribuir al desarrollo de Unisched. Por ejemplo, puedes ayudar a traducir la aplicación a tu idioma materno o apoyar económicamente el proyecto, cubriendo los gastos de los servidores y el desarrollo. ¡Cada aportación, independientemente de su cuantía, nos acerca a nuestro objetivo de hacer de Unisched una herramienta accesible y fácil de usar para todos!",
+  "donationPageTabDetailsInfoWebsite": "Más opciones",
+  "userProfilePageTitle": "Tu perfil",
+  "userProfilePageCoreInfoSectionKeyRingInfoTitle": "Información sobre el almacenamiento de claves",
+  "userProfilePageCoreInfoSectionKeyRingInfoKeyCreated": "Clave creada",
+  "userProfilePageCoreInfoSectionKeyRingInfoKeyValidated": "La clave es válida",
+  "userProfilePageCoreInfoSectionKeyRingInfoKeyHybrid": "Modo híbrido",
+  "userProfilePageCoreInfoSectionDeviceInfoTitle": "Información sobre el dispositivo",
+  "userProfilePageCoreInfoSectionDeviceIdentifier": "Identificador del dispositivo",
+  "userProfilePageCoreInfoSectionDeviceIdentifierHash": "Hash del dispositivo",
+  "notificationsCenterPageTitle": "Notificaciones",
+  "notificationsCenterPageMarkAsRead": "Marcar como leído",
+  "notificationsCenterPageNewMessage": "Mensaje sin leer",
+  "eventsFeedComponentEventLocationLabel": "Lugar de celebración",
+  "eventsFeedComponentEventLocationNotSpecified": "Ver la descripción del evento",
+  "eventsFeedComponentEventDateLabel": "Fecha de celebración",
+  "eventsFeedComponentMoreEventsButton": "Otros eventos de mi universidad",
+  "eventsFeedPageTitle": "Eventos y actividades",
+  "eventDetailsPageTicketsHeader": "Entradas para el evento",
+  "eventDetailsPageBuyTicket": "Participar",
+  "eventDetailsPageMaxVisitors": "Hasta {amount} participantes",
+  "@eventDetailsPageMaxVisitors": {
+    "placeholders": {
+      "amount": {
+        "type": "int"
+      }
+    }
+  },
+  "eventDetailsPageMaxVisitorsUnlimited": "Sin límite de participantes",
+  "eventDetailsPageMaxVisitorsWithoutValue": "Número de participantes",
+  "eventDetailsPageStartingAtWithoutValue": "Inicio del evento",
+  "eventDetailsPageStartingAt": "Comienza a las {time}",
+  "@eventDetailsPageStartingAt": {
+    "placeholders": {
+      "time": {
+        "type": "DateTime",
+        "format": "jm"
+      }
+    }
+  },
+  "eventTicketingPartnerText": "Event.net.ua: una práctica herramienta para inscribirse en eventos y comprar entradas",
+  "scheduleFeatureSelectYourScheduleHeader": "Elige tu horario",
+  "scheduleFeatureSelectYourScheduleDescription": "Dime a qué grupo perteneces, qué laboratorio diriges o en qué departamento trabajas, ¡y tu horario de clases aparecerá aquí al instante!",
+  "scheduleFeatureSelectYourScheduleActionButton": "Configurar ahora",
+  "scheduleFeatureDayOfWeekWithDayOfMonthFormat": "<bold>{dayOfWeek}</bold>, {date}",
+  "@scheduleFeatureDayOfWeekWithDayOfMonthFormat": {
+    "placeholders": {
+      "dayOfWeek": {
+        "type": "String"
+      },
+      "date": {
+        "type": "DateTime",
+        "format": "MMMd"
+      }
+    }
+  },
+  "scheduleFeatureNoScheduleForCurrentDayTitle": "No tienes nada programado para hoy",
+  "widgetMonojarAmountDonated": "Ahorrado {amount} UAH",
+  "@widgetMonojarAmountDonated": {
+    "placeholders": {
+      "amount": {
+        "type": "double",
+        "format": "decimalPattern",
+        "optionalParameters": {
+          "decimalDigits": 2
+        }
+      }
+    }
+  },
+  "widgetMonojarNeedsToRaise": "{amount} UAH hasta el objetivo",
+  "@widgetMonojarNeedsToRaise": {
+    "placeholders": {
+      "amount": {
+        "type": "double",
+        "format": "decimalPattern",
+        "optionalParameters": {
+          "decimalDigits": 2
+        }
+      }
+    }
+  },
+  "appUpgradeModalTitle": "Nueva versión de Unisched",
+  "appUpgradeModalMessage": "Actualiza la aplicación ahora para acceder a nuevas funciones, mejoras y correcciones de errores.",
+  "userBottomSheetAnonymousWelcomeMessage": "¡Hola, anónimo!",
+  "userBottomSheetAvatarSemanticLabel": "Tu avatar",
+  "userBottomSheetActionDonate": "Apoyar",
+  "userBottomSheetActionHelp": "Ayuda",
+  "userBottomSheetActionProfile": "Mi perfil",
+  "userBottomSheetActionSettings": "Ajustes",
+  "avatarBottomSheetCaption": "Este es tu avatar exclusivo de Unisched",
+  "avatarBottomSheetDescription": "Lo hemos creado a partir de tus datos, utilizando el algoritmo abierto BoringAvatars™ Beam.",
+  "avatarBottomSheetShareAction": "Compartir",
+  "avatarBottomSheetShareActionError": "No es posible compartir el avatar; por favor, ponte en contacto con el servicio de atención al cliente",
+  "avatarBottomSheetShareTitle": "Mi avatar en Unisched",
+  "avatarBottomSheetShareText": "Echa un vistazo a mi avatar en Unisched",
+  "avatarBottomSheetDownloadAction": "Descargar",
+  "avatarBottomSheetDownloadActionSuccess": "¡Hurra! Tu avatar ya está en la galería",
+  "avatarBottomSheetDownloadActionError": "No se puede cargar el avatar; ponte en contacto con el servicio de atención al cliente",
+  "biometricShieldServiceSimpleAuthPrompt": "Verifica tu identidad para desbloquear la aplicación"
+}
