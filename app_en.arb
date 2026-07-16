@@ -324,6 +324,6 @@
   },
   "scheduleFeatureNoScheduleForCurrentDayTitle": "Your schedule is empty today",
   "scheduleFeatureNoScheduleForCurrentDayMessage": "No classes today? No problem! Make the most of your time: relax and recharge!",
-  "scheduleFeatureNoScheduleForCurrentDayWeekendTitle": "Such a wonderful weekend",
+  "scheduleFeatureNoScheduleForCurrentDayWeekendTitle": "Such a great weekend",
   "scheduleFeatureNoScheduleForCurrentDayWeekendMessage": "It's time for your hobbies – they've been waiting for you all week!"
 }
