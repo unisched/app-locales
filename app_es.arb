@@ -314,7 +314,7 @@
   "avatarBottomSheetCaption": "Este es tu avatar exclusivo de Unisched",
   "avatarBottomSheetDescription": "Lo hemos creado a partir de tus datos, utilizando el algoritmo abierto BoringAvatars™ Beam.",
   "avatarBottomSheetShareAction": "Compartir",
-  "avatarBottomSheetShareActionError": "No es posible compartir el avatar; por favor, ponte en contacto con el servicio de atención al cliente",
+  "avatarBottomSheetShareActionError": "Ocurrió un error al compartir el avatar. Contacte con el servicio técnico",
   "avatarBottomSheetShareTitle": "Mi avatar en Unisched",
   "avatarBottomSheetShareText": "Echa un vistazo a mi avatar en Unisched",
   "avatarBottomSheetDownloadAction": "Descargar",
