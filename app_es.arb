@@ -323,5 +323,11 @@
   "biometricShieldServiceSimpleAuthPrompt": "Verifica tu identidad para desbloquear la aplicación",
   "scheduleFeatureNoScheduleForCurrentDayWeekendTitle": "¡Qué fin de semana tan maravilloso!",
   "scheduleFeatureNoScheduleForCurrentDayWeekendMessage": "¡Es hora de dedicarte a tus aficiones! ¡Te han estado esperando toda la semana!",
-  "scheduleFeatureNoScheduleForCurrentDayMessage": "¿Hoy no hay clase? ¡No pasa nada! Aprovecha al máximo tu tiempo: ¡relájate y recarga las pilas!"
+  "scheduleFeatureNoScheduleForCurrentDayMessage": "¿Hoy no hay clase? ¡No pasa nada! Aprovecha al máximo tu tiempo: ¡relájate y recarga las pilas!",
+  "dialogActionFavoriteAdd": "Añadir a favoritos",
+  "dialogActionFavoriteRemove": "Eliminar de favoritos",
+  "scheduleFeatureSearchDelegateGoToFavorites": "Marcar como favorito",
+  "scheduleFeatureSearchDelegateGoToFullList": "Añadir a la lista",
+  "scheduleFeatureSearchDelegateHeaderFavorites": "Acceso rápido",
+  "scheduleFeatureSearchDelegateHeaderHistory": "Visto recientemente"
 }
