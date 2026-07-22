@@ -325,5 +325,11 @@
   "scheduleFeatureNoScheduleForCurrentDayTitle": "Your schedule is empty today",
   "scheduleFeatureNoScheduleForCurrentDayMessage": "No classes today? No problem! Make the most of your time: relax and recharge!",
   "scheduleFeatureNoScheduleForCurrentDayWeekendTitle": "Such a great weekend",
-  "scheduleFeatureNoScheduleForCurrentDayWeekendMessage": "It's time for your hobbies – they've been waiting for you all week!"
+  "scheduleFeatureNoScheduleForCurrentDayWeekendMessage": "It's time for your hobbies – they've been waiting for you all week!",
+  "dialogActionFavoriteAdd": "Add to favorites",
+  "dialogActionFavoriteRemove": "Remove from favorites",
+  "scheduleFeatureSearchDelegateGoToFavorites": "To favorites",
+  "scheduleFeatureSearchDelegateGoToFullList": "To the list",
+  "scheduleFeatureSearchDelegateHeaderHistory": "Recently viewed",
+  "scheduleFeatureSearchDelegateHeaderFavorites": "Quick access"
 }
