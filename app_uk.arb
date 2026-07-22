@@ -81,6 +81,8 @@
   "dialogActionShare": "Поділитися",
   "dialogActionScrollToTop": "Прокрутити до верху",
   "dialogActionClearSearchHistory": "Очистити історію пошуку",
+  "dialogActionFavoriteAdd": "Додати до обраного",
+  "dialogActionFavoriteRemove": "Видалити з обраного",
   "componentLandingComingSoonCardTitle": "Скоро тут буде дещо цікаве",
   "componentLandingComingSoonCardSubtitle": "А поки — слідкуй за нами в соцмережах:",
   "institutionFeatureNotAvailableHeader": "Функція недоступна",
@@ -282,6 +284,10 @@
   "scheduleFeatureNoScheduleForCurrentDayMessage": "Немає занять? Не біда! Проведи час з користю: відпочинь і наберися сил!",
   "scheduleFeatureNoScheduleForCurrentDayWeekendTitle": "Такий чудовий вихідний",
   "scheduleFeatureNoScheduleForCurrentDayWeekendMessage": "Приділи час своїм улюбленим заняттям — вони чекали на тебе весь тиждень!",
+  "scheduleFeatureSearchDelegateGoToFavorites": "До обраного",
+  "scheduleFeatureSearchDelegateGoToFullList": "До переліку",
+  "scheduleFeatureSearchDelegateHeaderFavorites": "Швидкий доступ",
+  "scheduleFeatureSearchDelegateHeaderHistory": "Нещодавно переглянуте",
   "widgetMonojarAmountDonated": "Зібрано {amount} UAH",
   "@widgetMonojarAmountDonated": {
     "placeholders": {
