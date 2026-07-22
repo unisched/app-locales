@@ -323,5 +323,11 @@
   "scheduleFeatureNoScheduleForCurrentDayTitle": "Dein Stundenplan ist heute leer",
   "scheduleFeatureNoScheduleForCurrentDayWeekendTitle": "Was für ein wundervolles Wochenende",
   "scheduleFeatureNoScheduleForCurrentDayMessage": "Kein Unterricht heute? Kein Problem! Nutze deine Zeit optimal: entspanne dich und tanke neue Energie!",
-  "scheduleFeatureNoScheduleForCurrentDayWeekendMessage": "Jetzt ist es Zeit für deine Hobbys – sie haben die ganze Woche auf dich gewartet!"
+  "scheduleFeatureNoScheduleForCurrentDayWeekendMessage": "Jetzt ist es Zeit für deine Hobbys – sie haben die ganze Woche auf dich gewartet!",
+  "dialogActionFavoriteAdd": "Zu Favoriten hinzufügen",
+  "dialogActionFavoriteRemove": "Aus Favoriten entfernen",
+  "scheduleFeatureSearchDelegateGoToFavorites": "Zu Favoriten",
+  "scheduleFeatureSearchDelegateGoToFullList": "Zur Liste",
+  "scheduleFeatureSearchDelegateHeaderHistory": "Zuletzt angesehen",
+  "scheduleFeatureSearchDelegateHeaderFavorites": "Schnellzugriff"
 }
