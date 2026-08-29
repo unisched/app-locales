@@ -334,10 +334,12 @@
   "scheduleFeatureSearchDelegateHeaderFavorites": "Quick access",
   "scheduleFeatureLoadingErrorEmptyScheduleTitle": "There are no classes scheduled",
   "scheduleFeatureLoadingErrorEntityNotFoundTitle": "It is necessary to select a new schedule",
-  "scheduleFeatureLoadingErrorEmptyScheduleMessage": "School’s out? Schedule still cooking? A whole week off? So many mysteries, so little time. Catch you back here later!",
+  "scheduleFeatureLoadingErrorEmptyScheduleMessage": "Universities' out? Schedule still cooking? A whole week off? So many mysteries, so little time. Catch you back here later!",
   "scheduleFeatureLoadingErrorEntityNotFoundMessage": "Your group seems to have updated its name and code. This often happens at the start of a new academic year. Feel free to select another timetable in the settings below.",
   "scheduleFeatureLoadingErrorOnPreparationStageTitle": "Timetable coming soon",
-  "scheduleFeatureLoadingErrorOnPreparationStageMessage": "Your school hasn’t fully finished setting it up yet. Hang tight for a bit—in the meantime, follow us on social media!",
+  "scheduleFeatureLoadingErrorOnPreparationStageMessage": "Your university hasn’t fully finished setting it up yet. Hang tight for a bit—in the meantime, follow us on social media!",
   "scheduleFeatureLoadingErrorServiceMaintenanceTitle": "Time to relax for a bit",
-  "scheduleFeatureLoadingErrorUnknownErrorTitle": "We hit an unexpected snag"
+  "scheduleFeatureLoadingErrorUnknownErrorTitle": "We hit an unexpected snag",
+  "scheduleFeatureLoadingErrorServiceMaintenanceMessage": "Your universities' servers are down for maintenance, so the schedule is temporarily offline. Check back later—everything will be up and running!",
+  "scheduleFeatureLoadingErrorUnknownErrorMessage": "It looks like there’s an issue on your universities' end. If nothing seems to work, feel free to reach out to our support team!"
 }
