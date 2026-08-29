@@ -298,6 +298,14 @@
   "scheduleFeatureLoadingErrorServiceMaintenanceMessage": "Сервери твого закладу освіти зараз на обслуговуванні, тож розклад занять тимчасово недоступний. Повертайся пізніше, все працюватиме!",
   "scheduleFeatureLoadingErrorUnknownErrorTitle": "Трапилося щось невідоме",
   "scheduleFeatureLoadingErrorUnknownErrorMessage": "Схоже, виникла якась проблема на стороні твого закладу освіти. Якщо нічого не допомагає — звернися до нашої служби турботи!",
+  "scheduleFeatureLessonWidgetHalfPair": "{halfPair} півпара",
+  "@scheduleFeatureLessonWidgetHalfPair": {
+    "placeholders": {
+      "halfPair": {
+        "type": "num"
+      }
+    }
+  },
   "widgetMonojarAmountDonated": "Зібрано {amount} UAH",
   "@widgetMonojarAmountDonated": {
     "placeholders": {
