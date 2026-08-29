@@ -329,5 +329,15 @@
   "scheduleFeatureSearchDelegateGoToFavorites": "Marcar como favorito",
   "scheduleFeatureSearchDelegateGoToFullList": "Añadir a la lista",
   "scheduleFeatureSearchDelegateHeaderFavorites": "Acceso rápido",
-  "scheduleFeatureSearchDelegateHeaderHistory": "Visto recientemente"
+  "scheduleFeatureSearchDelegateHeaderHistory": "Visto recientemente",
+  "scheduleFeatureLoadingErrorEmptyScheduleTitle": "El horario está vacío",
+  "scheduleFeatureLoadingErrorEntityNotFoundTitle": "Hay que elegir un nuevo horario",
+  "scheduleFeatureLoadingErrorOnPreparationStageTitle": "Horario disponible pronto",
+  "scheduleFeatureLoadingErrorEmptyScheduleMessage": "¿Ya en vacaciones universitarias? ¿El horario sigue en el horno? ¿Una semana entera de relax? Demasiadas incógnitas, muy poco tiempo. ¡Vuelve a probar más tarde!",
+  "scheduleFeatureLoadingErrorEntityNotFoundMessage": "Tu grupo cambió de nombre y código por el inicio del nuevo curso. Puedes elegir otro horario en los ajustes de abajo.",
+  "scheduleFeatureLoadingErrorOnPreparationStageMessage": "Tu universidad todavía está trabajando en ello. Tendrás que esperar un poco y, mientras tanto… ¡échale un vistazo a nuestras redes sociales!",
+  "scheduleFeatureLoadingErrorServiceMaintenanceTitle": "¡Hora de tomarse un respiro!",
+  "scheduleFeatureLoadingErrorServiceMaintenanceMessage": "Servidores universitarios en mantenimiento. El horario no está disponible por ahora. ¡Regresa más tarde y todo estará listo!",
+  "scheduleFeatureLoadingErrorUnknownErrorTitle": "¡Vaya! Algo salió mal",
+  "scheduleFeatureLoadingErrorUnknownErrorMessage": "Parece que la web de tu universidad está dando problemas. Si no logras entrar, ¡escríbenos y lo miramos!"
 }
