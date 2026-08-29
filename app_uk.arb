@@ -288,6 +288,16 @@
   "scheduleFeatureSearchDelegateGoToFullList": "До переліку",
   "scheduleFeatureSearchDelegateHeaderFavorites": "Швидкий доступ",
   "scheduleFeatureSearchDelegateHeaderHistory": "Нещодавно переглянуте",
+  "scheduleFeatureLoadingErrorEmptyScheduleTitle": "У розкладі немає занять",
+  "scheduleFeatureLoadingErrorEmptyScheduleMessage": "Почалися канікули? Розклад ще не готовий? Тиждень без занять? Так багато питань, і так мало відповідей. Спробуй завітати пізніше!",
+  "scheduleFeatureLoadingErrorEntityNotFoundTitle": "Потрібно обрати новий розклад",
+  "scheduleFeatureLoadingErrorEntityNotFoundMessage": "Схоже, твоя група змінила назву і шифр. Таке трапляється на початку нового навчального року. Можеш обрати інший розклад занять у налаштуваннях нижче.",
+  "scheduleFeatureLoadingErrorOnPreparationStageTitle": "Розклад занять скоро з'явиться",
+  "scheduleFeatureLoadingErrorOnPreparationStageMessage": "Твій заклад освіти ще не сформував його повністю. Варто трошки зачекати, а поки — слідкуй за нами в соцмережах!",
+  "scheduleFeatureLoadingErrorServiceMaintenanceTitle": "Саме час трошки відпочити",
+  "scheduleFeatureLoadingErrorServiceMaintenanceMessage": "Сервери твого закладу освіти зараз на обслуговуванні, тож розклад занять тимчасово недоступний. Повертайся пізніше, все працюватиме!",
+  "scheduleFeatureLoadingErrorUnknownErrorTitle": "Трапилося щось невідоме",
+  "scheduleFeatureLoadingErrorUnknownErrorMessage": "Схоже, виникла якась проблема на стороні твого закладу освіти. Якщо нічого не допомагає — звернися до нашої служби турботи!",
   "widgetMonojarAmountDonated": "Зібрано {amount} UAH",
   "@widgetMonojarAmountDonated": {
     "placeholders": {
