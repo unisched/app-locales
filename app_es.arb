@@ -340,7 +340,7 @@
   "scheduleFeatureLoadingErrorServiceMaintenanceMessage": "Servidores universitarios en mantenimiento. El horario no está disponible por ahora. ¡Regresa más tarde y todo estará listo!",
   "scheduleFeatureLoadingErrorUnknownErrorTitle": "¡Vaya! Algo salió mal",
   "scheduleFeatureLoadingErrorUnknownErrorMessage": "Parece que la web de tu universidad está dando problemas. Si no logras entrar, ¡escríbenos y lo miramos!",
-  "scheduleFeatureLessonWidgetHalfPair": "Módulo de {halfPair}",
+  "scheduleFeatureLessonWidgetHalfPair": "Asistencia parcial {halfPair}",
   "@scheduleFeatureLessonWidgetHalfPair": {
     "placeholders": {
       "halfPair": {
@@ -348,5 +348,18 @@
       }
     }
   },
-  "scheduleFeatureLessonWidgetReplacement": "Hay cambios en el horario"
+  "scheduleFeatureLessonWidgetReplacement": "Hay cambios en el horario",
+  "generalOpenLink": "Ir al enlace",
+  "generalOpenLinkWithDomain": "Ir a {domainName}",
+  "@generalOpenLinkWithDomain": {
+    "placeholders": {
+      "domainName": {
+        "type": "String"
+      }
+    }
+  },
+  "scheduleFeatureLessonWidgetGroup": "Grupo (subgrupo)",
+  "scheduleFeatureLessonWidgetLocation": "Aula o ubicación",
+  "scheduleFeatureLessonWidgetTeacher": "Docente",
+  "scheduleFeatureLessonWidgetLinkComment": "Comentarios del enlace"
 }
