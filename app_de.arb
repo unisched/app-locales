@@ -351,5 +351,14 @@
     }
   },
   "generalOpenLink": "Folge dem Link",
-  "scheduleFeatureLessonWidgetLinkComment": "Anmerkungen zum Link"
+  "scheduleFeatureLessonWidgetLinkComment": "Anmerkungen zum Link",
+  "scheduleFeatureLessonWidgetReplacement": "Es gibt Änderungen im Stundenplan",
+  "scheduleFeatureLessonWidgetHalfPair": "Teilanwesenheit {halfPair}",
+  "@scheduleFeatureLessonWidgetHalfPair": {
+    "placeholders": {
+      "halfPair": {
+        "type": "num"
+      }
+    }
+  }
 }
