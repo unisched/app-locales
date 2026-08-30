@@ -354,5 +354,6 @@
     }
   },
   "generalOpenLink": "Follow the link",
-  "scheduleFeatureLessonWidgetLinkComment": "Notes on the link"
+  "scheduleFeatureLessonWidgetLinkComment": "Notes on the link",
+  "scheduleFeatureLessonWidgetTeacher": "Teacher"
 }
