@@ -360,5 +360,6 @@
         "type": "num"
       }
     }
-  }
+  },
+  "scheduleFeatureLessonWidgetTeacher": "Lehrer"
 }
