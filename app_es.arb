@@ -339,5 +339,14 @@
   "scheduleFeatureLoadingErrorServiceMaintenanceTitle": "¡Hora de tomarse un respiro!",
   "scheduleFeatureLoadingErrorServiceMaintenanceMessage": "Servidores universitarios en mantenimiento. El horario no está disponible por ahora. ¡Regresa más tarde y todo estará listo!",
   "scheduleFeatureLoadingErrorUnknownErrorTitle": "¡Vaya! Algo salió mal",
-  "scheduleFeatureLoadingErrorUnknownErrorMessage": "Parece que la web de tu universidad está dando problemas. Si no logras entrar, ¡escríbenos y lo miramos!"
+  "scheduleFeatureLoadingErrorUnknownErrorMessage": "Parece que la web de tu universidad está dando problemas. Si no logras entrar, ¡escríbenos y lo miramos!",
+  "scheduleFeatureLessonWidgetHalfPair": "Módulo de {halfPair}",
+  "@scheduleFeatureLessonWidgetHalfPair": {
+    "placeholders": {
+      "halfPair": {
+        "type": "num"
+      }
+    }
+  },
+  "scheduleFeatureLessonWidgetReplacement": "Hay cambios en el horario"
 }
