@@ -342,5 +342,17 @@
   "scheduleFeatureLoadingErrorUnknownErrorTitle": "We hit an unexpected snag",
   "scheduleFeatureLoadingErrorServiceMaintenanceMessage": "Your university's servers are down for maintenance, so the schedule is temporarily offline. Check back later – everything will be up and running!",
   "scheduleFeatureLoadingErrorUnknownErrorMessage": "It looks like there's an issue on your university's end. If nothing seems to work, feel free to reach out to our support team!",
-  "scheduleFeatureLessonWidgetReplacement": "There are changes in the timetable"
+  "scheduleFeatureLessonWidgetReplacement": "There are changes in the timetable",
+  "scheduleFeatureLessonWidgetGroup": "Group (subgroup)",
+  "scheduleFeatureLessonWidgetLocation": "Room or location",
+  "generalOpenLinkWithDomain": "Go to {domainName}",
+  "@generalOpenLinkWithDomain": {
+    "placeholders": {
+      "domainName": {
+        "type": "String"
+      }
+    }
+  },
+  "generalOpenLink": "Follow the link",
+  "scheduleFeatureLessonWidgetLinkComment": "Notes on the link"
 }
