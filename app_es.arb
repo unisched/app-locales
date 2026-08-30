@@ -347,5 +347,6 @@
         "type": "num"
       }
     }
-  }
+  },
+  "scheduleFeatureLessonWidgetReplacement": "Hay cambios en el horario"
 }
