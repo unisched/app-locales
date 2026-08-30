@@ -306,6 +306,7 @@
       }
     }
   },
+  "scheduleFeatureLessonWidgetReplacement": "Присутні зміни в розкладі",
   "widgetMonojarAmountDonated": "Зібрано {amount} UAH",
   "@widgetMonojarAmountDonated": {
     "placeholders": {
