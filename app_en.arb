@@ -355,5 +355,13 @@
   },
   "generalOpenLink": "Follow the link",
   "scheduleFeatureLessonWidgetLinkComment": "Notes on the link",
-  "scheduleFeatureLessonWidgetTeacher": "Teacher"
+  "scheduleFeatureLessonWidgetTeacher": "Teacher",
+  "scheduleFeatureLessonWidgetHalfPair": "{halfPair} half-class",
+  "@scheduleFeatureLessonWidgetHalfPair": {
+    "placeholders": {
+      "halfPair": {
+        "type": "num"
+      }
+    }
+  }
 }
