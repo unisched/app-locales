@@ -1,4 +1,12 @@
 {
+  "appShareShortText": "Завантажуй Unisched та дивись розклад у застосунку: {link}",
+  "@appShareShortText": {
+    "placeholders": {
+      "link": {
+        "type": "String"
+      }
+    }
+  },
   "generalAiUsageWarning": "Штучний інтелект може робити помилки. Він не вміє надавати першу допомогу за екстрених ситуацій.",
   "generalBooleanYesOrNo": "{value, select, true{Так} false{Ні} other{Невідомо}}",
   "generalOpenLink": "Перейти за посиланням",
@@ -79,6 +87,10 @@
   "generalTextNoCategory": "Без категорії",
   "genericToastsNotificationPermissionNotGranted": "Сповіщення вимкнено",
   "genericToastsNotificationPermissionNotGrantedDescription": "Ти не зможеш отримувати сповіщення від Unisched, поки не зміниш налаштування пристрою.",
+  "genericToastsNotificationNoConnection": "Немає підключення до мережі",
+  "genericToastsNotificationNoConnectionDescription": "Не вдалося завантажити дані. Перевір підключення до мережі та спробуй ще раз.",
+  "genericToastsNotificationNothingFound": "Нічого не знайдено",
+  "genericToastsNotificationNothingFoundDescription": "За цим запитом нічого не знайдено. Схоже, дані ще не внесено, або вони встигли змінитися.",
   "dialogActionUnderstand": "Зрозуміло",
   "dialogActionCancel": "Скасувати",
   "dialogActionContinue": "Продовжити",
@@ -320,6 +332,7 @@
   "scheduleFeatureLessonWidgetLocation": "Кабінет або локація",
   "scheduleFeatureLessonWidgetTeacher": "Викладач",
   "scheduleFeatureLessonWidgetLinkComment": "Примітки до посилання",
+  "scheduleFeatureLessonOptionsSheetCopyDetails": "Копіювати деталі заняття",
   "widgetMonojarAmountDonated": "Зібрано {amount} UAH",
   "@widgetMonojarAmountDonated": {
     "placeholders": {
