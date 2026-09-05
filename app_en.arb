@@ -356,7 +356,7 @@
   "generalOpenLink": "Follow the link",
   "scheduleFeatureLessonWidgetLinkComment": "Notes on the link",
   "scheduleFeatureLessonWidgetTeacher": "Teacher",
-  "scheduleFeatureLessonWidgetHalfPair": "{halfPair} half-class",
+  "scheduleFeatureLessonWidgetHalfPair": "{halfPair} Half a slot",
   "@scheduleFeatureLessonWidgetHalfPair": {
     "placeholders": {
       "halfPair": {
