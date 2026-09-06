@@ -361,5 +361,18 @@
       }
     }
   },
-  "scheduleFeatureLessonWidgetTeacher": "Lehrer"
+  "scheduleFeatureLessonWidgetTeacher": "Lehrer",
+  "genericToastsNotificationNothingFound": "Keine Ergebnisse gefunden",
+  "genericToastsNotificationNoConnection": "Keine Internetverbindung",
+  "scheduleFeatureLessonOptionsSheetCopyDetails": "Details der Stunde kopieren",
+  "appShareShortText": "Lade Unisched herunter und sieh dir den Stundenplan in der App an: {link}",
+  "@appShareShortText": {
+    "placeholders": {
+      "link": {
+        "type": "String"
+      }
+    }
+  },
+  "genericToastsNotificationNoConnectionDescription": "Die Daten konnten nicht heruntergeladen werden. Überprüfe deine Verbindung und versuche es erneut.",
+  "genericToastsNotificationNothingFoundDescription": "Zu dieser Anfrage wurde nichts gefunden. Es scheint, als seien die Daten noch nicht eingegeben worden oder sich inzwischen geändert zu haben."
 }
