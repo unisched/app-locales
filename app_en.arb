@@ -363,5 +363,18 @@
         "type": "num"
       }
     }
-  }
+  },
+  "genericToastsNotificationNothingFound": "No results found",
+  "genericToastsNotificationNoConnection": "No internet connection",
+  "scheduleFeatureLessonOptionsSheetCopyDetails": "Copy class details",
+  "appShareShortText": "Download Unisched and view the schedule in the app: {link}",
+  "@appShareShortText": {
+    "placeholders": {
+      "link": {
+        "type": "String"
+      }
+    }
+  },
+  "genericToastsNotificationNoConnectionDescription": "Failed to download data. Check your network connection and try again.",
+  "genericToastsNotificationNothingFoundDescription": "Nothing was found for this query. It seems that the data has not yet been entered, or it has since changed."
 }
