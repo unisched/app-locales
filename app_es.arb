@@ -361,5 +361,18 @@
   "scheduleFeatureLessonWidgetGroup": "Grupo (subgrupo)",
   "scheduleFeatureLessonWidgetLocation": "Aula o ubicación",
   "scheduleFeatureLessonWidgetTeacher": "Profesor",
-  "scheduleFeatureLessonWidgetLinkComment": "Comentarios del enlace"
+  "scheduleFeatureLessonWidgetLinkComment": "Comentarios del enlace",
+  "appShareShortText": "Descarga Unisched y consulta el horario en la aplicación: {link}",
+  "@appShareShortText": {
+    "placeholders": {
+      "link": {
+        "type": "String"
+      }
+    }
+  },
+  "genericToastsNotificationNoConnection": "Sin conexión a internet",
+  "genericToastsNotificationNoConnectionDescription": "No se pudieron cargar los datos. Por favor, compruebe su conexión a internet e inténtelo de nuevo.",
+  "genericToastsNotificationNothingFound": "Sin resultados",
+  "genericToastsNotificationNothingFoundDescription": "No se encontraron resultados para esta consulta. Parece que los datos aún no se han introducido o que han cambiado desde entonces.",
+  "scheduleFeatureLessonOptionsSheetCopyDetails": "Copiar detalles de la clase"
 }
