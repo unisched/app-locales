@@ -376,5 +376,7 @@
     }
   },
   "genericToastsNotificationNoConnectionDescription": "Failed to download data. Check your network connection and try again.",
-  "genericToastsNotificationNothingFoundDescription": "Nothing was found for this query. It seems that the data has not yet been entered, or it has since changed."
+  "genericToastsNotificationNothingFoundDescription": "Nothing was found for this query. It seems that the data has not yet been entered, or it has since changed.",
+  "helpPageSearchSectionTitle": "Ask AI",
+  "dialogActionClose": "Close"
 }
