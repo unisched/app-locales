@@ -374,5 +374,7 @@
     }
   },
   "genericToastsNotificationNoConnectionDescription": "Die Daten konnten nicht heruntergeladen werden. Überprüfe deine Verbindung und versuche es erneut.",
-  "genericToastsNotificationNothingFoundDescription": "Zu dieser Anfrage wurde nichts gefunden. Es scheint, als seien die Daten noch nicht eingegeben worden oder sich inzwischen geändert zu haben."
+  "genericToastsNotificationNothingFoundDescription": "Zu dieser Anfrage wurde nichts gefunden. Es scheint, als seien die Daten noch nicht eingegeben worden oder sich inzwischen geändert zu haben.",
+  "helpPageSearchSectionTitle": "KI fragen",
+  "dialogActionClose": "Schließen"
 }
