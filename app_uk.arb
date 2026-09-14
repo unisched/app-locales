@@ -336,6 +336,16 @@
   "scheduleFeatureLessonWidgetTeacher": "Викладач",
   "scheduleFeatureLessonWidgetLinkComment": "Примітки до посилання",
   "scheduleFeatureLessonOptionsSheetCopyDetails": "Копіювати деталі заняття",
+  "scheduleFeatureHideSubgroup": "Приховати підгрупу",
+  "scheduleFeatureHideSubgroupConfirmText": "Підгрупа «{name}» буде прихована з твого розкладу занять.\n\nТи зможеш відновити її показ у налаштуваннях застосунку.",
+  "@scheduleFeatureHideSubgroupConfirmText": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "scheduleFeatureHideLesson": "Приховати заняття",
   "widgetMonojarAmountDonated": "Зібрано {amount} UAH",
   "@widgetMonojarAmountDonated": {
     "placeholders": {
