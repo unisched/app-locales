@@ -8,6 +8,7 @@
     }
   },
   "generalAiUsageWarning": "Штучний інтелект може робити помилки. Він не вміє надавати першу допомогу за екстрених ситуацій.",
+  "generalAdsUsageWarning": "Ця пропозиція є рекламною інтеграцією.",
   "generalBooleanYesOrNo": "{value, select, true{Так} false{Ні} other{Невідомо}}",
   "generalOpenLink": "Перейти за посиланням",
   "generalOpenLinkWithDomain": "Перейти до {domainName}",
