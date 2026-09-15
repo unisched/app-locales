@@ -382,5 +382,15 @@
   "scheduleSettingsPageItemResetScheduleSettingsConfirmation": "You'll be able to choose and customize your class schedule again. Continue?",
   "generalAdsUsageWarning": "Ads to support other developers.",
   "scheduleSettingsPageItemResetScheduleSettings": "Reset schedule settings",
-  "scheduleSettingsPageItemResetScheduleSettingsDescription": "By doing this, the schedule you set up in the app will be reset"
+  "scheduleSettingsPageItemResetScheduleSettingsDescription": "By doing this, the schedule you set up in the app will be reset",
+  "scheduleFeatureHideLesson": "Hide class",
+  "scheduleFeatureHideSubgroup": "Hide subgroup",
+  "scheduleFeatureHideSubgroupConfirmText": "The “{name}” subgroup will be hidden from your class schedule.\n\nYou can make it visible again in the app settings.",
+  "@scheduleFeatureHideSubgroupConfirmText": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  }
 }
