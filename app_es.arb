@@ -376,5 +376,15 @@
   "genericToastsNotificationNothingFoundDescription": "No se encontraron resultados para esta consulta. Parece que los datos aún no se han introducido o que han cambiado desde entonces.",
   "scheduleFeatureLessonOptionsSheetCopyDetails": "Copiar detalles de la clase",
   "dialogActionClose": "Cerrar",
-  "helpPageSearchSectionTitle": "Preguntar a la IA"
+  "helpPageSearchSectionTitle": "Preguntar a la IA",
+  "scheduleFeatureHideSubgroup": "Ocultar subgrupo",
+  "scheduleFeatureHideSubgroupConfirmText": "Subgrupo «{name}» ocultado. \n\nPuedes volver a activarlo desde los ajustes.",
+  "@scheduleFeatureHideSubgroupConfirmText": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "scheduleFeatureHideLesson": "Ocultar clase"
 }
