@@ -380,5 +380,15 @@
   "scheduleSettingsPageItemResetScheduleSettingsConfirmation": "Du kannst deinen Stundenplan erneut auswählen und nach deinen Wünschen anpassen. Weiter?",
   "generalAdsUsageWarning": "Werbung, um andere Entwickler zu unterstützen.",
   "scheduleSettingsPageItemResetScheduleSettings": "Stundenplan-Einstellungen zurücksetzen",
-  "scheduleSettingsPageItemResetScheduleSettingsDescription": "Dadurch wird der von dir in der App konfigurierte Stundenplan zurückgesetzt"
+  "scheduleSettingsPageItemResetScheduleSettingsDescription": "Dadurch wird der von dir in der App konfigurierte Stundenplan zurückgesetzt",
+  "scheduleFeatureHideLesson": "Stunde ausblenden",
+  "scheduleFeatureHideSubgroup": "Untergruppe ausblenden",
+  "scheduleFeatureHideSubgroupConfirmText": "Die Untergruppe „{name}“ wird in deinem Stundenplan ausgeblendet.\n\nDu kannst sie in den App-Einstellungen wieder sichtbar machen.",
+  "@scheduleFeatureHideSubgroupConfirmText": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  }
 }
