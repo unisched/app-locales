@@ -386,5 +386,9 @@
       }
     }
   },
-  "scheduleFeatureHideLesson": "Ocultar clase"
+  "scheduleFeatureHideLesson": "Ocultar clase",
+  "generalAdsUsageWarning": "Publicidad para apoyar a otros desarrolladores.",
+  "scheduleSettingsPageItemResetScheduleSettingsDescription": "Al hacer esto, se restablecerá el horario de clases que configuraste en la aplicación",
+  "scheduleSettingsPageItemResetScheduleSettingsConfirmation": "Después podrás elegir y personalizar el horario de clases que prefieras. ¿Seguir?",
+  "scheduleSettingsPageItemResetScheduleSettings": "Reiniciar el horario"
 }
