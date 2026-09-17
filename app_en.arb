@@ -378,5 +378,9 @@
   "genericToastsNotificationNoConnectionDescription": "Failed to download data. Check your network connection and try again.",
   "genericToastsNotificationNothingFoundDescription": "Nothing was found for this query. It seems that the data has not yet been entered, or it has since changed.",
   "helpPageSearchSectionTitle": "Ask AI",
-  "dialogActionClose": "Close"
+  "dialogActionClose": "Close",
+  "scheduleSettingsPageItemResetScheduleSettingsConfirmation": "You'll be able to choose and customize your class schedule again. Continue?",
+  "generalAdsUsageWarning": "Ads to support other developers.",
+  "scheduleSettingsPageItemResetScheduleSettings": "Reset schedule settings",
+  "scheduleSettingsPageItemResetScheduleSettingsDescription": "By doing this, the schedule you set up in the app will be reset"
 }
