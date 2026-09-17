@@ -376,5 +376,9 @@
   "genericToastsNotificationNoConnectionDescription": "Die Daten konnten nicht heruntergeladen werden. Überprüfe deine Verbindung und versuche es erneut.",
   "genericToastsNotificationNothingFoundDescription": "Zu dieser Anfrage wurde nichts gefunden. Es scheint, als seien die Daten noch nicht eingegeben worden oder sich inzwischen geändert zu haben.",
   "helpPageSearchSectionTitle": "KI fragen",
-  "dialogActionClose": "Schließen"
+  "dialogActionClose": "Schließen",
+  "scheduleSettingsPageItemResetScheduleSettingsConfirmation": "Du kannst deinen Stundenplan erneut auswählen und nach deinen Wünschen anpassen. Weiter?",
+  "generalAdsUsageWarning": "Werbung, um andere Entwickler zu unterstützen.",
+  "scheduleSettingsPageItemResetScheduleSettings": "Stundenplan-Einstellungen zurücksetzen",
+  "scheduleSettingsPageItemResetScheduleSettingsDescription": "Dadurch wird der von dir in der App konfigurierte Stundenplan zurückgesetzt"
 }
