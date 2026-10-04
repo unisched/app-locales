@@ -380,7 +380,7 @@
   "helpPageSearchSectionTitle": "Ask AI",
   "dialogActionClose": "Close",
   "scheduleSettingsPageItemResetScheduleSettingsConfirmation": "You'll be able to choose and customize your class schedule again. Continue?",
-  "generalAdsUsageWarning": "Ads to support other developers.",
+  "generalAdsUsageWarning": "This suggestion is an advertising integration.",
   "scheduleSettingsPageItemResetScheduleSettings": "Reset schedule settings",
   "scheduleSettingsPageItemResetScheduleSettingsDescription": "By doing this, the schedule you set up in the app will be reset",
   "scheduleFeatureHideLesson": "Hide class",
