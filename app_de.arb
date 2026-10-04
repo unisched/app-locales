@@ -391,5 +391,16 @@
       }
     }
   },
-  "widgetCommonErrorReasonNoNetworkConnection": "Keine Internetverbindung"
+  "widgetCommonErrorReasonNoNetworkConnection": "Keine Internetverbindung",
+  "widgetCommonNotFoundTitle": "Es es leer",
+  "widgetCommonNotFoundDescription": "Langeweile?. Ab zu Unisched!.Sei aktiv und schnapp dir neuen Content",
+  "widgetCommonErrorReasonNoNetworkConnectionDescription": "Kein Netzwerkzugriff. Signal prüfen oder später erneut in Unisched versuchen.",
+  "widgetCommonErrorReasonVpnConnectionUnsupported": "VPN nicht erlaubt",
+  "widgetCommonErrorReasonVpnConnectionUnsupportedDescription": "VPN-Verbindungsfehler. Bitte deaktivieren Sie das VPN, um den Zugriff auf Unisched wiederherzustellen.",
+  "widgetCommonErrorReasonUnischedMaintenance": "Baustelle! Wir bauen etwas Großartiges für dich. Schau in ein paar Minuten wieder vorbei",
+  "widgetCommonErrorReasonUnischedMaintenanceDescription": "Stundenpläne werden aktualisiert. Wir synchronisieren die akademischen Server von Unisched. Der Zugriff wird bald wiederhergestellt",
+  "widgetCommonErrorReasonAppRequiresUpgrade": "Neue Superkräfte verfügbar!. Aktualisiere Unisched jetzt",
+  "widgetCommonErrorReasonAppRequiresUpgradeDescription": "Bleib auf dem Laufenden! Schau im App Store deines Geräts vorbei, um Unisched zu aktualisieren und wieder vollen Zugriff zu erhalten.",
+  "widgetCommonErrorReason": "Hoppla! Das sollte nicht passieren",
+  "widgetCommonErrorReasonDescription": "App-Fehler. Kontaktiere den Support für eine schnelle Lösung."
 }
