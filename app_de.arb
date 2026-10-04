@@ -390,5 +390,6 @@
         "type": "String"
       }
     }
-  }
+  },
+  "widgetCommonErrorReasonNoNetworkConnection": "Keine Internetverbindung"
 }
