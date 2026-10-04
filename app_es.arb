@@ -391,5 +391,16 @@
   "scheduleSettingsPageItemResetScheduleSettingsDescription": "Al hacer esto, se restablecerá el horario de clases que configuraste en la aplicación",
   "scheduleSettingsPageItemResetScheduleSettingsConfirmation": "Después podrás elegir y personalizar el horario de clases que prefieras. ¿Seguir?",
   "scheduleSettingsPageItemResetScheduleSettings": "Reiniciar el horario",
-  "widgetCommonErrorReasonNoNetworkConnection": "Sin conexión a internet"
+  "widgetCommonErrorReasonNoNetworkConnection": "Sin conexión a internet",
+  "widgetCommonNotFoundTitle": "Está vacío",
+  "widgetCommonNotFoundDescription": "¡Explora Unisched más seguido y no te pierdas el contenido nuevo!",
+  "widgetCommonErrorReasonNoNetworkConnectionDescription": "Sin acceso a la red.Comprueba tu señal o reintenta en Unisched más tarde.",
+  "widgetCommonErrorReasonVpnConnectionUnsupported": "VPN no admitida",
+  "widgetCommonErrorReasonVpnConnectionUnsupportedDescription": "Incompatibilidad de red. Unisched no permite el acceso a través de conexiones VPN activas.",
+  "widgetCommonErrorReasonUnischedMaintenance": "Nuestros hámsters están cansados. Estamos dándoles de comer y ajustando los servidores. ¡Volvemos pronto!",
+  "widgetCommonErrorReasonUnischedMaintenanceDescription": "Servicio técnico en el campus. Estamos optimizando la plataforma de Unisched para tus clases. ¡Vuelve a intentarlo en la próxima pausa!",
+  "widgetCommonErrorReasonAppRequiresUpgrade": "¡Unisched se ha vuelto más listo!. Actualiza la app para no quedarte atrás",
+  "widgetCommonErrorReasonAppRequiresUpgradeDescription": "• ¡No te quedes atrás! Pásate por la tienda de apps de tu móvil para actualizar Unisched y recuperar el acceso a todas tus herramientas.",
+  "widgetCommonErrorReason": "Algo ha salido mal",
+  "widgetCommonErrorReasonDescription": "La app ha tenido un tropiezo. ¡Avisa a nuestro equipo de atención para que lo solucionemos volando!"
 }
