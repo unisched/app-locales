@@ -393,5 +393,16 @@
       }
     }
   },
-  "widgetCommonErrorReasonNoNetworkConnection": "No internet connection"
+  "widgetCommonErrorReasonNoNetworkConnection": "No internet connection",
+  "widgetCommonNotFoundTitle": "It's empty",
+  "widgetCommonNotFoundDescription": "Bored?. Open Unisched!. Get active and watch new content",
+  "widgetCommonErrorReasonNoNetworkConnectionDescription": "Connection error. Try again later on Unisched.",
+  "widgetCommonErrorReasonVpnConnectionUnsupported": "VPN not allowed",
+  "widgetCommonErrorReasonVpnConnectionUnsupportedDescription": "Oops! Your VPN is blocking us.. Turn it off for a moment and try again.",
+  "widgetCommonErrorReasonUnischedMaintenance": "Unisched went to the spa!. Coming back fresh and shiny in a moment",
+  "widgetCommonErrorReasonUnischedMaintenanceDescription": "Study break. Unisched is undergoing maintenance to ensure your schedules run smoothly. Back in a flash",
+  "widgetCommonErrorReasonAppRequiresUpgrade": "Fresh out of the oven!. Update the app and enjoy what's new",
+  "widgetCommonErrorReasonAppRequiresUpgradeDescription": "Don't miss out!. Head over to your device's app store to update Unisched and unlock all your tools again.",
+  "widgetCommonErrorReason": "Oops! That wasn't supposed to happen",
+  "widgetCommonErrorReasonDescription": "Red alert! Our engineers are running in circles. Ping support so we can help them clean up this mess."
 }
