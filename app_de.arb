@@ -402,5 +402,9 @@
   "widgetCommonErrorReasonAppRequiresUpgrade": "Die App muss aktualisiert werden",
   "widgetCommonErrorReasonAppRequiresUpgradeDescription": "Unisched muss regelmäßig über den App-Store deines Geräts aktualisiert werden. Führe die Aktualisierung jetzt durch, um wieder Zugriff auf alle Funktionen der App zu erhalten.",
   "widgetCommonErrorReason": "Hoppla! Das sollte nicht passieren",
-  "widgetCommonErrorReasonDescription": "Es ist ein Fehler in der App aufgetreten. Wende dich an unseren Support, damit wir das Problem möglichst schnell beheben können!"
+  "widgetCommonErrorReasonDescription": "Es ist ein Fehler in der App aufgetreten. Wende dich an unseren Support, damit wir das Problem möglichst schnell beheben können!",
+  "userProfilePageLogInAction": "Bei deinem Konto anmelden",
+  "userProfilePageLogOutAction": "Von deinem Konto abmelden",
+  "userProfilePageSignInLandingTitle": "Melde dich bei deinem Unisched-Konto an",
+  "userProfilePageSignInLandingDescription": "Um auf die erweiterten Funktionen der Plattform zuzugreifen, melde dich mit deinem Universitätskonto bei Unisched an"
 }
