@@ -394,10 +394,10 @@
     }
   },
   "widgetCommonErrorReasonNoNetworkConnection": "No internet connection",
-  "widgetCommonNotFoundTitle": "It's empty",
+  "widgetCommonNotFoundTitle": "There's nothing here yet",
   "widgetCommonNotFoundDescription": "Use Unisched more actively to find new content in the app",
   "widgetCommonErrorReasonNoNetworkConnectionDescription": "Check your network connection or use Unisched a bit later.",
-  "widgetCommonErrorReasonVpnConnectionUnsupported": "VPN usage is not supported",
+  "widgetCommonErrorReasonVpnConnectionUnsupported": "VPN is not supported",
   "widgetCommonErrorReasonVpnConnectionUnsupportedDescription": "It looks like your VPN is blocking access to the Unisched servers. Turn it off and try again.",
   "widgetCommonErrorReasonUnischedMaintenance": "Unisched is undergoing maintenance",
   "widgetCommonErrorReasonUnischedMaintenanceDescription": "Study break. Unisched is undergoing maintenance to ensure everything runs smoothly. Back in a flash!",
