@@ -404,5 +404,9 @@
   "widgetCommonErrorReasonAppRequiresUpgrade": "The app needs to be updated",
   "widgetCommonErrorReasonAppRequiresUpgradeDescription": "You need to keep Unisched updated via your device's app store. Do this now to restore access to all the app's features.",
   "widgetCommonErrorReason": "Oops! That wasn't supposed to happen",
-  "widgetCommonErrorReasonDescription": "An error occurred in the app. Please contact our support team so we can fix it as soon as possible!"
+  "widgetCommonErrorReasonDescription": "An error occurred in the app. Please contact our support team so we can fix it as soon as possible!",
+  "userProfilePageLogInAction": "Sign in to your account",
+  "userProfilePageLogOutAction": "Sign out of your account",
+  "userProfilePageSignInLandingDescription": "To access the platform's advanced features, log in to Unisched using your university account",
+  "userProfilePageSignInLandingTitle": "Log in to your Unisched account"
 }
