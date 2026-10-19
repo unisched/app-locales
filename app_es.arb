@@ -402,5 +402,9 @@
   "widgetCommonErrorReasonAppRequiresUpgrade": "¡Unisched se ha vuelto más listo!. Actualiza la app para no quedarte atrás",
   "widgetCommonErrorReasonAppRequiresUpgradeDescription": "• ¡No te quedes atrás! Pásate por la tienda de apps de tu móvil para actualizar Unisched y recuperar el acceso a todas tus herramientas.",
   "widgetCommonErrorReason": "Algo ha salido mal",
-  "widgetCommonErrorReasonDescription": "La app ha tenido un tropiezo. ¡Avisa a nuestro equipo de atención para que lo solucionemos volando!"
+  "widgetCommonErrorReasonDescription": "La app ha tenido un tropiezo. ¡Avisa a nuestro equipo de atención para que lo solucionemos volando!",
+  "userProfilePageLogInAction": "Iniciar sesión",
+  "userProfilePageLogOutAction": "Cerrar sesión",
+  "userProfilePageSignInLandingTitle": "Accede a tu cuenta de Unisched",
+  "userProfilePageSignInLandingDescription": "Para acceder a las funciones avanzadas de la plataforma, inicia sesión en Unisched con tu cuenta universitaria"
 }
