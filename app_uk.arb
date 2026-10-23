@@ -381,6 +381,14 @@
     }
   },
   "scheduleFeatureHideLesson": "Приховати заняття",
+  "scheduleFeatureHideLessonConfirmText": "Заняття «{title}» буде приховане з твого розкладу занять разом з усіма парами з такою ж назвою та викладачем.\n\nТи зможеш відновити його показ у налаштуваннях застосунку.",
+  "@scheduleFeatureHideLessonConfirmText": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      }
+    }
+  },
   "widgetMonojarAmountDonated": "Зібрано {amount} UAH",
   "@widgetMonojarAmountDonated": {
     "placeholders": {
