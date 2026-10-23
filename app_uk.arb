@@ -220,8 +220,8 @@
   "scheduleSettingsFilteringPageTitle": "Фільтрувати розклад",
   "scheduleSettingsFilteringPageTabSubgroupsTitle": "За групами",
   "scheduleSettingsFilteringPageTabLessonsTitle": "За заняттями",
-  "scheduleSettingsFilteringPageSubgroupMentionsPerWeek": "{currentWeek} цього тижня · {nextWeek} наступного",
-  "@scheduleSettingsFilteringPageSubgroupMentionsPerWeek": {
+  "scheduleSettingsFilteringPageMentionsPerWeek": "{currentWeek} цього тижня · {nextWeek} наступного",
+  "@scheduleSettingsFilteringPageMentionsPerWeek": {
     "placeholders": {
       "currentWeek": {
         "type": "int"
@@ -232,6 +232,7 @@
     }
   },
   "scheduleSettingsFilteringPageSubgroupsInstruction": "Вибери підгрупи, заняття яких хочеш бачити у своєму розкладі. Вимкнені підгрупи одразу зникають із нього, а ввімкнені — повертаються.",
+  "scheduleSettingsFilteringPageLessonsInstruction": "Вибери заняття, які хочеш бачити у своєму розкладі. Вимкнені заняття зникають разом з усіма парами з такою ж назвою та викладачем, а ввімкнені — повертаються.",
   "scheduleSearchDelegateOnPrimaryScheduleSelectedConfirmation": "Обраний тобою розклад занять буде відображатися за замовчуванням у Unisched. Ти можеш змінювати його на власний розсуд у налаштуваннях.",
   "scheduleEntityTypeGroup": "Студентська група",
   "scheduleEntityTypeTeacher": "Викладач",
