@@ -406,5 +406,32 @@
   "userProfilePageLogInAction": "Iniciar sesión",
   "userProfilePageLogOutAction": "Cerrar sesión",
   "userProfilePageSignInLandingTitle": "Accede a tu cuenta de Unisched",
-  "userProfilePageSignInLandingDescription": "Para acceder a las funciones avanzadas de la plataforma, inicia sesión en Unisched con tu cuenta universitaria"
+  "userProfilePageSignInLandingDescription": "Para acceder a las funciones avanzadas de la plataforma, inicia sesión en Unisched con tu cuenta universitaria",
+  "scheduleSettingsPageSectionAddons": "Más opciones",
+  "scheduleSettingsPageItemWeatherAddon": "Pronóstico en el calendario estudiantil",
+  "scheduleSettingsPageItemWeatherAddonDescription": "Pronóstico breve en el calendario",
+  "scheduleSettingsFilteringPageTitle": "Filtrar clases",
+  "scheduleSettingsFilteringPageTabSubgroupsTitle": "Filtrar por grupo",
+  "scheduleSettingsFilteringPageTabLessonsTitle": "Por materias",
+  "scheduleSettingsFilteringPageMentionsPerWeek": "{currentWeek} De esta semana · {nextWeek} De la próxima",
+  "@scheduleSettingsFilteringPageMentionsPerWeek": {
+    "placeholders": {
+      "currentWeek": {
+        "type": "int"
+      },
+      "nextWeek": {
+        "type": "int"
+      }
+    }
+  },
+  "scheduleSettingsFilteringPageSubgroupsInstruction": "Elige qué subgrupos deseas ver en tu horario. Los desactivados se ocultarán al instante y los activados volverán a aparecer.",
+  "scheduleSettingsFilteringPageLessonsInstruction": "Elige las asignaturas que quieres ver en tu horario. Las clases desactivadas se ocultarán junto con todas las sesiones del mismo nombre y profesor, y las activadas volverán a aparecer.",
+  "scheduleFeatureHideLessonConfirmText": "La asignatura «{title}» se ocultará de tu horario de clases junto con todas las sesiones que compartan el mismo nombre y docente. \n\nPodrás volver a activarla en la configuración de la aplicación.",
+  "@scheduleFeatureHideLessonConfirmText": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      }
+    }
+  }
 }
