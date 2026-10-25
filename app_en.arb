@@ -408,5 +408,23 @@
   "userProfilePageLogInAction": "Sign in to your account",
   "userProfilePageLogOutAction": "Sign out of your account",
   "userProfilePageSignInLandingDescription": "To access the platform's advanced features, log in to Unisched using your university account",
-  "userProfilePageSignInLandingTitle": "Log in to your Unisched account"
+  "userProfilePageSignInLandingTitle": "Log in to your Unisched account",
+  "scheduleSettingsPageItemWeatherAddonDescription": "A brief weather forecast in the class schedule",
+  "scheduleSettingsPageItemWeatherAddon": "Weather in the schedule",
+  "scheduleSettingsPageSectionAddons": "Additional features",
+  "scheduleSettingsFilteringPageTitle": "Filter schedule",
+  "scheduleSettingsFilteringPageTabSubgroupsTitle": "By groups",
+  "scheduleSettingsFilteringPageTabLessonsTitle": "By classes",
+  "scheduleSettingsFilteringPageMentionsPerWeek": "{currentWeek} this week · {nextWeek} next week",
+  "@scheduleSettingsFilteringPageMentionsPerWeek": {
+    "placeholders": {
+      "currentWeek": {
+        "type": "int"
+      },
+      "nextWeek": {
+        "type": "int"
+      }
+    }
+  },
+  "settingsPageSectionFeaturesNotifications": "Notifications"
 }
