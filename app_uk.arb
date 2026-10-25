@@ -299,6 +299,7 @@
   "userProfilePageCoreInfoSectionDeviceIdentifierHash": "Хеш пристрою",
   "userProfilePageLogInAction": "Увійти до облікового запису",
   "userProfilePageLogOutAction": "Вийти з облікового запису",
+  "userProfilePageDeleteAccountAction": "Видалити обліковий запис",
   "userProfilePageSignInLandingTitle": "Увійди до свого облікового запису Unisched",
   "userProfilePageSignInLandingDescription": "Щоб отримати доступ до розширених можливостей платформи, увійдіть в Unisched зі своїм університетським обліковим записом",
   "notificationsCenterPageTitle": "Сповіщення",
