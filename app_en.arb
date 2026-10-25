@@ -426,5 +426,6 @@
       }
     }
   },
-  "settingsPageSectionFeaturesNotifications": "Notifications"
+  "settingsPageSectionFeaturesNotifications": "Notifications",
+  "userProfilePageDeleteAccountAction": "Delete my account"
 }
