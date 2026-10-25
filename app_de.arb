@@ -406,5 +406,23 @@
   "userProfilePageLogInAction": "Bei deinem Konto anmelden",
   "userProfilePageLogOutAction": "Von deinem Konto abmelden",
   "userProfilePageSignInLandingTitle": "Melde dich bei deinem Unisched-Konto an",
-  "userProfilePageSignInLandingDescription": "Um auf die erweiterten Funktionen der Plattform zuzugreifen, melde dich mit deinem Universitätskonto bei Unisched an"
+  "userProfilePageSignInLandingDescription": "Um auf die erweiterten Funktionen der Plattform zuzugreifen, melde dich mit deinem Universitätskonto bei Unisched an",
+  "scheduleSettingsPageSectionAddons": "Zusätzliche Funktionen",
+  "scheduleSettingsFilteringPageTabSubgroupsTitle": "Nach Gruppen",
+  "scheduleSettingsFilteringPageTabLessonsTitle": "Nach Stunden",
+  "scheduleSettingsFilteringPageTitle": "Zeitplan filtern",
+  "scheduleSettingsFilteringPageMentionsPerWeek": "{currentWeek} diese Woche · {nextWeek} nächste Woche",
+  "@scheduleSettingsFilteringPageMentionsPerWeek": {
+    "placeholders": {
+      "currentWeek": {
+        "type": "int"
+      },
+      "nextWeek": {
+        "type": "int"
+      }
+    }
+  },
+  "scheduleSettingsPageItemWeatherAddon": "Wetter im Stundenplan",
+  "scheduleSettingsPageItemWeatherAddonDescription": "Eine kurze Wettervorhersage im Stundenplan",
+  "settingsPageSectionFeaturesNotifications": "Benachrichtigungen"
 }
