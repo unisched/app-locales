@@ -424,5 +424,6 @@
   },
   "scheduleSettingsPageItemWeatherAddon": "Wetter im Stundenplan",
   "scheduleSettingsPageItemWeatherAddonDescription": "Eine kurze Wettervorhersage im Stundenplan",
-  "settingsPageSectionFeaturesNotifications": "Benachrichtigungen"
+  "settingsPageSectionFeaturesNotifications": "Benachrichtigungen",
+  "userProfilePageDeleteAccountAction": "Mein Konto löschen"
 }
