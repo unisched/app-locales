@@ -438,5 +438,6 @@
   "settingsPageSectionFeaturesNotificationsDescription": "Gestiona las notificaciones de la aplicación y de tu centro educativo",
   "notificationsSettingsPageNotificationCategories": "Tipos de notificaciones",
   "notificationsSettingsPageInstitution": "Notificaciones del centro",
-  "notificationsSettingsPageInstitutionDescription": "Recibe noticias y actualizaciones de tu centro educativo"
+  "notificationsSettingsPageInstitutionDescription": "Recibe noticias y actualizaciones de tu centro educativo",
+  "userProfilePageDeleteAccountAction": "Eliminar cuenta"
 }
