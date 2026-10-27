@@ -427,5 +427,19 @@
     }
   },
   "settingsPageSectionFeaturesNotifications": "Notifications",
-  "userProfilePageDeleteAccountAction": "Delete my account"
+  "userProfilePageDeleteAccountAction": "Delete my account",
+  "settingsPageSectionFeaturesNotificationsDescription": "Manage notifications from the app and your educational institution",
+  "notificationsSettingsPageNotificationCategories": "Notification categories",
+  "notificationsSettingsPageInstitution": "From educational institution",
+  "notificationsSettingsPageInstitutionDescription": "Receive news and updates from your educational institution",
+  "scheduleSettingsFilteringPageSubgroupsInstruction": "Select the subgroups whose classes you want to see in your schedule. Disabled subgroups disappear from it immediately, while enabled ones reappear.",
+  "scheduleSettingsFilteringPageLessonsInstruction": "Select the classes you want to see in your schedule. Disabled classes disappear—along with all sessions sharing the same name and instructor—while enabled classes reappear.",
+  "scheduleFeatureHideLessonConfirmText": "The class \"{title}\" will be hidden from your schedule, along with all other classes with the same name and instructor.\n\nYou can restore its visibility in the app settings.",
+  "@scheduleFeatureHideLessonConfirmText": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      }
+    }
+  }
 }
