@@ -425,5 +425,19 @@
   "scheduleSettingsPageItemWeatherAddon": "Wetter im Stundenplan",
   "scheduleSettingsPageItemWeatherAddonDescription": "Eine kurze Wettervorhersage im Stundenplan",
   "settingsPageSectionFeaturesNotifications": "Benachrichtigungen",
-  "userProfilePageDeleteAccountAction": "Mein Konto löschen"
+  "userProfilePageDeleteAccountAction": "Mein Konto löschen",
+  "settingsPageSectionFeaturesNotificationsDescription": "Verwalte Benachrichtigungen aus der App und von deiner Bildungseinrichtung",
+  "notificationsSettingsPageNotificationCategories": "Benachrichtigungskategorien",
+  "notificationsSettingsPageInstitution": "Von deiner Bildungseinrichtung",
+  "notificationsSettingsPageInstitutionDescription": "Erhalte Nachrichten und Updates von deiner Bildungseinrichtung",
+  "scheduleSettingsFilteringPageSubgroupsInstruction": "Wähle die Untergruppen aus, deren Kurse du in deinem Stundenplan sehen möchtest. Deaktivierte Untergruppen verschwinden sofort aus dem Stundenplan, während aktivierte wieder angezeigt werden.",
+  "scheduleSettingsFilteringPageLessonsInstruction": "Wähle die Kurse aus, die du in deinem Stundenplan sehen möchtest. Deaktivierte Kurse verschwinden zusammen mit allen Kursen, die denselben Namen und denselben Lehrkraft haben, während aktivierte Kurse wieder angezeigt werden.",
+  "scheduleFeatureHideLessonConfirmText": "Der Kurs „{title}“ wird in Ihrem Stundenplan ausgeblendet zusammen mit allen Kursen, die denselben Namen und denselben Lehrkraft haben.\n\nDu kannst ihn in den App-Einstellungen wieder sichtbar machen.",
+  "@scheduleFeatureHideLessonConfirmText": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      }
+    }
+  }
 }
