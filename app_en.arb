@@ -337,7 +337,7 @@
   "scheduleFeatureLoadingErrorEmptyScheduleMessage": "University's out? Schedule still cooking? A whole week off? So many mysteries, so little time. Catch you back here later!",
   "scheduleFeatureLoadingErrorEntityNotFoundMessage": "Your group seems to have updated its name and code. This often happens at the start of a new academic year. Feel free to select another timetable in the settings below.",
   "scheduleFeatureLoadingErrorOnPreparationStageTitle": "Timetable coming soon",
-  "scheduleFeatureLoadingErrorOnPreparationStageMessage": "Your university hasn’t fully finished setting it up yet. Hang tight for a bit—in the meantime, follow us on social media!",
+  "scheduleFeatureLoadingErrorOnPreparationStageMessage": "Your university hasn't fully finished setting it up yet. Hang tight for a bit – in the meantime, follow us on social media!",
   "scheduleFeatureLoadingErrorServiceMaintenanceTitle": "Time to relax for a bit",
   "scheduleFeatureLoadingErrorUnknownErrorTitle": "We hit an unexpected snag",
   "scheduleFeatureLoadingErrorServiceMaintenanceMessage": "Your university's servers are down for maintenance, so the schedule is temporarily offline. Check back later – everything will be up and running!",
@@ -433,8 +433,8 @@
   "notificationsSettingsPageInstitution": "From educational institution",
   "notificationsSettingsPageInstitutionDescription": "Receive news and updates from your educational institution",
   "scheduleSettingsFilteringPageSubgroupsInstruction": "Select the subgroups whose classes you want to see in your schedule. Disabled subgroups disappear from it immediately, while enabled ones reappear.",
-  "scheduleSettingsFilteringPageLessonsInstruction": "Select the classes you want to see in your schedule. Disabled classes disappear—along with all sessions sharing the same name and instructor—while enabled classes reappear.",
-  "scheduleFeatureHideLessonConfirmText": "The class \"{title}\" will be hidden from your schedule, along with all other classes with the same name and instructor.\n\nYou can restore its visibility in the app settings.",
+  "scheduleSettingsFilteringPageLessonsInstruction": "Select the classes you want to see in your schedule. Disabled classes disappear – along with all other classes with the same name and instructor – while enabled classes reappear.",
+  "scheduleFeatureHideLessonConfirmText": "The class “{title}” will be hidden from your schedule, along with all other classes with the same name and instructor.\n\nYou can restore its visibility in the app settings.",
   "@scheduleFeatureHideLessonConfirmText": {
     "placeholders": {
       "title": {
