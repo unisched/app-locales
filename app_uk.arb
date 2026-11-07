@@ -200,6 +200,63 @@
   "notificationsSettingsPageNotificationCategories": "Категорії сповіщень",
   "notificationsSettingsPageInstitution": "Сповіщення закладу",
   "notificationsSettingsPageInstitutionDescription": "Отримуй новини та оновлення від свого закладу освіти",
+  "notificationsSettingsPageSectionScheduleReminders": "Нагадування про пари",
+  "notificationsSettingsPageItemLessonReminders": "Нагадувати про пари",
+  "notificationsSettingsPageItemLessonRemindersDescription": "Отримуй нагадування перед початком пари",
+  "notificationsSettingsPageItemLessonReminderOffset": "Перед кожною парою",
+  "notificationsSettingsPageItemFirstLessonReminderOffset": "Перед першою парою дня",
+  "notificationsSettingsPageItemLessonRemindersUnavailable": "Нагадування недоступні",
+  "notificationsSettingsPageItemLessonRemindersUnavailableDescription": "Увімкни сповіщення, фонове оновлення розкладу та обери розклад, щоб отримувати нагадування.",
+  "notificationsSettingsPageItemExactAlarmPermission": "Точні нагадування",
+  "notificationsSettingsPageItemExactAlarmPermissionDescription": "Дозволь точні будильники, щоб нагадування про пари приходили вчасно.",
+  "lessonReminderOffsetFiveMinutes": "За 5 хвилин",
+  "lessonReminderOffsetTenMinutes": "За 10 хвилин",
+  "lessonReminderOffsetPreviousLessonEnd": "Після попередньої пари",
+  "lessonReminderFirstLessonOffsetFiveMinutes": "За 5 хвилин",
+  "lessonReminderFirstLessonOffsetFifteenMinutes": "За 15 хвилин",
+  "lessonReminderFirstLessonOffsetThirtyMinutes": "За 30 хвилин",
+  "lessonReminderFirstLessonOffsetOneHour": "За 1 годину",
+  "lessonReminderFirstLessonOffsetTwoHours": "За 2 години",
+  "lessonReminderBodyBeforeLesson": "Через {minutes} хв · {time}",
+  "@lessonReminderBodyBeforeLesson": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      },
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "lessonReminderBodyFirstLesson": "Перша пара о {time}",
+  "@lessonReminderBodyFirstLesson": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "lessonReminderBodyPreviousLessonEnd": "Перерва закінчується · {time}",
+  "@lessonReminderBodyPreviousLessonEnd": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "lessonReminderLocationOnline": "Заняття відбудеться онлайн",
+  "lessonReminderLocationOffline": "Заняття відбудеться в {location}",
+  "@lessonReminderLocationOffline": {
+    "placeholders": {
+      "location": {
+        "type": "String"
+      }
+    }
+  },
+  "lessonReminderMultipleTitle": "Кілька занять",
+  "lessonReminderMultipleBody": "У цей час у тебе кілька занять. Перевір розклад і приховай зайві підгрупи або заняття в налаштуваннях.",
+  "lessonReminderChannelName": "Нагадування про пари",
+  "lessonReminderChannelDescription": "Сповіщення перед початком занять",
   "settingsPageSectionService": "Розширені налаштування",
   "settingsPageSectionServiceOpenSystemAppSettings": "Системні налаштування",
   "settingsPageSectionServiceOpenSystemAppSettingsDescription": "Швидко відкрий налаштування застосунку в системі, якщо це радить служба турботи",
