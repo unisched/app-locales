@@ -439,5 +439,18 @@
         "type": "String"
       }
     }
-  }
+  },
+  "scheduleSettingsPageItemBackgroundSyncPlatformNote": "So geht es",
+  "scheduleSyncIntervalEveryHour": "Jede Stunde",
+  "scheduleSyncIntervalEveryThreeHours": "Alle 3 Stunden",
+  "scheduleSyncIntervalEverySixHours": "Alle 6 Stunden",
+  "scheduleSyncIntervalEveryTwelveHours": "Alle 12 Stunden",
+  "scheduleSyncIntervalDaily": "Alle 24 Stunden",
+  "notificationsSettingsPageSectionScheduleReminders": "Erinnerungen an die Kurse",
+  "notificationsSettingsPageItemLessonReminders": "An die Kurse erinnern",
+  "notificationsSettingsPageItemLessonRemindersDescription": "Erhalte eine Erinnerung vor Beginn der Stunde",
+  "notificationsSettingsPageItemLessonReminderOffset": "Vor jeder Stunde",
+  "notificationsSettingsPageItemFirstLessonReminderOffset": "Vor der ersten Stunde des Tages",
+  "notificationsSettingsPageItemLessonRemindersUnavailable": "Erinnerungen sind nicht verfügbar",
+  "notificationsSettingsPageItemExactAlarmPermission": "Genaue Erinnerungen"
 }
