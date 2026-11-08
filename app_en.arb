@@ -441,5 +441,18 @@
         "type": "String"
       }
     }
-  }
+  },
+  "scheduleSyncIntervalEveryHour": "Every hour",
+  "scheduleSyncIntervalEveryThreeHours": "Every 3 hours",
+  "scheduleSyncIntervalEverySixHours": "Every 6 hours",
+  "scheduleSyncIntervalEveryTwelveHours": "Every 12 hours",
+  "scheduleSyncIntervalDaily": "Every 24 hours",
+  "scheduleSettingsPageItemBackgroundSyncPlatformNote": "How it works",
+  "notificationsSettingsPageSectionScheduleReminders": "Reminders about classes",
+  "notificationsSettingsPageItemLessonReminders": "Remind about classes",
+  "notificationsSettingsPageItemLessonRemindersDescription": "Get a reminder before class starts",
+  "notificationsSettingsPageItemLessonReminderOffset": "Before each class",
+  "notificationsSettingsPageItemFirstLessonReminderOffset": "Before the first class of the day",
+  "notificationsSettingsPageItemLessonRemindersUnavailable": "Reminders are not available",
+  "notificationsSettingsPageItemExactAlarmPermission": "Precise reminders"
 }
