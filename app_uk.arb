@@ -418,6 +418,14 @@
       }
     }
   },
+  "scheduleFeatureCalendarTodayDaySemantics": "Сьогодні, {date}",
+  "@scheduleFeatureCalendarTodayDaySemantics": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
   "scheduleFeatureNoScheduleForCurrentDayTitle": "Сьогодні твій розклад порожній",
   "scheduleFeatureNoScheduleForCurrentDayMessage": "Немає занять? Не біда! Проведи час з користю: відпочинь і наберися сил!",
   "scheduleFeatureNoScheduleForCurrentDayWeekendTitle": "Такий чудовий вихідний",
