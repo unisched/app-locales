@@ -453,5 +453,31 @@
   "notificationsSettingsPageItemFirstLessonReminderOffset": "Vor der ersten Stunde des Tages",
   "notificationsSettingsPageItemLessonRemindersUnavailable": "Erinnerungen sind nicht verfügbar",
   "notificationsSettingsPageItemExactAlarmPermission": "Genaue Erinnerungen",
-  "lessonReminderChannelName": "Erinnerungen an die Kurse"
+  "lessonReminderChannelName": "Erinnerungen an die Kurse",
+  "lessonReminderOffsetFiveMinutes": "In 5 Minuten",
+  "lessonReminderOffsetTenMinutes": "In 10 Minuten",
+  "lessonReminderFirstLessonOffsetFiveMinutes": "In 5 Minuten",
+  "lessonReminderFirstLessonOffsetFifteenMinutes": "In 15 Minuten",
+  "lessonReminderFirstLessonOffsetThirtyMinutes": "In 30 Minuten",
+  "lessonReminderFirstLessonOffsetOneHour": "In 1 Stunde",
+  "lessonReminderFirstLessonOffsetTwoHours": "In 2 Stunden",
+  "scheduleFeatureCalendarTodayDaySemantics": "Heute, {date}",
+  "@scheduleFeatureCalendarTodayDaySemantics": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "lessonReminderBodyBeforeLesson": "In {minutes} Min. · {time}",
+  "@lessonReminderBodyBeforeLesson": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      },
+      "time": {
+        "type": "String"
+      }
+    }
+  }
 }
