@@ -452,5 +452,6 @@
   "notificationsSettingsPageItemLessonReminderOffset": "Vor jeder Stunde",
   "notificationsSettingsPageItemFirstLessonReminderOffset": "Vor der ersten Stunde des Tages",
   "notificationsSettingsPageItemLessonRemindersUnavailable": "Erinnerungen sind nicht verfügbar",
-  "notificationsSettingsPageItemExactAlarmPermission": "Genaue Erinnerungen"
+  "notificationsSettingsPageItemExactAlarmPermission": "Genaue Erinnerungen",
+  "lessonReminderChannelName": "Erinnerungen an die Kurse"
 }
