@@ -455,5 +455,31 @@
   "notificationsSettingsPageItemFirstLessonReminderOffset": "Before the first class of the day",
   "notificationsSettingsPageItemLessonRemindersUnavailable": "Reminders are not available",
   "notificationsSettingsPageItemExactAlarmPermission": "Precise reminders",
-  "lessonReminderChannelName": "Class time"
+  "lessonReminderChannelName": "Class time",
+  "lessonReminderOffsetFiveMinutes": "In 5 minutes",
+  "lessonReminderOffsetTenMinutes": "In 10 minutes",
+  "lessonReminderFirstLessonOffsetFiveMinutes": "In 5 minutes",
+  "lessonReminderFirstLessonOffsetFifteenMinutes": "In 15 minutes",
+  "lessonReminderFirstLessonOffsetThirtyMinutes": "In 30 minutes",
+  "lessonReminderFirstLessonOffsetOneHour": "In 1 hour",
+  "lessonReminderFirstLessonOffsetTwoHours": "In 2 hours",
+  "scheduleFeatureCalendarTodayDaySemantics": "Today, {date}",
+  "@scheduleFeatureCalendarTodayDaySemantics": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "lessonReminderBodyBeforeLesson": "In {minutes} min · {time}",
+  "@lessonReminderBodyBeforeLesson": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      },
+      "time": {
+        "type": "String"
+      }
+    }
+  }
 }
