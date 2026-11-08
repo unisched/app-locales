@@ -439,5 +439,83 @@
   "notificationsSettingsPageNotificationCategories": "Tipos de notificaciones",
   "notificationsSettingsPageInstitution": "Notificaciones del centro",
   "notificationsSettingsPageInstitutionDescription": "Recibe noticias y actualizaciones de tu centro educativo",
-  "userProfilePageDeleteAccountAction": "Eliminar cuenta"
+  "userProfilePageDeleteAccountAction": "Eliminar cuenta",
+  "notificationsSettingsPageSectionScheduleReminders": "¡A clase!",
+  "notificationsSettingsPageItemLessonReminders": "Activar recordatorios de clases",
+  "notificationsSettingsPageItemLessonRemindersDescription": "Recibe avisos antes de cada clase",
+  "notificationsSettingsPageItemLessonReminderOffset": "Antes de cada clase",
+  "notificationsSettingsPageItemFirstLessonReminderOffset": "Antes de empezar el día",
+  "notificationsSettingsPageItemLessonRemindersUnavailable": "Sin avisos",
+  "notificationsSettingsPageItemLessonRemindersUnavailableDescription": "Activa las notificaciones y el segundo plano, y elige un horario para recibir los avisos.",
+  "notificationsSettingsPageItemExactAlarmPermission": "Alertas exactas",
+  "notificationsSettingsPageItemExactAlarmPermissionDescription": "Autoriza las alarmas exactas para recibir tus recordatorios a tiempo.",
+  "lessonReminderOffsetFiveMinutes": "5 minutos antes",
+  "lessonReminderOffsetTenMinutes": "10 minutos antes",
+  "lessonReminderOffsetPreviousLessonEnd": "Después de la clase anterior",
+  "lessonReminderFirstLessonOffsetFiveMinutes": "5 minutos antes",
+  "lessonReminderFirstLessonOffsetFifteenMinutes": "15 minutos antes",
+  "lessonReminderFirstLessonOffsetThirtyMinutes": "30 minutos antes",
+  "lessonReminderFirstLessonOffsetOneHour": "1 hora antes",
+  "lessonReminderFirstLessonOffsetTwoHours": "2 horas antes",
+  "lessonReminderBodyBeforeLesson": "En {minutes} min · {time}",
+  "@lessonReminderBodyBeforeLesson": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      },
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "lessonReminderBodyFirstLesson": "1ª clase a las {time}",
+  "@lessonReminderBodyFirstLesson": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "lessonReminderBodyPreviousLessonEnd": "El descanso termina a las {time}",
+  "@lessonReminderBodyPreviousLessonEnd": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "lessonReminderLocationOnline": "Clase online",
+  "lessonReminderLocationOffline": "La clase será en {location}",
+  "@lessonReminderLocationOffline": {
+    "placeholders": {
+      "location": {
+        "type": "String"
+      }
+    }
+  },
+  "lessonReminderMultipleTitle": "Varias clases",
+  "lessonReminderMultipleBody": "Coinciden varias clases a esta hora. Échale un vistazo a tu horario y oculta las materias o subgrupos que te sobren en los ajustes.",
+  "lessonReminderChannelName": "¡A clase!",
+  "lessonReminderChannelDescription": "Notificar antes de clase",
+  "scheduleSettingsPageSectionBackgroundSync": "Actualizar en segundo plano",
+  "scheduleSettingsPageItemBackgroundSync": "Actualizar horario en segundo plano",
+  "scheduleSettingsPageItemBackgroundSyncDescription": "Descargar el horario en segundo plano para abrirlo más rápido y usarlo sin conexión",
+  "scheduleSettingsPageItemBackgroundSyncInterval": "Actualizar cada...",
+  "scheduleSyncIntervalEveryHour": "Cada hora",
+  "scheduleSyncIntervalEveryThreeHours": "Cada 3 horas",
+  "scheduleSyncIntervalEverySixHours": "Cada 6 horas",
+  "scheduleSyncIntervalEveryTwelveHours": "Cada 12 horas",
+  "scheduleSyncIntervalDaily": "Cada 24 horas",
+  "scheduleSettingsPageItemCacheFavorites": "Guardar en caché los horarios favoritos",
+  "scheduleSettingsPageItemCacheFavoritesDescription": "Ideal si estudias varias especialidades",
+  "scheduleSettingsPageItemBackgroundSyncPlatformNote": "Instrucciones",
+  "scheduleSettingsPageItemBackgroundSyncPlatformNoteDescription": "iOS decide cuándo actualizar en segundo plano; por eso, puede ocurrir con menos frecuencia de la que has elegido",
+  "scheduleFeatureCalendarTodayDaySemantics": "Hoy, {date}",
+  "@scheduleFeatureCalendarTodayDaySemantics": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  }
 }
