@@ -454,5 +454,6 @@
   "notificationsSettingsPageItemLessonReminderOffset": "Before each class",
   "notificationsSettingsPageItemFirstLessonReminderOffset": "Before the first class of the day",
   "notificationsSettingsPageItemLessonRemindersUnavailable": "Reminders are not available",
-  "notificationsSettingsPageItemExactAlarmPermission": "Precise reminders"
+  "notificationsSettingsPageItemExactAlarmPermission": "Precise reminders",
+  "lessonReminderChannelName": "Class time"
 }
