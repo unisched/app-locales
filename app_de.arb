@@ -481,5 +481,13 @@
     }
   },
   "userBottomSheetActionVoteForFeatures": "Stimme für neue Funktionen ab",
-  "scheduleSettingsPageItemCacheFavorites": "Ausgewählte Stundenpläne zwischenspeichern"
+  "scheduleSettingsPageItemCacheFavorites": "Ausgewählte Stundenpläne zwischenspeichern",
+  "scheduleFeatureWeekSelectorSemantics": "Woche {range}",
+  "@scheduleFeatureWeekSelectorSemantics": {
+    "placeholders": {
+      "range": {
+        "type": "String"
+      }
+    }
+  }
 }
