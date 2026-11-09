@@ -498,5 +498,13 @@
   },
   "lessonReminderMultipleTitle": "A few classes",
   "lessonReminderMultipleBody": "You have several classes at this time. Check your schedule and hide unnecessary classes in the settings.",
-  "lessonReminderChannelDescription": "Notifications before the start of classes"
+  "lessonReminderChannelDescription": "Notifications before the start of classes",
+  "scheduleFeatureWeekSelectorSemantics": "Week {range}",
+  "@scheduleFeatureWeekSelectorSemantics": {
+    "placeholders": {
+      "range": {
+        "type": "String"
+      }
+    }
+  }
 }
