@@ -483,5 +483,20 @@
     }
   },
   "userBottomSheetActionVoteForFeatures": "Vote for new features",
-  "scheduleSettingsPageItemCacheFavorites": "Cache favorite class schedules"
+  "scheduleSettingsPageItemCacheFavorites": "Cache favorite class schedules",
+  "notificationsSettingsPageItemLessonRemindersUnavailableDescription": "Enable notifications and background schedule updates, and select a schedule to receive reminders.",
+  "notificationsSettingsPageItemExactAlarmPermissionDescription": "Give us exact alarms permission so that reminders about classes arrive on time.",
+  "lessonReminderOffsetPreviousLessonEnd": "After the previous class",
+  "lessonReminderLocationOnline": "The class will take place online",
+  "lessonReminderLocationOffline": "The class will take place at {location}",
+  "@lessonReminderLocationOffline": {
+    "placeholders": {
+      "location": {
+        "type": "String"
+      }
+    }
+  },
+  "lessonReminderMultipleTitle": "A few classes",
+  "lessonReminderMultipleBody": "You have several classes at this time. Check your schedule and hide unnecessary classes in the settings.",
+  "lessonReminderChannelDescription": "Notifications before the start of classes"
 }
