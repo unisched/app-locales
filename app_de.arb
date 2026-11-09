@@ -479,5 +479,7 @@
         "type": "String"
       }
     }
-  }
+  },
+  "userBottomSheetActionVoteForFeatures": "Stimme für neue Funktionen ab",
+  "scheduleSettingsPageItemCacheFavorites": "Ausgewählte Stundenpläne zwischenspeichern"
 }
