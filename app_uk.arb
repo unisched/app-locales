@@ -518,5 +518,18 @@
   "avatarBottomSheetDownloadAction": "Завантажити",
   "avatarBottomSheetDownloadActionSuccess": "Ура! Твій аватар вже в галереї",
   "avatarBottomSheetDownloadActionError": "Неможливо завантажити аватар, зверніться до служби турботи",
-  "biometricShieldServiceSimpleAuthPrompt": "Підтверди свою особу, щоб розблокувати застосунок"
+  "biometricShieldServiceSimpleAuthPrompt": "Підтверди свою особу, щоб розблокувати застосунок",
+  "scheduleSettingsPageItemDefaultScheduleView": "Улюблений вигляд розкладу",
+  "scheduleFeatureViewModeDay": "Розклад на день",
+  "scheduleFeatureViewModeWeek": "Розклад на тиждень",
+  "scheduleFeatureViewModeShowWeek": "Показати тиждень",
+  "scheduleFeatureViewModeShowDay": "Показати день",
+  "scheduleFeatureWeekSelectorSemantics": "Тиждень {range}",
+  "@scheduleFeatureWeekSelectorSemantics": {
+    "placeholders": {
+      "range": {
+        "type": "String"
+      }
+    }
+  }
 }
