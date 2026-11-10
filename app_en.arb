@@ -485,7 +485,7 @@
   "userBottomSheetActionVoteForFeatures": "Vote for new features",
   "scheduleSettingsPageItemCacheFavorites": "Cache favorite class schedules",
   "notificationsSettingsPageItemLessonRemindersUnavailableDescription": "Enable notifications and background schedule updates, and select a schedule to receive reminders.",
-  "notificationsSettingsPageItemExactAlarmPermissionDescription": "Give us exact alarms permission so that reminders about classes arrive on time.",
+  "notificationsSettingsPageItemExactAlarmPermissionDescription": "Grant permission for precise alarms so that reminders about classes arrive on time.",
   "lessonReminderOffsetPreviousLessonEnd": "After the previous class",
   "lessonReminderLocationOnline": "The class will take place online",
   "lessonReminderLocationOffline": "The class will take place at {location}",
