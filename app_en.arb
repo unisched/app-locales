@@ -506,5 +506,13 @@
         "type": "String"
       }
     }
+  },
+  "lessonReminderBodyFirstLesson": "First class at {time}",
+  "@lessonReminderBodyFirstLesson": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
   }
 }
