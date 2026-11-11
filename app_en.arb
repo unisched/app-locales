@@ -455,7 +455,7 @@
   "notificationsSettingsPageItemFirstLessonReminderOffset": "Before the first class of the day",
   "notificationsSettingsPageItemLessonRemindersUnavailable": "Reminders are not available",
   "notificationsSettingsPageItemExactAlarmPermission": "Precise reminders",
-  "lessonReminderChannelName": "Class time",
+  "lessonReminderChannelName": "Off to class",
   "lessonReminderOffsetFiveMinutes": "In 5 minutes",
   "lessonReminderOffsetTenMinutes": "In 10 minutes",
   "lessonReminderFirstLessonOffsetFiveMinutes": "In 5 minutes",
@@ -514,5 +514,24 @@
         "type": "String"
       }
     }
-  }
+  },
+  "lessonReminderBodyPreviousLessonEnd": "Study break ending · {time}",
+  "@lessonReminderBodyPreviousLessonEnd": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "scheduleSettingsPageSectionBackgroundSync": "Background sync",
+  "scheduleSettingsPageItemBackgroundSync": "Update the main class schedule in the background",
+  "scheduleSettingsPageItemBackgroundSyncDescription": "Periodically download the latest schedule so it opens faster and is available offline",
+  "scheduleSettingsPageItemBackgroundSyncInterval": "Sync frequency",
+  "scheduleSettingsPageItemCacheFavoritesDescription": "Useful if you are studying in several specializations",
+  "scheduleSettingsPageItemBackgroundSyncPlatformNoteDescription": "iOS decides for itself when to run background updates, so they may occur less frequently than the selected interval",
+  "scheduleSettingsPageItemDefaultScheduleView": "Preferred schedule view",
+  "scheduleFeatureViewModeDay": "Daily schedule",
+  "scheduleFeatureViewModeWeek": "Weekly schedule",
+  "scheduleFeatureViewModeShowWeek": "Show week",
+  "scheduleFeatureViewModeShowDay": "Show day"
 }
