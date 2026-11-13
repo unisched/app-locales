@@ -489,5 +489,42 @@
         "type": "String"
       }
     }
-  }
+  },
+  "homePageUniversityTabVideoCardSemantics": "{title}. Autor: {author}. Erscheinungsdatum: {published}",
+  "@homePageUniversityTabVideoCardSemantics": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      },
+      "author": {
+        "type": "String"
+      },
+      "published": {
+        "type": "String"
+      }
+    }
+  },
+  "eventsFeedComponentCardSemantics": "{title}. Ort: {location}. Datum: {date}",
+  "@eventsFeedComponentCardSemantics": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      },
+      "location": {
+        "type": "String"
+      },
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "lessonReminderBodyFirstLesson": "Erste Stunde um {time}",
+  "@lessonReminderBodyFirstLesson": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "lessonReminderOffsetPreviousLessonEnd": "Nach der vorherigen Stunde"
 }
