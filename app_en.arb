@@ -533,5 +533,33 @@
   "scheduleFeatureViewModeDay": "Daily schedule",
   "scheduleFeatureViewModeWeek": "Weekly schedule",
   "scheduleFeatureViewModeShowWeek": "Show week",
-  "scheduleFeatureViewModeShowDay": "Show day"
+  "scheduleFeatureViewModeShowDay": "Show day",
+  "eventsFeedComponentCardSemantics": "{title}. Location: {location}. Date: {date}",
+  "@eventsFeedComponentCardSemantics": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      },
+      "location": {
+        "type": "String"
+      },
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "homePageUniversityTabVideoCardSemantics": "{title}. Author: {author}. Published: {published}",
+  "@homePageUniversityTabVideoCardSemantics": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      },
+      "author": {
+        "type": "String"
+      },
+      "published": {
+        "type": "String"
+      }
+    }
+  }
 }
