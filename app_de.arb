@@ -353,7 +353,7 @@
   "generalOpenLink": "Folge dem Link",
   "scheduleFeatureLessonWidgetLinkComment": "Anmerkungen zum Link",
   "scheduleFeatureLessonWidgetReplacement": "Es gibt Änderungen im Stundenplan",
-  "scheduleFeatureLessonWidgetHalfPair": "Teilanwesenheit {halfPair}",
+  "scheduleFeatureLessonWidgetHalfPair": "{halfPair} Einzelstunde",
   "@scheduleFeatureLessonWidgetHalfPair": {
     "placeholders": {
       "halfPair": {
