@@ -534,6 +534,7 @@
   "scheduleFeatureViewModeWeek": "Weekly schedule",
   "scheduleFeatureViewModeShowWeek": "Show week",
   "scheduleFeatureViewModeShowDay": "Show day",
+  "scheduleFeatureAnnouncementDismiss": "Dismiss announcement",
   "eventsFeedComponentCardSemantics": "{title}. Location: {location}. Date: {date}",
   "@eventsFeedComponentCardSemantics": {
     "placeholders": {

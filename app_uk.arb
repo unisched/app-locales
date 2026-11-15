@@ -552,6 +552,7 @@
   "scheduleFeatureViewModeWeek": "Розклад на тиждень",
   "scheduleFeatureViewModeShowWeek": "Показати тиждень",
   "scheduleFeatureViewModeShowDay": "Показати день",
+  "scheduleFeatureAnnouncementDismiss": "Приховати оголошення",
   "scheduleFeatureWeekSelectorSemantics": "Тиждень {range}",
   "@scheduleFeatureWeekSelectorSemantics": {
     "placeholders": {
