@@ -202,6 +202,8 @@
   "settingsPageSectionAppearanceThemeModeChoice": "Вибір теми",
   "settingsPageSectionAppearanceThemeModeChoiceLight": "Світла",
   "settingsPageSectionAppearanceThemeModeChoiceDark": "Темна",
+  "settingsPageSectionAppearanceGlassEffects": "Ефекти скла",
+  "settingsPageSectionAppearanceGlassEffectsDescription": "Керуй розмиттям та прозорістю інтерфейсу застосунку",
   "settingsPageSectionAppearanceCompactMode": "Компактний режим",
   "settingsPageSectionAppearanceCompactModeDescription": "Дозволяє зменшити завеликі розміри елементів інтерфейсу",
   "settingsPageSectionAppearanceDefaultHomeTab": "Домашня сторінка",
