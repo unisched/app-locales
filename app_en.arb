@@ -562,5 +562,7 @@
         "type": "String"
       }
     }
-  }
+  },
+  "settingsPageSectionAppearanceGlassEffects": "Glass effects",
+  "settingsPageSectionAppearanceGlassEffectsDescription": "Control the blur and transparency of the app interface"
 }
