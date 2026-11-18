@@ -540,7 +540,7 @@
   "userBottomSheetActionSettings": "Налаштування",
   "userBottomSheetActionVoteForFeatures": "Голосуй за нові функції",
   "avatarBottomSheetCaption": "Це твій унікальний аватар від Unisched",
-  "avatarBottomSheetDescription": "Він створений нами на основі твоїх даних, за відкритим алгоритмом BoringAvatars™ Beam.",
+  "avatarBottomSheetDescription": "Він створений нами на основі твоїх даних за допомогою відкритого алгоритму BoringAvatars™.",
   "avatarBottomSheetShareAction": "Поділитися",
   "avatarBottomSheetShareActionError": "Неможливо поділитися аватаром, зверніться до служби турботи",
   "avatarBottomSheetShareTitle": "Мій аватар в Unisched",
